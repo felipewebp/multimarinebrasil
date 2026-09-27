@@ -40,6 +40,51 @@ async function reader(url) {
   return res.text();
 }
 
+
+const CURATED_IMAGES = {
+  "almoxarife-48h":"https://www.grupomegabox.com.br/imagens_megabox/hero-1.jpg",
+  "curso-de-conhecimentos-basicos-sobre-logistica-distribuicao-e-transporte-de-cargas-30h":"https://images.pexels.com/photos/5100048/pexels-photo-5100048.jpeg?auto=compress&cs=tinysrgb&w=1600",
+  "curso-instrutor-de-empilhadeira-e-transpaleteira":"https://images.pexels.com/photos/5100049/pexels-photo-5100049.jpeg?auto=compress&cs=tinysrgb&w=1600",
+  "nr-11-empilhadeira":"https://images.pexels.com/photos/5100048/pexels-photo-5100048.jpeg?auto=compress&cs=tinysrgb&w=1600",
+  "curso-de-mecanica-industrial-60h":"https://cdn.shopify.com/s/files/1/0597/2511/9675/files/Industrial_Machinery_Mechanic.jpg?v=1679419245",
+  "mecanica-industrial-40h":"https://s0.rbk.ru/rbcplus_pics/media/img/7/09/296183825744097.jpg",
+  "curso-robo-mecanico-industrial":"https://cdn.shopify.com/s/files/1/0597/2511/9675/files/Industrial_Machinery_Mechanic.jpg?v=1679419245",
+  "curso-alinhamento-acoplamentos":"https://s0.rbk.ru/rbcplus_pics/media/img/7/09/296183825744097.jpg",
+  "curso-pintura-industrial-200h":"https://commons.wikimedia.org/wiki/Special:FilePath/Diego_Garcia_Safety_Fair_2021_(6694263).jpg",
+  "curso-inspecao-soldagem-polietileno":"https://commons.wikimedia.org/wiki/Special:FilePath/NAVSCIATTS%27_Students_Learn_Welding_Techniques_160818-N-JK586-001.jpg",
+  "curso-solda-aluminotermica-exotermica-16h":"https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg",
+  "inspecao-de-solda":"https://commons.wikimedia.org/wiki/Special:FilePath/NAVSCIATTS%27_Students_Learn_Welding_Techniques_160818-N-JK586-001.jpg",
+  "curso-de-guindaste-120h":"https://commons.wikimedia.org/wiki/Special:FilePath/NMCB-5_Equipment_Operator_Conducts_Crane_Familiarization_Training_(9878736).jpg",
+  "curso-instrutor-de-ponte-rolante-talha-e-monovias":"https://commons.wikimedia.org/wiki/Special:FilePath/NMCB-5_Equipment_Operator_Conducts_Crane_Familiarization_Training_(9878736).jpg",
+  "curso-operador-ponte-rolante":"https://commons.wikimedia.org/wiki/Special:FilePath/NMCB-5_Equipment_Operator_Conducts_Crane_Familiarization_Training_(9878736).jpg",
+  "curso-operador-de-talha-eletrica":"https://commons.wikimedia.org/wiki/Special:FilePath/NMCB-5_Equipment_Operator_Conducts_Crane_Familiarization_Training_(9878736).jpg",
+  "curso-de-nr-10":"https://www.delmar.edu/degrees/electrician/_images/electrician-masked.jpeg",
+  "curso-nr-10-nivel-basico":"https://images.pexels.com/photos/21812143/pexels-photo-21812143.jpeg?auto=compress&cs=tinysrgb&w=1600",
+  "treinamento-de-instalacoes-eletricas-energizadas":"https://images.pexels.com/photos/10871737/pexels-photo-10871737.jpeg?auto=compress&cs=tinysrgb&w=1600",
+  "curso-de-nr-12-anexo-02-e-09":"https://cdn.shopify.com/s/files/1/0597/2511/9675/files/Industrial_Machinery_Mechanic.jpg?v=1679419245",
+  "curso-nr-12-nivel-basico":"https://cdn.shopify.com/s/files/1/0597/2511/9675/files/Industrial_Machinery_Mechanic.jpg?v=1679419245",
+  "curso-de-nr-20-seguranca-e-saude-no-trabalho-com-inflamaveis-e-combustiveis-40h":"https://commons.wikimedia.org/wiki/Special:FilePath/MWSS-172_practices_firefighting_skills_in_Central_Training_Area_(9795764).jpg",
+  "curso-de-nr-23-protecao-contra-incendios-40h":"https://commons.wikimedia.org/wiki/Special:FilePath/MWSS-172_practices_firefighting_skills_in_Central_Training_Area_(9795736).jpg",
+  "curso-de-nr33-seguranca-e-saude-no-trabalho-em-espacos-confinados-40h":"https://relyon.com/images/zgIAAEgAAABVAAAA0QAAAIoCAACKAgAA.webp",
+  "curso-nova-nr-35":"https://viendaotao.vn/wp-content/uploads/2024/06/image2-1.png",
+  "nr-37-60h":"https://molgroup.info/images/site/mgio/about/company-overview-parallax.jpg",
+  "curso-de-petroleo-e-gas-20h":"https://molgroup.info/images/site/mgio/about/company-overview-parallax.jpg",
+  "plataformista-40h":"https://www.ilrestodelcarlino.it/image-service/version/c%3AMzY5YzgyNWEtNjRmMC00%3ANGUxNTEx/ravenna-ccs-hub-il-progetto-di-eni-e-snam-per-una-filiera-italiana-nella-decarbonizzazione.webp?f=16%3A9&q=1&w=1560",
+  "curso-lei-lucas-primeiros-socorros":"https://commons.wikimedia.org/wiki/Special:FilePath/Basic_first_aid_training_130219-N-PF210-358.jpg",
+  "treinamento-primeiros-socorros":"https://commons.wikimedia.org/wiki/Special:FilePath/Paramedic_training_in_Telangana_Rebellion.jpg",
+  "treinamento-primeiros-socorros-2":"https://commons.wikimedia.org/wiki/Special:FilePath/Basic_first_aid_training_130219-N-PF210-358.jpg",
+  "curso-de-nocoes-basicas-em-maqueiro-40h":"https://commons.wikimedia.org/wiki/Special:FilePath/Paramedic_training_in_Telangana_Rebellion.jpg",
+  "curso-de-tecnicas-de-coleta-de-sangue-60h":"https://www.improve-medical.net/resources-31/Educational-Requirements-and-Career-Path-for-Phlebotomists-in-the-United-States",
+  "capacitacao-em-imunizacao-da-teoria-a-pratica":"https://www.saneikai-hp.jp/data/media/blog252.jpg",
+  "atendimento-humanizado-na-saude":"https://www.saneikai-hp.jp/data/media/blog252.jpg",
+  "curso-de-cozinheiro-taifeiro-60h":"https://commons.wikimedia.org/wiki/Special:FilePath/Kitchen_training_150915-N-MI079-001.jpg",
+  "recepcionista-de-hotel-25h":"https://commons.wikimedia.org/wiki/Special:FilePath/Kitchen_training_150915-N-MI079-001.jpg",
+  "administracoes-de-hoteis-45h":"https://commons.wikimedia.org/wiki/Special:FilePath/Kitchen_training_150915-N-MI079-001.jpg",
+  "assistente-administrativo":"https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png",
+  "atendimento-ao-publico-40h":"https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png",
+  "curso-de-auxiliar-de-servicos-gerais-40h":"https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+};
+
 function pickImage(course) {
   const s = clean((course.name || "") + " " + (course.description || "")).toLowerCase();
   const pools = {
@@ -146,7 +191,7 @@ for (const course of list) {
     const price = (md.match(/R\$\s*[0-9.]+(?:,[0-9]{2})?/i) || [])[0] || "";
 
     course.name = clean(h1 || course.name).replace(/\s*[|–-]\s*MultiMarine.*$/i, "").trim();
-    course.image = pickImage(course);
+    course.image = CURATED_IMAGES[course.slug] || pickImage(course);
     course.description = description;
     course.hours = hours;
     course.price = price;
