@@ -21,3 +21,5 @@
   .site-footer{margin-top:45px}
 }
 @media(max-width:390px){.facts{grid-template-columns:1fr}.hero h1{font-size:38px}}
+
+.brand-mm{display:inline-flex;align-items:center}.lp-back.brand-mm{gap:16px}.lp-back .brand-logo-mm{width:190px;max-height:44px}.back-text{font-size:10px;font-weight:800;letter-spacing:.1em;color:#0568bf}@media(max-width:600px){.lp-back.brand-mm{gap:10px}.lp-back .brand-logo-mm{width:150px;max-height:38px}.back-text{font-size:8px}}
