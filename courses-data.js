@@ -69,7 +69,7 @@
     "name": "Avaliação Sistema Amônia",
     "url": "https://multimarinedobrasil.com.br/product/avaliacao-sistema-amonia/",
     "slug": "avaliacao-sistema-amonia",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "Básico em Prevenção de Cárie Dentária e Doença Periodontal",
@@ -99,19 +99,19 @@
     "name": "Como Ministrar Curso Espaços Confinados",
     "url": "https://multimarinedobrasil.com.br/product/como-ministrar-curso-espacos-confinados/",
     "slug": "como-ministrar-curso-espacos-confinados",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Consultoria NR 29",
     "url": "https://multimarinedobrasil.com.br/product/consultoria-nr-29/",
     "slug": "consultoria-nr-29",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Curso Acidente Trânsito Produtos Perigosos",
     "url": "https://multimarinedobrasil.com.br/product/curso-acidente-transito-produtos-perigosos/",
     "slug": "curso-acidente-transito-produtos-perigosos",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg"
   },
   {
     "name": "Curso Alinhamento Acoplamentos",
@@ -138,7 +138,7 @@
     "name": "Curso Atmosfera Explosiva EX001",
     "url": "https://multimarinedobrasil.com.br/product/curso-atmosfera-explosiva-ex001/",
     "slug": "curso-atmosfera-explosiva-ex001",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "Curso Básico Trabalho Inflamáveis Combustíveis",
@@ -156,7 +156,7 @@
     "name": "Curso Borracharia",
     "url": "https://multimarinedobrasil.com.br/product/curso-borracharia/",
     "slug": "curso-borracharia",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Curso Caldeira Autoclaves",
@@ -174,7 +174,7 @@
     "name": "Curso Comandos hidráulicos",
     "url": "https://multimarinedobrasil.com.br/product/curso-comandos-hidraulicos/",
     "slug": "curso-comandos-hidraulicos",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg"
   },
   {
     "name": "Curso como Elaborar Laudo de Tubulações PRFV",
@@ -192,19 +192,19 @@
     "name": "Curso Como Elaborar Relatório de Inspeção Predial",
     "url": "https://multimarinedobrasil.com.br/product/curso-como-elaborar-relatorio-de-inspecao-predial/",
     "slug": "curso-como-elaborar-relatorio-de-inspecao-predial",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "Curso Como Projetar Para-raios",
     "url": "https://multimarinedobrasil.com.br/product/curso-como-projetar-para-raios/",
     "slug": "curso-como-projetar-para-raios",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "Curso Compliance Riscos Controles",
     "url": "https://multimarinedobrasil.com.br/product/curso-compliance-riscos-controles/",
     "slug": "curso-compliance-riscos-controles",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png",
     "description": "Qual é o Objetivo do Curso Aprimoramento para Compliance – Gestão de Riscos e Controles Internos? O objetivo deste Curso Aprimoramento para Compliance – Gestão de Riscos e Controles Internos é capacitar profissionais de Compliance e aqueles que desejam ingressar na área, fornecendo conhecimento abrangente sobre as práticas de gestão de riscos e controles internos, além de promover a compreensão das regulamentações e melhores práticas relacionadas ao Compliance. O que é uma Matriz de Riscos e como ela é usada na Gestão de Riscos? Uma matriz de riscos é uma ferramenta que ajuda a identificar e classificar riscos de acordo com sua probabilidade e impacto. Sendo utilizada na gestão de riscos para priorizar os riscos, permitindo que as organizações concentrem seus esforços na mitigação dos riscos mais críticos. Quais são os principais componentes de um Programa de Controles Internos Eficaz? Um Programa de Controles Internos Eficaz inclui os seguintes componentes: Ambiente de controle; Avaliação de riscos; Atividades de controle; Informação e comunicação; Monitoramento e revisão. Qual é a diferença entre Conformidade Legal e Conformidade Regulatória? A Conformidade Legal refere-se ao cumprimento das leis e regulamentos aplicáveis, enquanto a Conformidade Regulatória é específica para o cumprimento das regulamentações impostas por uma autoridade regulatória ou órgão governamental. Certificado Carga horária: 40 Horas Pré-Requisitos: Nível Técnico",
     "hours": "40 Horas",
     "price": ""
@@ -213,7 +213,7 @@
     "name": "Curso Controle Emissões Fugitivas",
     "url": "https://multimarinedobrasil.com.br/product/curso-controle-emissoes-fugitivas/",
     "slug": "curso-controle-emissoes-fugitivas",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "Curso Correia Transportadora",
@@ -231,13 +231,13 @@
     "name": "Curso Cuidado com as Mãos",
     "url": "https://multimarinedobrasil.com.br/product/curso-cuidado-com-as-maos/",
     "slug": "curso-cuidado-com-as-maos",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "Curso de Auxiliar de Serviços Gerais 40h",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-auxiliar-de-servicos-gerais-40h/",
     "slug": "curso-de-auxiliar-de-servicos-gerais-40h",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "Curso de CONHECIMENTOS BÁSICOS SOBRE LOGÍSTICA, DISTRIBUIÇÃO E TRANSPORTE DE CARGAS 30h",
@@ -255,13 +255,13 @@
     "name": "Curso de Eficiência Energética",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-eficiencia-energetica/",
     "slug": "curso-de-eficiencia-energetica",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "Curso de Formação de Instrutor para Treinamento 16H",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-formacao-de-instrutor-para-treinamento-16h/",
     "slug": "curso-de-formacao-de-instrutor-para-treinamento-16h",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg"
   },
   {
     "name": "Curso de Guindaste 120h",
@@ -273,7 +273,7 @@
     "name": "Curso de Instrutor NR 20",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-instrutor-nr-20/",
     "slug": "curso-de-instrutor-nr-20",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "Curso de Mecânica Industrial 60h",
@@ -318,19 +318,19 @@
     "name": "Curso de NR 08 – Edificações 40h",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-nr-08-edificacoes-40h/",
     "slug": "curso-de-nr-08-edificacoes-40h",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "Curso de NR 10",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-nr-10/",
     "slug": "curso-de-nr-10",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "Curso de NR 10 + Curso de NR 35",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-nr-10-curso-de-nr-35/",
     "slug": "curso-de-nr-10-curso-de-nr-35",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "Curso de NR 11 – Transporte, Movimentação, Armazenagem e Manuseio de Materiais 40h",
@@ -348,7 +348,7 @@
     "name": "Curso de NR 18 – Condições e Meio Ambiente de Trabalho na Indústria da Construção 40h",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-nr-18-condicoes-e-meio-ambiente-de-trabalho-na-industria-da-construcao-40h/",
     "slug": "curso-de-nr-18-condicoes-e-meio-ambiente-de-trabalho-na-industria-da-construcao-40h",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Curso de NR 20 – Segurança e Saúde no Trabalho com Inflamáveis e Combustíveis 40h",
@@ -369,7 +369,7 @@
     "name": "Curso de NR 34 – Condições e Meio Ambiente de Trabalho na Indústria da Construção, Reparação e Desmonte Naval 40h",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-nr-34-condicoes-e-meio-ambiente-de-trabalho-na-industria-da-construcao-reparacao-e-desmonte-naval-40h/",
     "slug": "curso-de-nr-34-condicoes-e-meio-ambiente-de-trabalho-na-industria-da-construcao-reparacao-e-desmonte-naval-40h",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "Curso de NR 37 – Segurança e Saúde em Plataformas de Petróleo 60h",
@@ -399,25 +399,25 @@
     "name": "Curso de Técnicas de Coleta de Sangue 60h",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-tecnicas-de-coleta-de-sangue-60h/",
     "slug": "curso-de-tecnicas-de-coleta-de-sangue-60h",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg"
   },
   {
     "name": "CURSO DE TESTE DE GÁS E H²S – 12H",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-teste-de-gas-e-h%c2%b2s-12h/",
     "slug": "curso-de-teste-de-gas-e-h%c2%b2s-12h",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "Curso Desinsetização e Desratização",
     "url": "https://multimarinedobrasil.com.br/product/curso-desinsetizacao-e-desratizacao/",
     "slug": "curso-desinsetizacao-e-desratizacao",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "Curso Elaboração de Projeto de Biogás",
     "url": "https://multimarinedobrasil.com.br/product/curso-elaboracao-de-projeto-de-biogas/",
     "slug": "curso-elaboracao-de-projeto-de-biogas",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "Curso Elétrica Automotiva",
@@ -438,7 +438,7 @@
     "name": "Curso Equipamento Automotivo Combinado",
     "url": "https://multimarinedobrasil.com.br/product/curso-equipamento-automotivo-combinado/",
     "slug": "curso-equipamento-automotivo-combinado",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "Curso Extração Petróleo Intermediário",
@@ -450,13 +450,13 @@
     "name": "Curso Facility Management (FM)",
     "url": "https://multimarinedobrasil.com.br/product/curso-facility-management-fm/",
     "slug": "curso-facility-management-fm",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "Curso Fit Test Máscaras",
     "url": "https://multimarinedobrasil.com.br/product/curso-fit-test-mascaras/",
     "slug": "curso-fit-test-mascaras",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "Curso Formação de Gestor em Segurança contra Incêndio",
@@ -474,13 +474,13 @@
     "name": "Curso Fresadora de Asfalto 16h",
     "url": "https://multimarinedobrasil.com.br/product/curso-fresadora-de-asfalto-16h/",
     "slug": "curso-fresadora-de-asfalto-16h",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Curso Impermeabilização de Tecidos",
     "url": "https://multimarinedobrasil.com.br/product/curso-impermeabilizacao-de-tecidos/",
     "slug": "curso-impermeabilizacao-de-tecidos",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "Curso Inspeção Soldagem Polietileno",
@@ -498,7 +498,7 @@
     "name": "Curso Instalação Predial de Água Fria",
     "url": "https://multimarinedobrasil.com.br/product/curso-instalacao-predial-de-agua-fria/",
     "slug": "curso-instalacao-predial-de-agua-fria",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg"
   },
   {
     "name": "Curso Instrutor de Empilhadeira e Transpaleteira",
@@ -519,7 +519,7 @@
     "name": "Curso Instrutor de Ponte Rolante, Talha e Monovias",
     "url": "https://multimarinedobrasil.com.br/product/curso-instrutor-de-ponte-rolante-talha-e-monovias/",
     "slug": "curso-instrutor-de-ponte-rolante-talha-e-monovias",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "Curso Instrutor Espaço Confinado e NR 35",
@@ -537,25 +537,25 @@
     "name": "Curso Instrutor Movimentação Cargas Pesadas",
     "url": "https://multimarinedobrasil.com.br/product/curso-instrutor-movimentacao-cargas-pesadas/",
     "slug": "curso-instrutor-movimentacao-cargas-pesadas",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "Curso Instrutor NR 37",
     "url": "https://multimarinedobrasil.com.br/product/curso-instrutor-nr-37/",
     "slug": "curso-instrutor-nr-37",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "Curso Instrutor NR-22",
     "url": "https://multimarinedobrasil.com.br/product/curso-instrutor-nr-22/",
     "slug": "curso-instrutor-nr-22",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "Curso Instrutor Selecionadora de Pedidos",
     "url": "https://multimarinedobrasil.com.br/product/curso-instrutor-selecionadora-de-pedidos-f-still/",
     "slug": "curso-instrutor-selecionadora-de-pedidos-f-still",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "Curso IT 17 Brigada de Incêndio Avançado",
@@ -579,7 +579,7 @@
     "name": "Curso Laudo de Elevador de Cargas",
     "url": "https://multimarinedobrasil.com.br/product/curso-laudo-de-elevador-de-cargas/",
     "slug": "curso-laudo-de-elevador-de-cargas",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "Curso Laudo Explosividade NR-33",
@@ -594,13 +594,13 @@
     "name": "Curso Laudo Gases Gerador",
     "url": "https://multimarinedobrasil.com.br/product/curso-laudo-gases-gerador/",
     "slug": "curso-laudo-gases-gerador",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "Curso Laudo Gases Gerador",
     "url": "https://multimarinedobrasil.com.br/product/curso-laudo-gases-gerador-2/",
     "slug": "curso-laudo-gases-gerador-2",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "Curso Lei Lucas Primeiros Socorros",
@@ -612,13 +612,13 @@
     "name": "Curso Líder Linhas Desenergizadas",
     "url": "https://multimarinedobrasil.com.br/product/curso-lider-linhas-desenergizadas/",
     "slug": "curso-lider-linhas-desenergizadas",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Curso Linha de Vida Andaimes",
     "url": "https://multimarinedobrasil.com.br/product/curso-linha-de-vida-andaimes/",
     "slug": "curso-linha-de-vida-andaimes",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg"
   },
   {
     "name": "Curso Manuseio Armazenagem Transporte Produtos Perigosos",
@@ -666,7 +666,7 @@
     "name": "Curso Média Tensão NBR14039",
     "url": "https://multimarinedobrasil.com.br/product/curso-media-tensao-nbr14039/",
     "slug": "curso-media-tensao-nbr14039",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "Curso Montador de Andaime",
@@ -687,61 +687,61 @@
     "name": "Curso Mufla Alta Tensão",
     "url": "https://multimarinedobrasil.com.br/product/curso-mufla-alta-tensao/",
     "slug": "curso-mufla-alta-tensao",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "Curso NBR 15863",
     "url": "https://multimarinedobrasil.com.br/product/curso-nbr-15863/",
     "slug": "curso-nbr-15863",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "Curso NBR 17505",
     "url": "https://multimarinedobrasil.com.br/product/curso-nbr-17505/",
     "slug": "curso-nbr-17505",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "Curso NFPA 61",
     "url": "https://multimarinedobrasil.com.br/product/curso-nfpa-61/",
     "slug": "curso-nfpa-61",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Curso Nova NR 35",
     "url": "https://multimarinedobrasil.com.br/product/curso-nova-nr-35/",
     "slug": "curso-nova-nr-35",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Curso NR 01 Disposições Gerais",
     "url": "https://multimarinedobrasil.com.br/product/curso-nr-01-disposicoes-gerais/",
     "slug": "curso-nr-01-disposicoes-gerais",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg"
   },
   {
     "name": "Curso NR 10 Nível Básico",
     "url": "https://multimarinedobrasil.com.br/product/curso-nr-10-nivel-basico/",
     "slug": "curso-nr-10-nivel-basico",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Curso NR 12 Anexo 02 e 09",
     "url": "https://multimarinedobrasil.com.br/product/curso-nr-12-anexo-02-e-09/",
     "slug": "curso-nr-12-anexo-02-e-09",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "Curso NR 12 Anexo 02 e 11",
     "url": "https://multimarinedobrasil.com.br/product/curso-nr-12-anexo-02-e-11/",
     "slug": "curso-nr-12-anexo-02-e-11",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Curso NR 18 Admissional Periódico",
     "url": "https://multimarinedobrasil.com.br/product/curso-nr-18-admissional-periodico/",
     "slug": "curso-nr-18-admissional-periodico",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg"
   },
   {
     "name": "Curso NR 31 Trator Agrícola",
@@ -753,13 +753,13 @@
     "name": "Curso NR 35 Supervisor",
     "url": "https://multimarinedobrasil.com.br/product/curso-nr-35-supervisor/",
     "slug": "curso-nr-35-supervisor",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "Curso Obtenção de Licenças de Produtos Controlados",
     "url": "https://multimarinedobrasil.com.br/product/curso-obtencao-de-licencas-de-produtos-controlados/",
     "slug": "curso-obtencao-de-licencas-de-produtos-controlados",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg",
     "description": "NOME TÉCNICO: CURSO APRIMORAMENTO PARA OBTENÇÃO DE LICENÇAS DE PRODUTOS CONTROLADOS – EXÉRCITO BRASILEIRO, POLÍCIAS FEDERAL E CIVIL",
     "hours": "",
     "price": ""
@@ -768,13 +768,13 @@
     "name": "Curso Opacidade Escala de Ringelmann",
     "url": "https://multimarinedobrasil.com.br/product/curso-opacidade-escala-de-ringelmann/",
     "slug": "curso-opacidade-escala-de-ringelmann",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Curso Operador Calandra NR12",
     "url": "https://multimarinedobrasil.com.br/product/curso-operador-calandra-nr12/",
     "slug": "curso-operador-calandra-nr12",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "Curso Operador de PEMT Plataforma Elevatória NR 18",
@@ -792,31 +792,31 @@
     "name": "Curso Operador e Mantenedor de Cabine Primária",
     "url": "https://multimarinedobrasil.com.br/product/curso-operador-e-mantenedor-de-cabine-primaria/",
     "slug": "curso-operador-e-mantenedor-de-cabine-primaria",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Curso Operador Mangas Embarque",
     "url": "https://multimarinedobrasil.com.br/product/curso-operador-mangas-embarque/",
     "slug": "curso-operador-mangas-embarque",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Curso Operador Ponte Rolante",
     "url": "https://multimarinedobrasil.com.br/product/curso-operador-ponte-rolante/",
     "slug": "curso-operador-ponte-rolante",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Curso Operador Prensa Enfardadeira",
     "url": "https://multimarinedobrasil.com.br/product/curso-operador-prensa-enfardadeira/",
     "slug": "curso-operador-prensa-enfardadeira",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "Curso para NR 12",
     "url": "https://multimarinedobrasil.com.br/product/curso-para-nr-12/",
     "slug": "curso-para-nr-12",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg"
   },
   {
     "name": "Curso Perfuração Extração Petróleo",
@@ -828,7 +828,7 @@
     "name": "Curso Perícias Judiciais Insalubridade Periculosidade",
     "url": "https://multimarinedobrasil.com.br/product/curso-pericias-judiciais-insalubridade-periculosidade/",
     "slug": "curso-pericias-judiciais-insalubridade-periculosidade",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Curso PGR Empilhadeira",
@@ -843,7 +843,7 @@
     "name": "Curso Pintura Industrial 200h",
     "url": "https://multimarinedobrasil.com.br/product/curso-pintura-industrial-200h/",
     "slug": "curso-pintura-industrial-200h",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/HMS_Ocelot_1962_engine_room_looking_forward.JPG",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg",
     "description": "QUALIFICAÇÃO É DA PRÓPRIA MULTIMARINE CERTIFICAÇÃO INTERNACIONAL ASHI Curso Pintura Industrial O objetivo do Curso Aprimoramento Pintura Industrial Tintas Líquidas visa fornecer conhecimentos para aprimoramento nas atividades de aplicação de Tintas para pintura industrial . O que é Tinta Líquida? É um produto líquido, pastoso ou em pó, com propriedades de formar película após secagem ou cura, composto por uma mistura formada de resinas, pigmentos, solventes, cargas e aditivos. As tintas líquidas apresentam 4 grupos de matérias primas, solventes, resinas, pigmentos e aditivos. Outras literaturas separam estes grupos de matérias primas em constituintes básicos, que são incorporados em todas as tintas, a saber: – Solventes, resinas e pigmentos, e constituintes eventuais e/ou aditivos, que são incorporados apenas a alguns tipos de tintas, para conferir propriedades especiais. Quais são os tipos de Tintas? Tintas com veículo não convertíveis; Tintas acrílicas; Tintas de estirenoacrilato; Tintas de borracha clorada; Tintas vinílicas; Outras tintas não convertíveis; Tintas de nitrocelulose; Tintas betuminosas; Tintas com veículos convertíveis; Tintas a óleo; Tintas de resinas alquídicas modificadas com óleo; Tinta líquida alquídica; Tintas de resinas fenólicas modificadas com óleo; Tintas epóxi; Tintas éster de epóxi; Tinta de alcatrão de hulha epóxi; Tintas epóxis tar free; Shop primer epóxi; epóxis ricas em zinco; Tintas epóxis bisfenol F / Novolac; Poliuretano; Poliuretano Poliaspártico; Tintas de silicone; Tintas com veículos; inorgânicos de Silicato; Silicato de etila; Silicatos Inorgânicos;",
     "hours": "",
     "price": ""
@@ -873,19 +873,19 @@
     "name": "Curso Programação CLP Nível 1",
     "url": "https://multimarinedobrasil.com.br/product/curso-programacao-clp-nivel-1/",
     "slug": "curso-programacao-clp-nivel-1",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "Curso Projeto Estrutura Concreto NBR 6118",
     "url": "https://multimarinedobrasil.com.br/product/curso-projeto-estrutura-concreto-nbr-6118/",
     "slug": "curso-projeto-estrutura-concreto-nbr-6118",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "Curso Projeto Posto GNV NBR 12236-1",
     "url": "https://multimarinedobrasil.com.br/product/curso-projeto-posto-gnv-nbr-12236-1/",
     "slug": "curso-projeto-posto-gnv-nbr-12236-1",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Curso Proteção Incêndios Refinarias",
@@ -897,55 +897,55 @@
     "name": "Curso Regras de Ouro",
     "url": "https://multimarinedobrasil.com.br/product/curso-regras-de-ouro/",
     "slug": "curso-regras-de-ouro",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "Curso Resgate Homem ao Mar",
     "url": "https://multimarinedobrasil.com.br/product/curso-resgate-homem-ao-mar/",
     "slug": "curso-resgate-homem-ao-mar",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "Curso Resgatista 80h",
     "url": "https://multimarinedobrasil.com.br/product/curso-resgatista-80h/",
     "slug": "curso-resgatista-80h",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg"
   },
   {
     "name": "Curso Resgatista Coordenador",
     "url": "https://multimarinedobrasil.com.br/product/curso-resgatista-coordenador/",
     "slug": "curso-resgatista-coordenador",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "Curso Resgatista Coordenador Mandarim",
     "url": "https://multimarinedobrasil.com.br/product/curso-resgatista-coordenador-mandarim/",
     "slug": "curso-resgatista-coordenador-mandarim",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "Curso Resgatista Industrial Inglês",
     "url": "https://multimarinedobrasil.com.br/product/curso-resgatista-industrial-ingles/",
     "slug": "curso-resgatista-industrial-ingles",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/HMS_Ocelot_1962_engine_room_looking_forward.JPG"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "Curso Resgatista Líder",
     "url": "https://multimarinedobrasil.com.br/product/curso-resgatista-lider/",
     "slug": "curso-resgatista-lider",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "Curso Resgatista Líder Inglês",
     "url": "https://multimarinedobrasil.com.br/product/curso-resgatista-lider-ingles/",
     "slug": "curso-resgatista-lider-ingles",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "Curso Resgatista Operacional Inglês",
     "url": "https://multimarinedobrasil.com.br/product/curso-resgatista-operacional-ingles/",
     "slug": "curso-resgatista-operacional-ingles",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg",
     "description": "URL Source: https://multimarinedobrasil.com.br/product/curso-resgatista-operacional-ingles/ Markdown Content: What is the purpose of the Operational Rescuer Course? The Operational Rescuer Course meets the requirements of the entry-level rescue qualification specified for the second level, for which the person is eligible to participate in a limited range of rescue at height and/or in confined spaces, positioned on a surface that requires that the person travels safely through individual protection movement restriction systems, fall arrest and positioning for vertical movement of victims and rescuers, in scenarios using assembled mechanical advantage systems, prefabricated or preassembled, safety systems manual or automatic rescue, and can also perform different progressions by means of rope, mechanical and electrical systems, specific for moving and rescuing people.",
     "hours": "",
     "price": ""
@@ -960,7 +960,7 @@
     "name": "Curso Serra Policorte",
     "url": "https://multimarinedobrasil.com.br/product/curso-serra-policorte/",
     "slug": "curso-serra-policorte",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Curso Sistemas Comandos Máquinas 16h",
@@ -978,7 +978,7 @@
     "name": "Curso Técnicas Comunicação Oratória",
     "url": "https://multimarinedobrasil.com.br/product/curso-tecnicas-comunicacao-oratoria/",
     "slug": "curso-tecnicas-comunicacao-oratoria",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Curso Tecnologias Redes Elétricas Inteligentes",
@@ -990,25 +990,25 @@
     "name": "Curso Teste Carga Tração",
     "url": "https://multimarinedobrasil.com.br/product/curso-teste-carga-tracao/",
     "slug": "curso-teste-carga-tracao",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "Curso Transporte Cargas Indivisíveis",
     "url": "https://multimarinedobrasil.com.br/product/curso-transporte-cargas-indivisiveis/",
     "slug": "curso-transporte-cargas-indivisiveis",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "Curso Tratamento de Superfície",
     "url": "https://multimarinedobrasil.com.br/product/curso-tratamento-de-superficie/",
     "slug": "curso-tratamento-de-superficie",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Curso Trator Esteira",
     "url": "https://multimarinedobrasil.com.br/product/curso-trator-esteira/",
     "slug": "curso-trator-esteira",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "Curso Utilização Extintores",
@@ -1050,19 +1050,19 @@
     "name": "Informática Avançada 60h",
     "url": "https://multimarinedobrasil.com.br/product/informatica-avancada-60h/",
     "slug": "informatica-avancada-60h",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "Informática Básica 40h",
     "url": "https://multimarinedobrasil.com.br/product/informatica-basica-40h/",
     "slug": "informatica-basica-40h",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg"
   },
   {
     "name": "Informática Intermediária 40h",
     "url": "https://multimarinedobrasil.com.br/product/informatica-intermediaria-40h/",
     "slug": "informatica-intermediaria-40h",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "INSPEÇÃO DE SOLDAGEM POR ENSAIO VISUAL – EVS",
@@ -1074,7 +1074,7 @@
     "name": "Introdução à Anatomia Dental",
     "url": "https://multimarinedobrasil.com.br/product/introducao-a-anatomia-dental/",
     "slug": "introducao-a-anatomia-dental",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "Introdução à Biossegurança na Odontologia",
@@ -1092,13 +1092,13 @@
     "name": "Laudo Arqueação de Tanque",
     "url": "https://multimarinedobrasil.com.br/product/laudo-arqueacao-de-tanque/",
     "slug": "laudo-arqueacao-de-tanque",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Laudo Asbestos (Amianto)",
     "url": "https://multimarinedobrasil.com.br/product/laudo-asbestos-amianto/",
     "slug": "laudo-asbestos-amianto",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "Laudo Cabine Guindaste",
@@ -1119,55 +1119,55 @@
     "name": "Laudo Caminhão Munk",
     "url": "https://multimarinedobrasil.com.br/product/laudo-caminhao-munk/",
     "slug": "laudo-caminhao-munk",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Laudo Caminhão Munque",
     "url": "https://multimarinedobrasil.com.br/product/laudo-caminhao-munque/",
     "slug": "laudo-caminhao-munque",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "Laudo Cintas Elevação Carga",
     "url": "https://multimarinedobrasil.com.br/product/laudo-cintas-elevacao-carga/",
     "slug": "laudo-cintas-elevacao-carga",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "Laudo Combustíveis Destilados NBR17085",
     "url": "https://multimarinedobrasil.com.br/product/laudo-combustiveis-destilados-nbr17085/",
     "slug": "laudo-combustiveis-destilados-nbr17085",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "Laudo Compactador Solo",
     "url": "https://multimarinedobrasil.com.br/product/laudo-compactador-solo/",
     "slug": "laudo-compactador-solo",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Laudo Conjunto Aferição Carga",
     "url": "https://multimarinedobrasil.com.br/product/laudo-conjunto-afericao-carga/",
     "slug": "laudo-conjunto-afericao-carga",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "Laudo Corrimão Escadas NBR 14718",
     "url": "https://multimarinedobrasil.com.br/product/laudo-corrimao-escadas-nbr-14718/",
     "slug": "laudo-corrimao-escadas-nbr-14718",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg"
   },
   {
     "name": "Laudo Cortadora Asfalto",
     "url": "https://multimarinedobrasil.com.br/product/laudo-cortadora-asfalto/",
     "slug": "laudo-cortadora-asfalto",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "Laudo de Acessórios de Içamento",
     "url": "https://multimarinedobrasil.com.br/product/laudo-de-acessorios-de-icamento/",
     "slug": "laudo-de-acessorios-de-icamento",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Laudo de Caldeira",
@@ -1179,19 +1179,19 @@
     "name": "Laudo de Estanqueidade de Gás",
     "url": "https://multimarinedobrasil.com.br/product/laudo-de-estanqueidade-de-gas/",
     "slug": "laudo-de-estanqueidade-de-gas",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg"
   },
   {
     "name": "Laudo de Esterilizador",
     "url": "https://multimarinedobrasil.com.br/product/laudo-de-esterilizador/",
     "slug": "laudo-de-esterilizador",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "Laudo de Fumaça Preta",
     "url": "https://multimarinedobrasil.com.br/product/laudo-de-fumaca-preta/",
     "slug": "laudo-de-fumaca-preta",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg",
     "description": "NOME TÉCNICO: EXECUÇÃO DE INSPEÇÃO TÉCNICA DE FUMAÇA PRETA E DENSIDADE COLORIMÉTRICA CONFORME IBAMA 85/96 E ABNT NBR 7027 + ELABORAÇÃO DE RELATÓRIO TÉCNICO + EMISSÕES DA ART",
     "hours": "",
     "price": ""
@@ -1200,73 +1200,73 @@
     "name": "Laudo de Gerador",
     "url": "https://multimarinedobrasil.com.br/product/laudo-de-gerador/",
     "slug": "laudo-de-gerador",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg"
   },
   {
     "name": "Laudo de Granalha",
     "url": "https://multimarinedobrasil.com.br/product/laudo-de-granalha/",
     "slug": "laudo-de-granalha",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "Laudo de Inspeção nas Lingas, Cintas de Elevação e Olhal",
     "url": "https://multimarinedobrasil.com.br/product/laudo-de-inspecao-nas-lingas-cintas-de-elevacao-e-olhal/",
     "slug": "laudo-de-inspecao-nas-lingas-cintas-de-elevacao-e-olhal",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Laudo de Misturador",
     "url": "https://multimarinedobrasil.com.br/product/laudo-de-misturador/",
     "slug": "laudo-de-misturador",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "Laudo de Ponte Rolante, Talha e Monovia",
     "url": "https://multimarinedobrasil.com.br/product/laudo-de-ponte-rolante-talha-e-monovia/",
     "slug": "laudo-de-ponte-rolante-talha-e-monovia",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg"
   },
   {
     "name": "Laudo de Rolo Compactador",
     "url": "https://multimarinedobrasil.com.br/product/laudo-de-rolo-compactador/",
     "slug": "laudo-de-rolo-compactador",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Laudo de Sprinkler",
     "url": "https://multimarinedobrasil.com.br/product/laudo-de-sprinkler/",
     "slug": "laudo-de-sprinkler",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "Laudo Dispositivo Içamento",
     "url": "https://multimarinedobrasil.com.br/product/laudo-dispositivo-icamento/",
     "slug": "laudo-dispositivo-icamento",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Laudo Equipamentos Diversão Buffets e Parques",
     "url": "https://multimarinedobrasil.com.br/product/laudo-equipamentos-diversao-buffets-e-parques/",
     "slug": "laudo-equipamentos-diversao-buffets-e-parques",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "Laudo Equipamentos Eletrônicos NBR ISO 15003",
     "url": "https://multimarinedobrasil.com.br/product/laudo-equipamentos-eletronicos-nbr-iso-15003/",
     "slug": "laudo-equipamentos-eletronicos-nbr-iso-15003",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "Laudo Gerador 6.5Kva",
     "url": "https://multimarinedobrasil.com.br/product/laudo-gerador-6-5kva/",
     "slug": "laudo-gerador-6-5kva",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "Laudo Grua Aterramento",
     "url": "https://multimarinedobrasil.com.br/product/laudo-grua-aterramento/",
     "slug": "laudo-grua-aterramento",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "Laudo Guindaste Articulado Hidráulico",
@@ -1287,7 +1287,7 @@
     "name": "Laudo Identificação Odorífera",
     "url": "https://multimarinedobrasil.com.br/product/laudo-identificacao-odorifera/",
     "slug": "laudo-identificacao-odorifera",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "Laudo Iluminação Emergência NBR 10898",
@@ -1299,7 +1299,7 @@
     "name": "Laudo Inspeção de Cilindros de Aço para Gases",
     "url": "https://multimarinedobrasil.com.br/product/laudo-inspecao-de-cilindros-de-aco-para-gases/",
     "slug": "laudo-inspecao-de-cilindros-de-aco-para-gases",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "Laudo Martelo Elétrico",
@@ -1311,43 +1311,43 @@
     "name": "Laudo Olhal Suspensão",
     "url": "https://multimarinedobrasil.com.br/product/laudo-olhal-suspensao/",
     "slug": "laudo-olhal-suspensao",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg"
   },
   {
     "name": "Laudo Paredes Estruturais PVC NBR 17077",
     "url": "https://multimarinedobrasil.com.br/product/laudo-paredes-estruturais-pvc-nbr-17077/",
     "slug": "laudo-paredes-estruturais-pvc-nbr-17077",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg"
   },
   {
     "name": "Laudo Placa Vibratória",
     "url": "https://multimarinedobrasil.com.br/product/laudo-placa-vibratoria/",
     "slug": "laudo-placa-vibratoria",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Laudo Pórtico",
     "url": "https://multimarinedobrasil.com.br/product/laudo-portico/",
     "slug": "laudo-portico",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Laudo Ruído Torres Eólicas",
     "url": "https://multimarinedobrasil.com.br/product/laudo-ruido-torres-eolicas/",
     "slug": "laudo-ruido-torres-eolicas",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "Laudo Sistemas Fotovoltaicos",
     "url": "https://multimarinedobrasil.com.br/product/laudo-sistemas-fotovoltaicos/",
     "slug": "laudo-sistemas-fotovoltaicos",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Laudo Sistemas GNV Posto Combustível",
     "url": "https://multimarinedobrasil.com.br/product/laudo-sistemas-gnv-posto-combustivel/",
     "slug": "laudo-sistemas-gnv-posto-combustivel",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "Laudo Vazamento Telhado Vivo",
@@ -1404,25 +1404,25 @@
     "name": "NR 05 Comissão Interna de Prevenção de Acidentes e de Assédio – CIPA – Grau de Risco 1",
     "url": "https://multimarinedobrasil.com.br/product/nr-05-comissao-interna-de-prevencao-de-acidentes-e-de-assedio-cipa-grau-de-risco-1/",
     "slug": "nr-05-comissao-interna-de-prevencao-de-acidentes-e-de-assedio-cipa-grau-de-risco-1",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "NR 05 Comissão Interna de Prevenção de Acidentes e de Assédio – CIPA – Grau de Risco 2",
     "url": "https://multimarinedobrasil.com.br/product/nr-05-comissao-interna-de-prevencao-de-acidentes-e-de-assedio-cipa-grau-de-risco-2/",
     "slug": "nr-05-comissao-interna-de-prevencao-de-acidentes-e-de-assedio-cipa-grau-de-risco-2",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "NR 05 Comissão Interna de Prevenção de Acidentes e de Assédio – CIPA – Grau de Risco 3",
     "url": "https://multimarinedobrasil.com.br/product/nr-05-comissao-interna-de-prevencao-de-acidentes-e-de-assedio-cipa-grau-de-risco-3/",
     "slug": "nr-05-comissao-interna-de-prevencao-de-acidentes-e-de-assedio-cipa-grau-de-risco-3",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg"
   },
   {
     "name": "NR 05 Comissão Interna de Prevenção de Acidentes e de Assédio – CIPA – Grau de Risco 4",
     "url": "https://multimarinedobrasil.com.br/product/nr-05-comissao-interna-de-prevencao-de-acidentes-e-de-assedio-cipa-grau-de-risco-4/",
     "slug": "nr-05-comissao-interna-de-prevencao-de-acidentes-e-de-assedio-cipa-grau-de-risco-4",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "NR 06 – Equipamentos de Proteção Individual",
@@ -1434,7 +1434,7 @@
     "name": "NR 10 – Trabalho em Atmosfera Explosiva / Áreas Classificadas",
     "url": "https://multimarinedobrasil.com.br/product/nr-10-trabalho-em-atmosfera-explosiva-areas-classificadas/",
     "slug": "nr-10-trabalho-em-atmosfera-explosiva-areas-classificadas",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "NR 10 Básico – EAD",
@@ -1449,7 +1449,7 @@
     "name": "NR 10 Básico – Reciclagem",
     "url": "https://multimarinedobrasil.com.br/product/nr-10-basico-reciclagem/",
     "slug": "nr-10-basico-reciclagem",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "NR 10 Complementar – Sistema Elétrico de Potência (SEP)",
@@ -1467,7 +1467,7 @@
     "name": "NR 10 Curso básico impartido en español",
     "url": "https://multimarinedobrasil.com.br/product/nr-10-curso-basico-impartido-en-espanol/",
     "slug": "nr-10-curso-basico-impartido-en-espanol",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "NR 11 – Curso Básico de Segurança em Operações de Movimentação de Cargas",
@@ -1479,7 +1479,7 @@
     "name": "NR 11 – Operador de Guindauto (Munck)",
     "url": "https://multimarinedobrasil.com.br/product/nr-11-operador-de-guindauto-munck/",
     "slug": "nr-11-operador-de-guindauto-munck",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "NR 11 Empilhadeira",
@@ -1491,19 +1491,19 @@
     "name": "NR 11 Manipulador Telescópico",
     "url": "https://multimarinedobrasil.com.br/product/nr-11-manipulador-telescopico/",
     "slug": "nr-11-manipulador-telescopico",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "NR 11 Operador de Paleteira – Semipresencial",
     "url": "https://multimarinedobrasil.com.br/product/nr-11-operador-de-paleteira-semipresencial/",
     "slug": "nr-11-operador-de-paleteira-semipresencial",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "NR 11 Operador de Retroescavadeira",
     "url": "https://multimarinedobrasil.com.br/product/nr-11-operador-de-retroescavadeira/",
     "slug": "nr-11-operador-de-retroescavadeira",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "NR 11 Segurança na Operação de Ponte Rolante",
@@ -1527,7 +1527,7 @@
     "name": "NR 12 – PLANO DE MOVIMENTAÇÃO DE PESSOAS",
     "url": "https://multimarinedobrasil.com.br/product/plano-de-movimentacao-de-pessoas-nr12/",
     "slug": "plano-de-movimentacao-de-pessoas-nr12",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg",
     "description": "URL Source: https://multimarinedobrasil.com.br/product/plano-de-movimentacao-de-pessoas-nr12/ Markdown Content: Avaliação Qualitativa e Quantitativa Registro de Evidências Elaboração Relatório Técnico Conclusão Proposta Melhorias Emissão de A.R.T. e/ou C.R.T.",
     "hours": "",
     "price": ""
@@ -1536,7 +1536,7 @@
     "name": "NR 14 – FORNOS 40h",
     "url": "https://multimarinedobrasil.com.br/product/nr-14-fornos-40h/",
     "slug": "nr-14-fornos-40h",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "NR 35 – PLANO DE EMERGÊNCIA E SALVAMENTO",
@@ -1554,19 +1554,19 @@
     "name": "PCP – Planejamento e Controle da Produção",
     "url": "https://multimarinedobrasil.com.br/product/pcp-planejamento-e-controle-da-producao/",
     "slug": "pcp-planejamento-e-controle-da-producao",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "Plataformista 40h",
     "url": "https://multimarinedobrasil.com.br/product/plataformista-40h/",
     "slug": "plataformista-40h",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "Recepcionista 35h",
     "url": "https://multimarinedobrasil.com.br/product/recepcionista-35h/",
     "slug": "recepcionista-35h",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Recepcionista de Consultório Odontológico",
@@ -1596,13 +1596,13 @@
     "name": "Treinamento Admissional NR 34",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-admissional-nr-34/",
     "slug": "treinamento-admissional-nr-34",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "Treinamento CIPA ou Designado Benzeno",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-cipa-ou-designado-benzeno/",
     "slug": "treinamento-cipa-ou-designado-benzeno",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "TREINAMENTO DE INSTALAÇÕES ELÉTRICAS ENERGIZADAS",
@@ -1617,61 +1617,61 @@
     "name": "TREINAMENTO DE NR 31",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-de-nr-31/",
     "slug": "treinamento-de-nr-31",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "Treinamento Direção Defensiva nas Empresas",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-direcao-defensiva-nas-empresas/",
     "slug": "treinamento-direcao-defensiva-nas-empresas",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg"
   },
   {
     "name": "Treinamento e Desenvolvimento 40h",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-e-desenvolvimento-40h/",
     "slug": "treinamento-e-desenvolvimento-40h",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "Treinamento Elevadores Eólicas",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-elevadores-eolicas/",
     "slug": "treinamento-elevadores-eolicas",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Treinamento Introdutório NR 22",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-introdutorio-nr-22/",
     "slug": "treinamento-introdutorio-nr-22",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kwajalein_Atoll-7th_Engineer_Dive_Detachment_(8850172).jpg"
   },
   {
     "name": "TREINAMENTO MEMBROS DA CIPA",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-membros-da-cipa/",
     "slug": "treinamento-membros-da-cipa",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg"
   },
   {
     "name": "TREINAMENTO OPERADOR EQUIPAMENTOS COM FORÇA MOTRIZ PRÓPRIA",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-operador-equipamentos-com-forca-motriz-propria/",
     "slug": "treinamento-operador-equipamentos-com-forca-motriz-propria",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "Treinamento Operador Grua",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-operador-grua/",
     "slug": "treinamento-operador-grua",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "TREINAMENTO PARA TRABALHO EM ÁREAS CLASSIFICADAS",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-para-trabalho-em-areas-classificadas/",
     "slug": "treinamento-para-trabalho-em-areas-classificadas",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "Treinamento Periódico Trabalho Construção Civil",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-periodico-trabalho-construcao-civil/",
     "slug": "treinamento-periodico-trabalho-construcao-civil",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg"
   },
   {
     "name": "Treinamento Prevenção Emergência Química",
