@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://felipewebp.github.io/multimarinebrasil/sitemap.xml
