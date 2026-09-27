@@ -1,7 +1,7 @@
 import fs from "node:fs/promises";
 
 const SITE = "https://multimarinedobrasil.com.br";
-const READER = "https://r.jina.ai/http://";
+const READER = "https://r.jina.ai/";
 const courses = new Map();
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -29,7 +29,7 @@ function clean(s = "") {
 }
 
 async function reader(url) {
-  const target = READER + url.replace(/^https?:\/\//, "https://");
+  const target = READER + url;
   const res = await fetch(target, {
     headers: {
       "user-agent": "Mozilla/5.0 MultiMarine-Catalog-Sync/3.0",
