@@ -109,3 +109,7 @@ footer{background:#071827}
 .companies-copy p{color:#5f7284}
 .floating-whatsapp{background:#19a974}
 @media(max-width:800px){.nav-links{background:#fff}.menu{color:var(--mm-navy)}}
+
+/* Logo: neutraliza o fundo branco da imagem JPG em fundos claros e escuros */
+.brand-logo{mix-blend-mode:multiply}
+footer .brand-logo{mix-blend-mode:screen;filter:brightness(0) invert(1);opacity:.96}
