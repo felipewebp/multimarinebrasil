@@ -32,30 +32,80 @@
 .brand-logo{display:block;width:190px;height:48px;object-fit:contain;object-position:left center;filter:none}.brand{gap:0}.footer-top .brand-logo{width:190px;height:48px}@media(max-width:800px){.brand-logo{width:160px;height:42px}.footer-top .brand-logo{width:170px;height:44px}}
 
 
-/* Identidade MultiMarine — refinamento */
+/* Identidade MultiMarine — refinamento 2: contraste limpo */
 :root{
   --mm-blue:#0568bf;
-  --mm-blue-dark:#063b66;
   --mm-red:#dd0f0f;
-  --mm-navy:#071827;
-  --mm-ink:#0b2238;
-  --mm-light:#f3f7fa;
+  --mm-navy:#08243b;
+  --mm-ink:#173047;
+  --mm-light:#f5f8fb;
 }
-body{background:#f6f8fa;color:var(--mm-ink)}
-.site-header{background:rgba(255,255,255,.96);border-bottom:1px solid rgba(5,104,191,.12)}
-.nav a{color:var(--mm-navy)}
-.nav a:hover{color:var(--mm-blue)}
-.btn-primary{background:var(--mm-blue);box-shadow:0 10px 24px rgba(5,104,191,.22)}
-.btn-primary:hover{background:#04579f}
-.btn-secondary{border-color:rgba(5,104,191,.35);color:var(--mm-blue)}
-.eyebrow{color:var(--mm-blue)}
-.section-kicker{color:var(--mm-blue)}
-.intent:hover,.visual-card:hover,.catalog-card:hover{border-color:rgba(5,104,191,.42);box-shadow:0 18px 42px rgba(7,24,39,.10)}
-.intent strong,.catalog-card h3,.journey h3{color:var(--mm-navy)}
-.offshore{background:var(--mm-navy)}
-.offshore .eyebrow{color:#66b8ff}
-.journey-step span{color:var(--mm-red)}
-.companies{background:#eaf3f9}
+body{background:#fff;color:var(--mm-ink)}
+.nav{background:rgba(255,255,255,.96);border-bottom:1px solid #dfe8ef}
+.nav.scrolled{background:rgba(255,255,255,.97);border-color:#d7e3eb}
+.nav-links a{color:var(--mm-navy)}
+.nav-cta{border-color:#c9d9e4;color:var(--mm-navy)}
+.nav-cta b{color:var(--mm-blue)}
+.eyebrow,.kicker{color:var(--mm-blue)}
+.hero h1,.section h2,.split-copy h2,.quote h2,.contact h2{color:#fff}
+.hero h1 em,.section h2 em,.split-copy h2 em,.quote h2 em{color:#55a9e8}
+.button.primary{background:var(--mm-blue);border-color:var(--mm-blue);color:#fff}
+.button.ghost{color:#fff;border-color:#ffffff55}
+.metrics{background:#f2f6f9;border-color:#dce6ed}
+.metrics>div{border-color:#dce6ed}
+.metrics strong{color:var(--mm-blue)}
+.metrics span{color:#607284}
+.metrics b{color:var(--mm-navy)}
+.metrics-note{color:var(--mm-navy)}
+.section{background:#fff}
+.section h2{color:var(--mm-navy)}
+.section-head p{color:#617487}
+.path-card{background:#f5f8fb;border-color:#e1e9ef}
+.path-card.featured{background:#edf5fa}
+.path-card h3{color:var(--mm-navy)}
+.path-card p{color:#65788a}
+.icon{color:var(--mm-blue)}
+.split{background:#f1f6f9}
+.split-copy h2{color:var(--mm-navy)}
+.split-copy p{color:#5f7284}
+.mini-stat strong{color:var(--mm-blue)}
+.mini-stat span{color:#687b8d}
+.solutions{background:#fff}
+.solution-list,.solution{border-color:#dfe7ed}
+.solution h3{color:var(--mm-navy)}
+.solution p{color:#6b7d8e}
+.solution>b{color:var(--mm-blue)}
+.quote{background:#08243b}
 .contact{background:var(--mm-blue);color:#fff}
-.contact .eyebrow{color:#d9efff}
+.contact p{color:#e1f1fb}
+footer{background:#071827}
+.footer-top>div,.footer-top nav{color:#d0dce5}
+.career{background:#fff;border-color:#dfe7ed}
+.step{background:#f5f8fb}
+.step strong{color:var(--mm-navy)}
+.step p{color:#687b8d}
+.catalog{background:#f1f6f9}
+.catalog-grid{background:#dfe7ed}
+.catalog-grid a{background:#fff}
+.catalog-grid a:hover{background:#f4f8fb}
+.catalog-grid strong{color:var(--mm-navy)}
+.catalog-grid span{color:#6c7e8f}
+.intent{background:#f5f8fb;border-color:#e0e8ee}
+.intent:hover,.intent.featured{background:#edf5fa;border-color:#a9cce4}
+.intent h3{color:var(--mm-navy)}
+.intent p{color:#687b8d}
+.offshore{background:#08243b}
+.offshore-copy h2{color:#fff}
+.offshore-copy>p{color:#b7c7d4}
+.journey{border-color:#315067}
+.journey div{border-color:#315067}
+.journey b{color:#fff}
+.journey small{color:#a6b7c5}
+.gallery{background:#fff}
+.gallery h2{color:var(--mm-navy)}
+.image-credit{color:#718494}
+.companies{background:#eef5f9}
+.companies-copy h2{color:var(--mm-navy)}
+.companies-copy p{color:#5f7284}
 .floating-whatsapp{background:#19a974}
+@media(max-width:800px){.nav-links{background:#fff}.menu{color:var(--mm-navy)}}
