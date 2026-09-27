@@ -74,7 +74,7 @@ const CURATED_IMAGES = {
   "treinamento-primeiros-socorros":"https://commons.wikimedia.org/wiki/Special:FilePath/Paramedic_training_in_Telangana_Rebellion.jpg",
   "treinamento-primeiros-socorros-2":"https://commons.wikimedia.org/wiki/Special:FilePath/Basic_first_aid_training_130219-N-PF210-358.jpg",
   "curso-de-nocoes-basicas-em-maqueiro-40h":"https://commons.wikimedia.org/wiki/Special:FilePath/Paramedic_training_in_Telangana_Rebellion.jpg",
-  "curso-de-tecnicas-de-coleta-de-sangue-60h":"https://www.improve-medical.net/resources-31/Educational-Requirements-and-Career-Path-for-Phlebotomists-in-the-United-States",
+  "curso-de-tecnicas-de-coleta-de-sangue-60h":"https://www.saneikai-hp.jp/data/media/blog252.jpg",
   "capacitacao-em-imunizacao-da-teoria-a-pratica":"https://www.saneikai-hp.jp/data/media/blog252.jpg",
   "atendimento-humanizado-na-saude":"https://www.saneikai-hp.jp/data/media/blog252.jpg",
   "curso-de-cozinheiro-taifeiro-60h":"https://commons.wikimedia.org/wiki/Special:FilePath/Kitchen_training_150915-N-MI079-001.jpg",
