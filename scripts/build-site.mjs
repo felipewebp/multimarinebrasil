@@ -101,6 +101,7 @@ const contactBlock = () => [
 const lead = '<script src="' + ORIGIN + '/lead-popup.js"></script>';
 const trail = '<script src="' + ORIGIN + '/trilha.js"></script>';
 const attribution = '<script src="' + ORIGIN + '/attribution.js"></script>';
+const analytics = '<script src="' + ORIGIN + '/analytics.js"></script>';
 
 const backScript = [
   '<script>',
@@ -166,7 +167,7 @@ const courseHtml = c => {
     '<div class="fact"><small>ÁREA</small><strong>' + esc(cat) + '</strong></div></div></article>',
     '<aside class="cta-box"><h3>Quer confirmar esta turma?</h3><p>Consulte disponibilidade, modalidade, requisitos, datas e condições diretamente com a equipe.</p><a class="btn primary" href="' + whatsapp(c) + '" target="_blank" rel="noopener">FALAR NO WHATSAPP ↗</a></aside></div>',
     '<section class="final"><h2>Seu próximo passo começa aqui.</h2><p>Explore outras formações ou peça orientação para encontrar o caminho mais adequado ao seu objetivo.</p></section></main>',
-    contactBlock(), footer(), backScript, lead, trail, attribution, '</body></html>'
+    contactBlock(), footer(), backScript, lead, trail, attribution, analytics, '</body></html>'
   ].join("");
 };
 
@@ -201,7 +202,7 @@ const categoryHtml = key => {
     '<header class="top"><a class="brand brand-mm" href="' + ORIGIN + '/"><img class="brand-logo-mm" src="' + OFFICIAL_LOGO + '" alt="MultiMarine do Brasil"></a><a class="back" href="' + ORIGIN + '/cursos.html">← TODOS OS CURSOS</a></header>',
     '<section class="hero"><div class="hero-inner"><span class="kicker">CATÁLOGO · MACAÉ/RJ</span><h1>' + esc(title) + '</h1><p>' + esc(desc) + ' Encontre sua formação e fale com a equipe para confirmar turma, modalidade e disponibilidade.</p></div></section>',
     '<main class="wrap"><div class="category-grid">' + items + '</div></main>',
-    contactBlock(), footer(), lead, trail, attribution, '</body></html>'
+    contactBlock(), footer(), lead, trail, attribution, analytics, '</body></html>'
   ].join("");
 };
 
@@ -233,7 +234,8 @@ const urls = [
   ...courses.filter(c => c.slug).map(c => ORIGIN + "/cursos/" + c.slug + "/")
 ];
 
-const sitemapBody = [...new Set(urls)].map(u => "<url><loc>" + u + "</loc></url>").join("");
+const lastmod = new Date().toISOString().slice(0,10);
+const sitemapBody = [...new Set(urls)].map(u => "<url><loc>" + u + "</loc><lastmod>" + lastmod + "</lastmod></url>").join("");
 await fs.writeFile(
   "sitemap.xml",
   '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' + sitemapBody + "</urlset>",
