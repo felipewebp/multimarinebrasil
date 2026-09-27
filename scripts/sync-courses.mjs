@@ -65,6 +65,17 @@ for (const course of list) {
   if (done % 10 === 0) console.log(`Detalhes: ${done}/${list.length}`);
 }
 
-const js = "// Gerado automaticamente a partir do catálogo oficial MultiMarine do Brasil.\\nwindow.MULTIMARINE_COURSES = " + JSON.stringify(list, null, 2) + ";\\n";
+for (const course of result) {
+  try {
+    const res = await fetch(course.url, {headers: {"user-agent": "MultiMarine-Catalog-Sync/2.0"}});
+    if (!res.ok) continue;
+    const html = await res.text();
+    const image = (html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i) || [])[1] || "";
+    const desc = (html.match(/<meta[^>]+property=["']og:description["'][^>]+content=["']([^"']+)["']/i) || [])[1] || "";
+    course.image = image ? new URL(image, "https://multimarinedobrasil.com.br").href : null;
+    course.description = desc.replace(/\\s+/g, " ").trim();
+  } catch {}
+}
+const js = "// Catálogo sincronizado da MultiMarine do Brasil.\nwindow.MULTIMARINE_COURSES = " + JSON.stringify(result, null, 2) + ";\n";
 await fs.writeFile("courses-data.js", js);
 console.log(`Catálogo completo sincronizado: ${list.length} cursos.`);
