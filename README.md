@@ -111,3 +111,22 @@ O diferencial planejado é combinar:
 ## Observação importante
 
 O repositório é público porque está sendo usado também como vitrine de desenvolvimento. Recursos de produção que dependam de CRM, banco de dados, autenticação, certificados ou informações internas devem ser conectados somente depois do levantamento com o cliente e da definição dos dados e permissões necessários.
+
+## Checkpoint — 27/09/2026
+
+**Estado salvo para a próxima sessão.** O projeto está no commit `362354bef9e820cd22cf026ad07b69a354e82aeb` da branch `main`.
+
+### Prioridade imediata quando retomarmos
+1. **Finalizar a logo oficial**: usar a imagem fornecida pelo cliente como fonte visual, eliminar distorção/escala incorreta e garantir consistência no header e nas páginas internas.
+2. **Unificar o sistema institucional**: cabeçalho, rodapé, telefones, endereço de Macaé, WhatsApp, mapa e links institucionais com o mesmo padrão visual e de conteúdo.
+3. **Testar o catálogo ponta a ponta**: categorias da home, filtros, busca, abertura do curso, volta preservando posição e funcionamento das URLs.
+4. **Consolidar mobile/tablet/desktop** sem criar versões separadas do site: mesma base, composição específica por breakpoint.
+5. **Continuar a curadoria de imagens** em lotes, priorizando coerência entre curso, profissão, equipamento e ambiente de trabalho.
+6. **Auditar o funil de captação**: descobrir o que deve ser medido agora e o que ficará preparado para CRM após a reunião com o cliente.
+7. **Benchmark + diferenciais**: transformar recursos encontrados nos concorrentes em backlog classificado por impacto, esforço e dependência de backend.
+8. **SEO de aquisição**: páginas e conteúdos orientados a intenção local em Macaé, validação de sitemap/indexação e preparação do Search Console.
+9. **Higienização técnica**: remover CSS/markup legado e duplicado, revisar gerador SEO e impedir regressões de deploy.
+10. **Preparar reunião com o cliente**: criar uma pauta objetiva para descobrir origem dos leads, atendimento, matrícula, pagamento, certificados, EAD, turmas, vendas B2C/B2B e pós-venda.
+
+### Regra de continuidade
+Não considerar nenhuma funcionalidade "operacional" como real sem confirmar o processo da MultiMarine. Recursos simulados devem permanecer claramente demonstrativos e, quando fizer sentido, já deixar a interface pronta para futura integração.
