@@ -5,7 +5,7 @@ window.MULTIMARINE_COURSES = [
     "name": "Administração de Hotéis 45h",
     "url": "https://multimarinedobrasil.com.br/product/administracoes-de-hoteis-45h/",
     "slug": "administracoes-de-hoteis-45h",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kitchen_training_150915-N-MI079-001.jpg",
     "description": "Com este curso de administrações de hotéis, o aluno aprenderá; As principais rotinas e atividades de um hotel; As funções de um gerente; Hospedagem; Gestão Financeira de um hotel; Email; Com o seguinte conteúdo programático: Introdução O hotel O gerente Planejamento Operação do hotel Recursos Humanos Hospedagem Alimentos e Bebidas Eventos e Lazer Gestão Financeira Sistema de Compras e Gerenciamento de Estoques Manutenção Bibliografia/Links Recomendados",
     "hours": "",
     "price": ""
@@ -14,7 +14,7 @@ window.MULTIMARINE_COURSES = [
     "name": "Almoxarife 48H",
     "url": "https://multimarinedobrasil.com.br/product/almoxarife-48h/",
     "slug": "almoxarife-48h",
-    "image": "https://images.pexels.com/photos/5100049/pexels-photo-5100049.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "image": "https://www.grupomegabox.com.br/imagens_megabox/hero-1.jpg",
     "description": "OBJETIVO GERAL Capacitar profissionais na realização de atividades pertinentes ao setor de almoxarifado, no que tange a administração de materiais e armazenagem, utilizando as ferramentas de tecnologia da informação adequadas e proporcionando-lhe conhecimentos específicos de gestão e normas de segurança. CONHECIMENTOS ADQUIRIDOS Ao final do curso, o aluno terá conhecimento sobre: Execução das atividades pertinentes ao almoxarife, bem como: recebimento e aceitação do material, armazenagem, expedição, escolha do modal de transporte e controle de materiais. Diretrizes de Gestão Administrativa, no que tange a: recursos organizacionais, tomadas de decisão, atendimento ao público, organização do ambiente de trabalho e recursos humanos. Procedimentos pertinentes a Compras, bem como os processos de compras e as compras pela internet; Metodologias de gestão de qualidade, com foco na satisfação nas necessidades implícitas pelo cliente; Utilização de Tecnologia da Informação, com foco em gerenciamento de estoque, transporte e armazenamento; Execução das atividades relacionadas à Administração de Materiais, com ênfase em cadeias de suprimentos, classificação de materiais e padronização de cadastramento de itens; Metodologias de gestão de estoque, com foco em redução de custo, avaliação de estoques através de inventários e métodos que garantem a eficiência da gestão; Diretrizes que regem a Armazenagem de Materiais, como: a logística de armazenagem, os critérios e as recomendações de armazenagem de produtos químicos, embalagens e suas simbologias e princípios de armazenagem com ênfase em layout; Procedimentos para a movimentação de carga, bem como as técnicas e equipamentos utilizados para tal; Princípios de segurança, com foco na importância de prevenção à acidentes; Normas Regulamentadores que norteiam a administração, a movimentação e o armazenamento de materiais; Termos que se aplicam na Gestão do Almoxarifado.",
     "hours": "",
     "price": ""
@@ -41,7 +41,7 @@ window.MULTIMARINE_COURSES = [
     "name": "Atendimento ao Público 40h",
     "url": "https://multimarinedobrasil.com.br/product/atendimento-ao-publico-40h/",
     "slug": "atendimento-ao-publico-40h",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png",
     "description": "O Curso de Atendimento ao Público , irá fornecer ao aluno, orientações fundamentais relacionados a Administração . Este curso de Atendimento ao Público tem o propósito de preparar o aluno para cumprir essa função com responsabilidade e dignidade, desenvolvendo um trabalho de qualidade com base nos conhecimentos adquiridos. O curso visa enriquecer os conhecimentos dos alunos, ampliando seus conhecimentos sobre a função pública, o que lhes permitirá se destacar no mercado de trabalho. Sendo composto pelos seguintes materiais teóricos: os caminhos de excelência no atendimento, quais são os tipos de clientes e como atende-los, técnicas para falar de forma clara e objetiva e muito mais.",
     "hours": "",
     "price": ""
@@ -50,7 +50,7 @@ window.MULTIMARINE_COURSES = [
     "name": "Atendimento Humanizado na Saúde",
     "url": "https://multimarinedobrasil.com.br/product/atendimento-humanizado-na-saude/",
     "slug": "atendimento-humanizado-na-saude",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Basic_first_aid_training_130219-N-PF210-358.jpg",
+    "image": "https://www.saneikai-hp.jp/data/media/blog252.jpg",
     "description": "Conteúdo: Atendimento Humanizado Pontos Importantes do Atendimento Humanizado Benefícios do Atendimento Humanizado Pacientes Oncológicos e Enfermagem Assistência em Atendimento Domiciliar",
     "hours": "",
     "price": ""
@@ -83,7 +83,8 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Capacitação em Imunização: Da Teoria à Prática",
     "url": "https://multimarinedobrasil.com.br/product/capacitacao-em-imunizacao-da-teoria-a-pratica/",
-    "slug": "capacitacao-em-imunizacao-da-teoria-a-pratica"
+    "slug": "capacitacao-em-imunizacao-da-teoria-a-pratica",
+    "image": "https://www.saneikai-hp.jp/data/media/blog252.jpg"
   },
   {
     "name": "CAPACITAÇÃO MÁQUINAS INJETORAS",
@@ -109,7 +110,7 @@ window.MULTIMARINE_COURSES = [
     "name": "Curso Alinhamento Acoplamentos",
     "url": "https://multimarinedobrasil.com.br/product/curso-alinhamento-acoplamentos/",
     "slug": "curso-alinhamento-acoplamentos",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%96lbohrplattform.jpg",
+    "image": "https://s0.rbk.ru/rbcplus_pics/media/img/7/09/296183825744097.jpg",
     "description": "URL Source: https://multimarinedobrasil.com.br/product/curso-alinhamento-acoplamentos/ Markdown Content: Qual é o objetivo do Curso Alinhamento Acoplamentos? O objetivo do Curso Alinhamento Acoplamentos é abordar junto aos profissionais da área como realizar o alinhamento correto dos acoplamentos entre o eixo do motor e o redutor, evitando desgastes prematuros e falhas no equipamento, atendendo aos requisitos mínimos das normas regulamentadoras e promovendo a segurança e saúde no trabalho.",
     "hours": "",
     "price": ""
@@ -211,17 +212,20 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso de Auxiliar de Serviços Gerais 40h",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-auxiliar-de-servicos-gerais-40h/",
-    "slug": "curso-de-auxiliar-de-servicos-gerais-40h"
+    "slug": "curso-de-auxiliar-de-servicos-gerais-40h",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png"
   },
   {
     "name": "Curso de CONHECIMENTOS BÁSICOS SOBRE LOGÍSTICA, DISTRIBUIÇÃO E TRANSPORTE DE CARGAS 30h",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-conhecimentos-basicos-sobre-logistica-distribuicao-e-transporte-de-cargas-30h/",
-    "slug": "curso-de-conhecimentos-basicos-sobre-logistica-distribuicao-e-transporte-de-cargas-30h"
+    "slug": "curso-de-conhecimentos-basicos-sobre-logistica-distribuicao-e-transporte-de-cargas-30h",
+    "image": "https://images.pexels.com/photos/5100048/pexels-photo-5100048.jpeg?auto=compress&cs=tinysrgb&w=1600"
   },
   {
     "name": "Curso de Cozinheiro – Taifeiro 160h",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-cozinheiro-taifeiro-60h/",
-    "slug": "curso-de-cozinheiro-taifeiro-60h"
+    "slug": "curso-de-cozinheiro-taifeiro-60h",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kitchen_training_150915-N-MI079-001.jpg"
   },
   {
     "name": "Curso de Eficiência Energética",
@@ -236,7 +240,8 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso de Guindaste 120h",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-guindaste-120h/",
-    "slug": "curso-de-guindaste-120h"
+    "slug": "curso-de-guindaste-120h",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB-5_Equipment_Operator_Conducts_Crane_Familiarization_Training_(9878736).jpg"
   },
   {
     "name": "Curso de Instrutor NR 20",
@@ -247,7 +252,7 @@ window.MULTIMARINE_COURSES = [
     "name": "Curso de Mecânica Industrial 60h",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-mecanica-industrial-60h/",
     "slug": "curso-de-mecanica-industrial-60h",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/HMS_Ocelot_1962_engine_room_looking_forward.JPG",
+    "image": "https://cdn.shopify.com/s/files/1/0597/2511/9675/files/Industrial_Machinery_Mechanic.jpg?v=1679419245",
     "description": "Mecânico Industrial é o profissional que instala equipamentos mecânicos, realiza trabalhos de manutenção e reparação. Desenvolve desenhos e projetos de conjuntos mecânicos, conjuntos e ferramentas. O curso de Mecânica Industrial capacita profissionais da indústria capazes de operar, manter e instalar máquinas e equipamentos, proporcionando formação humanística, científica e tecnológica. A qualificação oferece condições de inserção no mercado de trabalho e possibilidade de especialização em diversas áreas.",
     "hours": "",
     "price": ""
@@ -260,7 +265,8 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso de Noções Básicas em Maqueiro 40h",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-nocoes-basicas-em-maqueiro-40h/",
-    "slug": "curso-de-nocoes-basicas-em-maqueiro-40h"
+    "slug": "curso-de-nocoes-basicas-em-maqueiro-40h",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paramedic_training_in_Telangana_Rebellion.jpg"
   },
   {
     "name": "Curso de Noções de Proteção Radiológica 4h",
@@ -285,7 +291,8 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso de NR 10",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-nr-10/",
-    "slug": "curso-de-nr-10"
+    "slug": "curso-de-nr-10",
+    "image": "https://www.delmar.edu/degrees/electrician/_images/electrician-masked.jpeg"
   },
   {
     "name": "Curso de NR 10 + Curso de NR 35",
@@ -310,13 +317,14 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso de NR 20 – Segurança e Saúde no Trabalho com Inflamáveis e Combustíveis 40h",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-nr-20-seguranca-e-saude-no-trabalho-com-inflamaveis-e-combustiveis-40h/",
-    "slug": "curso-de-nr-20-seguranca-e-saude-no-trabalho-com-inflamaveis-e-combustiveis-40h"
+    "slug": "curso-de-nr-20-seguranca-e-saude-no-trabalho-com-inflamaveis-e-combustiveis-40h",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MWSS-172_practices_firefighting_skills_in_Central_Training_Area_(9795764).jpg"
   },
   {
     "name": "Curso de NR 23 – Proteção Contra Incêndios 40h",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-nr-23-protecao-contra-incendios-40h/",
     "slug": "curso-de-nr-23-protecao-contra-incendios-40h",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Diego_Garcia_Safety_Fair_2021_(6694263).jpg",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MWSS-172_practices_firefighting_skills_in_Central_Training_Area_(9795736).jpg",
     "description": "Esta norma regulamentadora estabelece as principais medidas que os empregadores devem tomar para combater incêndios. Este curso apresenta todos os conceitos e elementos, formas de propagação, classes de incêndio e muitos outros pontos importantes na proteção contra incêndio.",
     "hours": "",
     "price": ""
@@ -329,17 +337,20 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso de NR 37 – Segurança e Saúde em Plataformas de Petróleo 60h",
     "url": "https://multimarinedobrasil.com.br/product/nr-37-60h/",
-    "slug": "nr-37-60h"
+    "slug": "nr-37-60h",
+    "image": "https://molgroup.info/images/site/mgio/about/company-overview-parallax.jpg"
   },
   {
     "name": "Curso de NR33 – Segurança e Saúde no Trabalho em Espaços Confinados 40h",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-nr33-seguranca-e-saude-no-trabalho-em-espacos-confinados-40h/",
-    "slug": "curso-de-nr33-seguranca-e-saude-no-trabalho-em-espacos-confinados-40h"
+    "slug": "curso-de-nr33-seguranca-e-saude-no-trabalho-em-espacos-confinados-40h",
+    "image": "https://relyon.com/images/zgIAAEgAAABVAAAA0QAAAIoCAACKAgAA.webp"
   },
   {
     "name": "Curso de Petróleo e Gás 20h",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-petroleo-e-gas-20h/",
-    "slug": "curso-de-petroleo-e-gas-20h"
+    "slug": "curso-de-petroleo-e-gas-20h",
+    "image": "https://molgroup.info/images/site/mgio/about/company-overview-parallax.jpg"
   },
   {
     "name": "Curso de Prevenção e Combate a Incêndio e Pânico",
@@ -353,7 +364,8 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso de Técnicas de Coleta de Sangue 60h",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-tecnicas-de-coleta-de-sangue-60h/",
-    "slug": "curso-de-tecnicas-de-coleta-de-sangue-60h"
+    "slug": "curso-de-tecnicas-de-coleta-de-sangue-60h",
+    "image": "https://www.saneikai-hp.jp/data/media/blog252.jpg"
   },
   {
     "name": "CURSO DE TESTE DE GÁS E H²S – 12H",
@@ -427,7 +439,8 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Inspeção Soldagem Polietileno",
     "url": "https://multimarinedobrasil.com.br/product/curso-inspecao-soldagem-polietileno/",
-    "slug": "curso-inspecao-soldagem-polietileno"
+    "slug": "curso-inspecao-soldagem-polietileno",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NAVSCIATTS%27_Students_Learn_Welding_Techniques_160818-N-JK586-001.jpg"
   },
   {
     "name": "Curso Inspeção Tubulações PRFV (Compósitos)",
@@ -442,7 +455,8 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Instrutor de Empilhadeira e Transpaleteira",
     "url": "https://multimarinedobrasil.com.br/product/curso-instrutor-de-empilhadeira-e-transpaleteira/",
-    "slug": "curso-instrutor-de-empilhadeira-e-transpaleteira"
+    "slug": "curso-instrutor-de-empilhadeira-e-transpaleteira",
+    "image": "https://images.pexels.com/photos/5100049/pexels-photo-5100049.jpeg?auto=compress&cs=tinysrgb&w=1600"
   },
   {
     "name": "Curso Instrutor de Paleteira",
@@ -452,7 +466,8 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Instrutor de Ponte Rolante, Talha e Monovias",
     "url": "https://multimarinedobrasil.com.br/product/curso-instrutor-de-ponte-rolante-talha-e-monovias/",
-    "slug": "curso-instrutor-de-ponte-rolante-talha-e-monovias"
+    "slug": "curso-instrutor-de-ponte-rolante-talha-e-monovias",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB-5_Equipment_Operator_Conducts_Crane_Familiarization_Training_(9878736).jpg"
   },
   {
     "name": "Curso Instrutor Espaço Confinado e NR 35",
@@ -526,7 +541,8 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Lei Lucas Primeiros Socorros",
     "url": "https://multimarinedobrasil.com.br/product/curso-lei-lucas-primeiros-socorros/",
-    "slug": "curso-lei-lucas-primeiros-socorros"
+    "slug": "curso-lei-lucas-primeiros-socorros",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Basic_first_aid_training_130219-N-PF210-358.jpg"
   },
   {
     "name": "Curso Líder Linhas Desenergizadas",
@@ -619,7 +635,8 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Nova NR 35",
     "url": "https://multimarinedobrasil.com.br/product/curso-nova-nr-35/",
-    "slug": "curso-nova-nr-35"
+    "slug": "curso-nova-nr-35",
+    "image": "https://viendaotao.vn/wp-content/uploads/2024/06/image2-1.png"
   },
   {
     "name": "Curso NR 01 Disposições Gerais",
@@ -629,7 +646,8 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso NR 10 Nível Básico",
     "url": "https://multimarinedobrasil.com.br/product/curso-nr-10-nivel-basico/",
-    "slug": "curso-nr-10-nivel-basico"
+    "slug": "curso-nr-10-nivel-basico",
+    "image": "https://images.pexels.com/photos/21812143/pexels-photo-21812143.jpeg?auto=compress&cs=tinysrgb&w=1600"
   },
   {
     "name": "Curso NR 12 Anexo 02 e 09",
@@ -683,7 +701,8 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Operador de Talha Elétrica",
     "url": "https://multimarinedobrasil.com.br/product/curso-operador-de-talha-eletrica/",
-    "slug": "curso-operador-de-talha-eletrica"
+    "slug": "curso-operador-de-talha-eletrica",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB-5_Equipment_Operator_Conducts_Crane_Familiarization_Training_(9878736).jpg"
   },
   {
     "name": "Curso Operador e Mantenedor de Cabine Primária",
@@ -698,7 +717,8 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Operador Ponte Rolante",
     "url": "https://multimarinedobrasil.com.br/product/curso-operador-ponte-rolante/",
-    "slug": "curso-operador-ponte-rolante"
+    "slug": "curso-operador-ponte-rolante",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB-5_Equipment_Operator_Conducts_Crane_Familiarization_Training_(9878736).jpg"
   },
   {
     "name": "Curso Operador Prensa Enfardadeira",
@@ -729,7 +749,7 @@ window.MULTIMARINE_COURSES = [
     "name": "Curso Pintura Industrial 200h",
     "url": "https://multimarinedobrasil.com.br/product/curso-pintura-industrial-200h/",
     "slug": "curso-pintura-industrial-200h",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iraqi_OSV_Al_Basra_(401).jpg",
+    "image": "https://images.pexels.com/photos/5657436/pexels-photo-5657436.jpeg?auto=compress&cs=tinysrgb&w=1600",
     "description": "QUALIFICAÇÃO É DA PRÓPRIA MULTIMARINE CERTIFICAÇÃO INTERNACIONAL ASHI Curso Pintura Industrial O objetivo do Curso Aprimoramento Pintura Industrial Tintas Líquidas visa fornecer conhecimentos para aprimoramento nas atividades de aplicação de Tintas para pintura industrial . O que é Tinta Líquida? É um produto líquido, pastoso ou em pó, com propriedades de formar película após secagem ou cura, composto por uma mistura formada de resinas, pigmentos, solventes, cargas e aditivos. As tintas líquidas apresentam 4 grupos de matérias primas, solventes, resinas, pigmentos e aditivos. Outras literaturas separam estes grupos de matérias primas em constituintes básicos, que são incorporados em todas as tintas, a saber: – Solventes, resinas e pigmentos, e constituintes eventuais e/ou aditivos, que são incorporados apenas a alguns tipos de tintas, para conferir propriedades especiais. Quais são os tipos de Tintas? Tintas com veículo não convertíveis; Tintas acrílicas; Tintas de estirenoacrilato; Tintas de borracha clorada; Tintas vinílicas; Outras tintas não convertíveis; Tintas de nitrocelulose; Tintas betuminosas; Tintas com veículos convertíveis; Tintas a óleo; Tintas de resinas alquídicas modificadas com óleo; Tinta líquida alquídica; Tintas de resinas fenólicas modificadas com óleo; Tintas epóxi; Tintas éster de epóxi; Tinta de alcatrão de hulha epóxi; Tintas epóxis tar free; Shop primer epóxi; epóxis ricas em zinco; Tintas epóxis bisfenol F / Novolac; Poliuretano; Poliuretano Poliaspártico; Tintas de silicone; Tintas com veículos; inorgânicos de Silicato; Silicato de etila; Silicatos Inorgânicos;",
     "hours": "",
     "price": ""
@@ -821,7 +841,8 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Robô Mecânico Industrial",
     "url": "https://multimarinedobrasil.com.br/product/curso-robo-mecanico-industrial/",
-    "slug": "curso-robo-mecanico-industrial"
+    "slug": "curso-robo-mecanico-industrial",
+    "image": "https://cdn.shopify.com/s/files/1/0597/2511/9675/files/Industrial_Machinery_Mechanic.jpg?v=1679419245"
   },
   {
     "name": "Curso Serra Policorte",
@@ -836,7 +857,8 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Solda Aluminotérmica (Exotérmica) 16h",
     "url": "https://multimarinedobrasil.com.br/product/curso-solda-aluminotermica-exotermica-16h/",
-    "slug": "curso-solda-aluminotermica-exotermica-16h"
+    "slug": "curso-solda-aluminotermica-exotermica-16h",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg"
   },
   {
     "name": "Curso Técnicas Comunicação Oratória",
@@ -919,7 +941,8 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "INSPEÇÃO DE SOLDAGEM POR ENSAIO VISUAL – EVS",
     "url": "https://multimarinedobrasil.com.br/product/inspecao-de-solda/",
-    "slug": "inspecao-de-solda"
+    "slug": "inspecao-de-solda",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NAVSCIATTS%27_Students_Learn_Welding_Techniques_160818-N-JK586-001.jpg"
   },
   {
     "name": "Introdução à Anatomia Dental",
@@ -1175,7 +1198,8 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Mecânica Industrial 40h",
     "url": "https://multimarinedobrasil.com.br/product/mecanica-industrial-40h/",
-    "slug": "mecanica-industrial-40h"
+    "slug": "mecanica-industrial-40h",
+    "image": "https://s0.rbk.ru/rbcplus_pics/media/img/7/09/296183825744097.jpg"
   },
   {
     "name": "Noções Básicas de Odontologia do Trabalho",
@@ -1278,7 +1302,8 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "NR 11 Empilhadeira",
     "url": "https://multimarinedobrasil.com.br/product/nr-11-empilhadeira/",
-    "slug": "nr-11-empilhadeira"
+    "slug": "nr-11-empilhadeira",
+    "image": "https://images.pexels.com/photos/5100048/pexels-photo-5100048.jpeg?auto=compress&cs=tinysrgb&w=1600"
   },
   {
     "name": "NR 11 Manipulador Telescópico",
@@ -1342,7 +1367,8 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Plataformista 40h",
     "url": "https://multimarinedobrasil.com.br/product/plataformista-40h/",
-    "slug": "plataformista-40h"
+    "slug": "plataformista-40h",
+    "image": "https://www.ilrestodelcarlino.it/image-service/version/c%3AMzY5YzgyNWEtNjRmMC00%3ANGUxNTEx/ravenna-ccs-hub-il-progetto-di-eni-e-snam-per-una-filiera-italiana-nella-decarbonizzazione.webp?f=16%3A9&q=1&w=1560"
   },
   {
     "name": "Recepcionista 35h",
@@ -1361,7 +1387,8 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Recepcionista de Hotel 25h",
     "url": "https://multimarinedobrasil.com.br/product/recepcionista-de-hotel-25h/",
-    "slug": "recepcionista-de-hotel-25h"
+    "slug": "recepcionista-de-hotel-25h",
+    "image": "https://images.pexels.com/photos/36684286/pexels-photo-36684286.jpeg?auto=compress&cs=tinysrgb&w=1600"
   },
   {
     "name": "Saúde Bucal da Gestante e do Bebê",
@@ -1386,7 +1413,8 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "TREINAMENTO DE INSTALAÇÕES ELÉTRICAS ENERGIZADAS",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-de-instalacoes-eletricas-energizadas/",
-    "slug": "treinamento-de-instalacoes-eletricas-energizadas"
+    "slug": "treinamento-de-instalacoes-eletricas-energizadas",
+    "image": "https://images.pexels.com/photos/10871737/pexels-photo-10871737.jpeg?auto=compress&cs=tinysrgb&w=1600"
   },
   {
     "name": "TREINAMENTO DE NR 31",
@@ -1450,12 +1478,14 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "TREINAMENTO PRIMEIROS SOCORROS",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-primeiros-socorros/",
-    "slug": "treinamento-primeiros-socorros"
+    "slug": "treinamento-primeiros-socorros",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paramedic_training_in_Telangana_Rebellion.jpg"
   },
   {
     "name": "Treinamento Primeiros Socorros",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-primeiros-socorros-2/",
-    "slug": "treinamento-primeiros-socorros-2"
+    "slug": "treinamento-primeiros-socorros-2",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Basic_first_aid_training_130219-N-PF210-358.jpg"
   },
   {
     "name": "Treinamento Trabalho Altura",
