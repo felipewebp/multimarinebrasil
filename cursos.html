@@ -16,6 +16,12 @@ a{text-decoration:none;color:inherit}.top{background:#fff;border-bottom:1px soli
 <div class="official"><p><strong>Catálogo oficial:</strong> a base atual da MultiMarine possui mais de 270 cursos e treinamentos. A navegação, busca e páginas individuais estão disponíveis aqui no site MultiMarine.</p><a href="https://multimarinedobrasil.com.br/cursos/" target="_blank" rel="noopener">ABRIR CATÁLOGO OFICIAL ↗</a></div></main>
 <script src="courses-data.js?v=20260927-2"></script>
 <script>
+const categoryParam=new URLSearchParams(location.search).get('categoria');
+const categoryMap={offshore:'Offshore',seguranca:'Segurança',industrial:'Industrial',saude:'Saúde',administrativo:'Administrativo',hotelaria:'Hotelaria'};
+if(categoryParam&&categoryMap[categoryParam]){
+  document.getElementById('filter').value=categoryMap[categoryParam];
+  document.querySelector('.hero p').textContent='Cursos e treinamentos da área de '+categoryMap[categoryParam]+'. Encontre a formação e fale com a equipe para confirmar turma, modalidade e disponibilidade.';
+}
 const grid=document.getElementById('grid'),search=document.getElementById('search'),filter=document.getElementById('filter'),count=document.getElementById('count'),empty=document.getElementById('empty');
 const courses=Array.isArray(window.MULTIMARINE_COURSES)?window.MULTIMARINE_COURSES:[];
 function cat(name){const s=String(name||'').toLowerCase();if(/taifeiro|saloneiro|cozinheiro|hotelaria|garçom|garcom|camareir|hospedagem/.test(s))return'Hotelaria';if(/nr\s?\d|seguran|riscos|incêndio|incendio|inflam|atmosfera|emergência|emergencia|resgate|brigada|extintor|bloqueio|epi|trabalho em altura|espaço confinado/.test(s))return'Segurança';if(/offshore|petróleo|petroleo|plataforma|api|guindaste|guindar|marít|marit/.test(s))return'Offshore';if(/odont|saúde|saude|imunização|imunizacao|maqueiro|enferm/.test(s))return'Saúde';if(/administr|atendimento|almox|office|vendas|rh|recursos humanos|financeir|contabil/.test(s))return'Administrativo';return'Industrial'}
@@ -30,4 +36,5 @@ function render(){
   if(!courses.length){empty.style.display='block';empty.textContent='Catálogo carregando ou indisponível. Atualize a página.'}
 }
 search.addEventListener('input',render);filter.addEventListener('change',render);render();
-</script></body></html>
+</script><a class="mm-attendant" href="https://wa.me/5522996172167?text=Ol%C3%A1%21%20Vim%20pelo%20site%20da%20MultiMarine%20e%20tenho%20uma%20d%C3%BAvida." target="_blank" rel="noopener" aria-label="Falar com atendimento pelo WhatsApp"><span class="mm-attendant-tip">Olá! Posso ajudar?</span><img src="assets/atendente.svg" alt="Atendente MultiMarine"></a>
+</body></html>
