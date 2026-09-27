@@ -99,6 +99,7 @@ const contactBlock = () => [
 ].join("");
 
 const lead = '<script src="' + ORIGIN + '/lead-popup.js"></script>';
+const trail = '<script src="' + ORIGIN + '/trilha.js"></script>';
 
 const backScript = [
   '<script>',
@@ -155,7 +156,7 @@ const courseHtml = c => {
     '<header class="top"><a class="brand brand-mm" href="' + ORIGIN + '/"><img class="brand-logo-mm" src="' + OFFICIAL_LOGO + '" alt="MultiMarine do Brasil"></a><a id="backCatalog" class="back" href="' + ORIGIN + '/cursos.html">← CATÁLOGO</a></header>',
     '<section class="hero"><div class="hero-inner"><div class="crumb">MULTIMARINE · ' + esc(cat.toUpperCase()) + ' · MACAÉ/RJ</div>',
     '<div class="badge ' + t[1] + '">' + t[0] + '</div><h1>' + esc(c.name) + '</h1><p>' + esc(desc.slice(0,450)) + '</p>',
-    '<div class="actions"><a class="btn primary" href="' + whatsapp(c) + '" target="_blank" rel="noopener">QUERO INFORMAÇÕES ↗</a><a class="btn ghost" href="' + ORIGIN + '/cursos.html">VER OUTROS CURSOS</a></div></div></section>',
+    '<div class="actions"><a class="btn primary" href="' + whatsapp(c) + '" target="_blank" rel="noopener">QUERO INFORMAÇÕES ↗</a><a class="btn ghost" href="' + ORIGIN + '/cursos.html">VER OUTROS CURSOS</a><button class="btn ghost mm-trilha-add" type="button" data-trail-add="' + c.slug + '" data-trail-name="' + esc(c.name) + '">ADICIONAR À TRILHA</button></div></div></section>',
     '<main class="wrap"><div class="grid"><article class="panel"><img class="cover" src="' + esc(image(c)) + '" alt="' + esc(c.name) + '">',
     '<div class="badge ' + t[1] + '">' + t[0] + '</div><h2>Sobre esta formação</h2><p class="desc">' + esc(desc) + '</p>',
     '<div class="facts"><div class="fact"><small>TIPO DE FORMAÇÃO</small><strong>' + t[0] + '</strong></div>',
@@ -164,7 +165,7 @@ const courseHtml = c => {
     '<div class="fact"><small>ÁREA</small><strong>' + esc(cat) + '</strong></div></div></article>',
     '<aside class="cta-box"><h3>Quer confirmar esta turma?</h3><p>Consulte disponibilidade, modalidade, requisitos, datas e condições diretamente com a equipe.</p><a class="btn primary" href="' + whatsapp(c) + '" target="_blank" rel="noopener">FALAR NO WHATSAPP ↗</a></aside></div>',
     '<section class="final"><h2>Seu próximo passo começa aqui.</h2><p>Explore outras formações ou peça orientação para encontrar o caminho mais adequado ao seu objetivo.</p></section></main>',
-    contactBlock(), footer(), backScript, lead, '</body></html>'
+    contactBlock(), footer(), backScript, lead, trail, '</body></html>'
   ].join("");
 };
 
