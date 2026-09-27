@@ -86,7 +86,7 @@ function render(){
     popularTitle.textContent='Mais procurados em '+activeCat;
     popularGrid.innerHTML=featured.map(x=>{
       const t=courseType(x);
-      return '<article class="popular-card"><img loading="lazy" src="'+esc(x.image||FALLBACKS[cat(x.name).toLowerCase()]||FALLBACKS.geral)+'" alt="'+esc(x.name)+'"><span class="mini-badge">'+t[0]+'</span><h3>'+esc(x.name)+'</h3><a data-course-link="1" class="popular-link" href="curso.html?slug='+encodeURIComponent(x.slug||'')+'">VER CURSO ↗</a></article>';
+      return '<article class="popular-card"><img loading="lazy" src="'+esc(x.image||FALLBACKS[cat(x.name).toLowerCase()]||FALLBACKS.geral)+'" alt="'+esc(x.name)+'"><span class="mini-badge">'+t[0]+'</span><h3>'+esc(x.name)+'</h3><div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:auto"><a data-course-link="1" class="popular-link" href="curso.html?slug='+encodeURIComponent(x.slug||'')+'">VER CURSO ↗</a><button class="mm-trilha-add" type="button" data-trail-add="'+esc(x.slug||'')+'" data-trail-name="'+esc(x.name)+'">TRILHA +</button></div></article>';
     }).join('');
   } else { popularArea.hidden=true;popularGrid.innerHTML=''; }
   count.textContent=(activeCat?'Destaques primeiro · ':'')+(f==='__popular__'?'Mais procurados · ':'')+list.length+' de '+courses.length+' cursos';
