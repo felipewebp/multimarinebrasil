@@ -137,11 +137,15 @@ footer .brand-logo{mix-blend-mode:normal!important;filter:none!important;opacity
 @media(max-width:800px){.hero-bg{background-position:64% center!important;background-size:cover!important}.gallery-grid img{object-position:center}.companies-image{background-position:center!important}.footer-top .brand-logo{width:190px;height:48px}}
 
 /* V9 — composição visual consolidada */
-.hero-bg{background:url("https://images.akzonobel.com/akzonobel-coatings/international-marine/gl/header-offshore-support-vessels.jpg?impolicy=.auto&imwidth=1900") 58% center/cover no-repeat!important}
-.visual-strip .ship{background-image:url("https://commons.wikimedia.org/wiki/Special:FilePath/Skandi_Kvits%C3%B8y%2C_dekk..jpg")!important}
-.visual-strip .rig{background-image:url("https://clickpetroleoegas.com.br/wp-content/uploads/2025/12/Operacoes-Offshore-Oficial-de-Maquinas-PLSV-e-AHTS-Manutencao-Naval-Seguranca-Maritima.jpg")!important}
-.visual-strip .crew{background-image:url("https://commons.wikimedia.org/wiki/Special:FilePath/Boom_Deployment_Sequence_%2852115084254%29.jpg")!important}
+.hero-bg{background:url("https://images.unsplash.com/photo-1775606949060-02b4a0c08f52?auto=format&fit=crop&fm=jpg&q=85&w=2400") 58% center/cover no-repeat!important}
+.visual-strip .ship{background-image:url("https://commons.wikimedia.org/wiki/Special:FilePath/OSV_HOS_Black_Rock.jpg")!important}
+.visual-strip .rig{background-image:url("https://images.pexels.com/photos/37510660/pexels-photo-37510660.jpeg?auto=compress&cs=tinysrgb&w=1600")!important}
+.visual-strip .crew{background-image:url("https://images.pexels.com/photos/17420866/pexels-photo-17420866.jpeg?auto=compress&cs=tinysrgb&w=1600")!important}
 .gallery-grid .g1 img{object-position:center!important}.gallery-grid .g2 img{object-position:center!important}.gallery-grid .g3 img{object-position:center!important}
 .companies-image{background:url("https://www.umtc.com.ph/web/image/35807-c802c6b8/IMG_0785.JPG") center/cover no-repeat!important}
 footer .brand-logo{mix-blend-mode:normal!important;filter:none!important;background:#fff!important;padding:6px 10px!important;border-radius:2px!important;opacity:1!important}
 @media(max-width:800px){.hero-bg{background-position:55% center!important}.visual-strip .ship,.visual-strip .rig,.visual-strip .crew{background-size:cover!important;background-position:center!important}.companies-image{background-position:center!important}}
+
+/* V10 — hero com vídeo opcional e enquadramento seguro */
+.hero{background:#06101b}.hero-video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center;z-index:0;opacity:0;transition:opacity .35s}.hero-video.ready{opacity:1}.hero-bg{z-index:0}.hero-shade{z-index:1}.grid{z-index:1}.hero-content,.hero-location{z-index:2}.hero-video+.hero-shade{background:linear-gradient(90deg,#06101bf2 5%,#06101bd8 43%,#06101b68 78%,#06101b98),linear-gradient(0deg,#06101b 0%,transparent 35%)}
+@media(max-width:800px){.hero-video{object-position:62% center}.hero-video+.hero-shade{background:linear-gradient(90deg,#06101be8 0%,#06101b9c 52%,#06101b65 100%),linear-gradient(0deg,#06101b 0%,transparent 40%)}}
