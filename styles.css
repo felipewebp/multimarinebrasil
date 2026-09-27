@@ -30,3 +30,32 @@
 
 /* Logo oficial */
 .brand-logo{display:block;width:190px;height:48px;object-fit:contain;object-position:left center;filter:none}.brand{gap:0}.footer-top .brand-logo{width:190px;height:48px}@media(max-width:800px){.brand-logo{width:160px;height:42px}.footer-top .brand-logo{width:170px;height:44px}}
+
+
+/* Identidade MultiMarine — refinamento */
+:root{
+  --mm-blue:#0568bf;
+  --mm-blue-dark:#063b66;
+  --mm-red:#dd0f0f;
+  --mm-navy:#071827;
+  --mm-ink:#0b2238;
+  --mm-light:#f3f7fa;
+}
+body{background:#f6f8fa;color:var(--mm-ink)}
+.site-header{background:rgba(255,255,255,.96);border-bottom:1px solid rgba(5,104,191,.12)}
+.nav a{color:var(--mm-navy)}
+.nav a:hover{color:var(--mm-blue)}
+.btn-primary{background:var(--mm-blue);box-shadow:0 10px 24px rgba(5,104,191,.22)}
+.btn-primary:hover{background:#04579f}
+.btn-secondary{border-color:rgba(5,104,191,.35);color:var(--mm-blue)}
+.eyebrow{color:var(--mm-blue)}
+.section-kicker{color:var(--mm-blue)}
+.intent:hover,.visual-card:hover,.catalog-card:hover{border-color:rgba(5,104,191,.42);box-shadow:0 18px 42px rgba(7,24,39,.10)}
+.intent strong,.catalog-card h3,.journey h3{color:var(--mm-navy)}
+.offshore{background:var(--mm-navy)}
+.offshore .eyebrow{color:#66b8ff}
+.journey-step span{color:var(--mm-red)}
+.companies{background:#eaf3f9}
+.contact{background:var(--mm-blue);color:#fff}
+.contact .eyebrow{color:#d9efff}
+.floating-whatsapp{background:#19a974}
