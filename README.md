@@ -4,6 +4,16 @@ Site institucional da unidade **MultiMarine do Brasil em Macaé/RJ**, criado par
 
 > **Status:** desenvolvimento ativo. Este repositório é também o diário público da evolução do projeto.
 
+## Para quem estiver visitando este repositório
+
+Este projeto está em desenvolvimento ativo e deliberadamente não representa ainda a operação comercial final da MultiMarine. As telas e fluxos atuais servem para validar a experiência digital antes da reunião de levantamento com o cliente. Parte das integrações é simulada no front-end e está preparada para receber CRM, banco de dados, autenticação, certificados e EAD quando essas regras forem definidas.
+
+**Já existe:** catálogo, filtros, orientação por objetivo, Minha Trilha, WhatsApp contextual, atribuição inicial de origem, páginas SEO, jornada offshore e briefing corporativo.
+
+**Em desenvolvimento:** refinamento visual, conversão, conteúdo local, SEO de intenção e preparação da futura camada de gestão.
+
+**Depois do levantamento com o cliente:** conectar o que realmente existir no processo de matrícula, atendimento, pagamentos, certificados, EAD e gestão corporativa — sem inventar funcionalidades operacionais que a empresa não utilize.
+
 ## O que já foi construído
 
 ### Experiência do visitante
