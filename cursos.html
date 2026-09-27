@@ -32,7 +32,7 @@ if(categoryParam&&categoryMap[categoryParam]){
   document.getElementById('filter').value=categoryMap[categoryParam];
   document.getElementById('catalogIntro').textContent='Cursos e treinamentos da área de '+categoryMap[categoryParam]+'. Os destaques aparecem primeiro para facilitar sua escolha.';
 }
-const dummy_should_not_exist=document.getElementById('count'),empty=document.getElementById('empty'),popularArea=document.getElementById('popularArea'),popularGrid=document.getElementById('popularGrid'),popularTitle=document.getElementById('popularTitle');
+const grid=document.getElementById('grid'),search=document.getElementById('search'),filter=document.getElementById('filter'),typeFilter=document.getElementById('typeFilter'),count=document.getElementById('count'),empty=document.getElementById('empty'),popularArea=document.getElementById('popularArea'),popularGrid=document.getElementById('popularGrid'),popularTitle=document.getElementById('popularTitle');
 
 const courses=Array.isArray(window.MULTIMARINE_COURSES)?window.MULTIMARINE_COURSES:[];
 function cat(name){const s=String(name||'').toLowerCase();if(/taifeiro|saloneiro|cozinheiro|hotelaria|garçom|garcom|camareir|hospedagem/.test(s))return'Hotelaria';if(/nr\s?\d|seguran|riscos|incêndio|incendio|inflam|atmosfera|emergência|emergencia|resgate|brigada|extintor|bloqueio|epi|trabalho em altura|espaço confinado/.test(s))return'Segurança';if(/offshore|petróleo|petroleo|plataforma|api|guindaste|guindar|marít|marit/.test(s))return'Offshore';if(/odont|saúde|saude|imunização|imunizacao|maqueiro|enferm/.test(s))return'Saúde';if(/administr|atendimento|almox|office|vendas|rh|recursos humanos|financeir|contabil/.test(s))return'Administrativo';return'Industrial'}
