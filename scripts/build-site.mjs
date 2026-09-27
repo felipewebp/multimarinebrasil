@@ -39,7 +39,8 @@ const image = c => c.image || fallback[category(c.name)] || fallback.Industrial;
 const whatsapp = c => "https://wa.me/5522996172167?text=" + encodeURIComponent("Olá, gostaria de informações sobre o curso " + c.name);
 const styleLink = '<link rel="stylesheet" href="' + ORIGIN + '/course-page.css">';
 const leadScript = '<script src="' + ORIGIN + '/lead-popup.js"></script>';
-const backScript = '<script>(()=>{const b=document.getElementById("backCatalog");try{const st=JSON.parse(sessionStorage.getItem("mmCatalogReturn")||"null");if(b&&st&&st.url)b.href=st.url;}catch{}})();</script>';\nconst supportHtml = '<a class="mm-attendant" href="https://wa.me/5522996172167?text=' + encodeURIComponent('Olá! Vim pelo site da MultiMarine e tenho uma dúvida.') + '" target="_blank" rel="noopener" aria-label="Falar com atendimento pelo WhatsApp"><img src="' + ORIGIN + '/assets/whatsapp.svg" alt="" aria-hidden="true"></a>';
+const backScript = '<script>(()=>{const b=document.getElementById("backCatalog");try{const st=JSON.parse(sessionStorage.getItem("mmCatalogReturn")||"null");if(b&&st&&st.url)b.href=st.url;}catch{}})();</script>';
+const supportHtml = '<a class="mm-attendant" href="https://wa.me/5522996172167?text=' + encodeURIComponent('Olá! Vim pelo site da MultiMarine e tenho uma dúvida.') + '" target="_blank" rel="noopener" aria-label="Falar com atendimento pelo WhatsApp"><img src="' + ORIGIN + '/assets/whatsapp.svg" alt="" aria-hidden="true"></a>';
 
 const courseHtml = c => {
   const t = type(c);
