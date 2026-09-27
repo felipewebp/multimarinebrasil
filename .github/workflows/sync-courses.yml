@@ -1,0 +1,29 @@
+name: Sincronizar catálogo MultiMarine
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Sincronizar cursos
+        run: node scripts/sync-courses.mjs
+      - name: Publicar atualização
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add courses-data.js
+          if git diff --cached --quiet; then
+            echo "Catálogo sem alterações."
+          else
+            git commit -m "Atualizar catálogo completo de cursos"
+            git push
+          fi
