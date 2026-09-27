@@ -93,7 +93,8 @@ function render(){
   empty.style.display=list.length?'none':'block';
   if(!courses.length){empty.style.display='block';empty.textContent='Catálogo carregando ou indisponível. Atualize a página.'}
 }
-const intentChips=document.getElementById('intentChips');if(intentChips)intentChips.addEventListener('click',e=>{const b=e.target.closest('button[data-q]');if(!b)return;search.value=b.dataset.q;render();document.querySelector('.catalog')?.scrollIntoView({behavior:'smooth',block:'start'});});\nsearch.addEventListener('input',render);
+const intentChips=document.getElementById('intentChips');if(intentChips)intentChips.addEventListener('click',e=>{const b=e.target.closest('button[data-q]');if(!b)return;search.value=b.dataset.q;render();document.querySelector('.catalog')?.scrollIntoView({behavior:'smooth',block:'start'});});
+search.addEventListener('input',render);
 filter.addEventListener('change',render);
 typeFilter.addEventListener('change',render);
 render();
