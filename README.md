@@ -19,6 +19,8 @@ Site institucional da unidade **MultiMarine do Brasil em Macaé/RJ**, criado par
 - WhatsApp contextual.
 - Popup de captação otimizado para mobile.
 - **Orientador de Qualificação em 60 segundos**, com recomendações iniciais e encaminhamento para WhatsApp.
+- **Minha Trilha**: o visitante pode selecionar até 5 cursos e enviar a seleção para orientação no WhatsApp.
+- **Atribuição de origem**: campanhas/UTMs, primeira página e contexto da visita acompanham o contato no WhatsApp.
 
 ### Estrutura comercial
 O projeto está sendo organizado para trabalhar dois fluxos diferentes:
@@ -34,17 +36,19 @@ A logo oficial fornecida pela MultiMarine é a referência da marca. A implement
 
 ## O que está sendo mexido agora
 
-1. Padronização do rodapé, contato e localização entre as páginas.
-2. Correção de navegação e proteção contra links 404.
+1. Consolidação da identidade visual e da logo oficial em todas as páginas.
+2. Padronização do rodapé, contato, endereço e localização; o mapa fica compacto e carregado de forma preguiçosa para não pesar o site.
 3. Refinamento responsivo para desktop, tablet e celular.
-4. Melhoria da experiência de captura de leads.
-5. Organização das imagens do catálogo por função/atividade profissional.
-6. SEO técnico e arquitetura de páginas por categoria e curso.
-7. Revisão do gerador automático de páginas SEO para manter o mesmo padrão visual do site principal.
+4. Evolução da jornada de conversão: catálogo → orientação → trilha → WhatsApp.
+5. Revisão contínua das imagens do catálogo para que representem a função/atividade do curso.
+6. SEO técnico, páginas por categoria/curso e arquitetura local para Macaé.
+7. Separação entre sincronização do catálogo e build das páginas SEO, evitando coletas desnecessárias a cada alteração de design.
+8. Benchmark contínuo de recursos de concorrentes de Macaé e do mercado de treinamentos.
 
 ## O que vem a seguir
 
 ### Fase 1 — produto comercial
+- transformar a atribuição atual do WhatsApp em uma base mensurável quando houver CRM;
 - medir de onde chegam os leads;
 - identificar curso/área/objetivo de cada contato;
 - preparar integração com CRM;
@@ -53,6 +57,8 @@ A logo oficial fornecida pela MultiMarine é a referência da marca. A implement
 
 ### Fase 2 — empresas
 - formulário inteligente de demanda;
+- briefing com quantidade, local, prazo e turno;
+- futura solicitação de proposta por volume e cronograma;
 - proposta por volume de pessoas;
 - calendário/cronograma;
 - histórico de treinamentos;
@@ -90,7 +96,7 @@ A intenção é transformar a MultiMarine em uma **porta de entrada digital para
 
 O diferencial planejado é combinar:
 
-**catálogo + orientação de carreira + contexto offshore + atendimento comercial + futura gestão de treinamentos.**
+**catálogo + orientação por objetivo + Minha Trilha + contexto offshore + atendimento comercial contextualizado + futura gestão de treinamentos.**
 
 ## Observação importante
 
