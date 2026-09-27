@@ -99,7 +99,7 @@ typeFilter.addEventListener('change',render);
 render();
 const courseListSchema=document.getElementById('courseListSchema');
 if(courseListSchema&&courses.length){
-  const itemList=courses.filter(x=>x.slug).map((x,i)=>({'@type':'ListItem',position:i+1,url:new URL('cursos/'+x.slug+'/',location.href).href,item:{'@type':'Course',name:x.name,description:String(x.description||'Curso e treinamento MultiMarine.').replace(/<[^>]*>/g,' ').slice(0,60),provider:{'@type':'Organization',name:'MultiMarine do Brasil',url:new URL('./',location.href).href}}}));
+  const itemList=courses.filter(x=>x.slug).map((x,i)=>({'@type':'ListItem',position:i+1,url:new URL('cursos/'+x.slug+'/',location.href).href}));
   courseListSchema.textContent=JSON.stringify({'@context':'https://schema.org','@type':'ItemList',itemListElement:itemList});
 }
 history.scrollRestoration='manual';
