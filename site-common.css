@@ -3,3 +3,6 @@
 @media(max-width:800px){.mm-footer{padding:42px 6vw 18px}.mm-footer-grid{grid-template-columns:1fr;gap:28px}.mm-footer-logo{width:190px}.mm-footer-bottom{margin-top:28px}.mm-contact-panel{padding:40px 6vw}.mm-contact-grid{grid-template-columns:1fr}.mm-map-frame{height:280px}.mm-contact-copy h2{font-size:30px}}
 
 .mm-footer-logo-box{width:250px;background:#fff;border-radius:5px;padding:6px 10px;margin-bottom:14px;overflow:hidden}.mm-footer-logo-box .mm-footer-logo{width:230px;height:64px;object-fit:cover;object-position:center;display:block;margin:0}@media(max-width:800px){.mm-footer-logo-box{width:215px}.mm-footer-logo-box .mm-footer-logo{width:195px;height:56px}}
+
+/* V17 — identidade comum */
+.brand-logo,.brand-logo-mm,.lp-brand img,.mm-footer-logo{height:auto!important;object-fit:contain!important;display:block!important;max-width:100%!important}.brand-logo,.brand-logo-mm{width:250px!important}.mm-footer-logo-box{background:transparent!important;padding:0!important;width:250px!important;border-radius:0!important}.mm-footer-logo-box .mm-footer-logo{width:250px!important;height:auto!important;object-fit:contain!important}@media(max-width:800px){.brand-logo,.brand-logo-mm{width:205px!important}.mm-footer-logo-box,.mm-footer-logo-box .mm-footer-logo{width:205px!important}}
