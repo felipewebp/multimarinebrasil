@@ -100,6 +100,7 @@ const contactBlock = () => [
 
 const lead = '<script src="' + ORIGIN + '/lead-popup.js"></script>';
 const trail = '<script src="' + ORIGIN + '/trilha.js"></script>';
+const attribution = '<script src="' + ORIGIN + '/attribution.js"></script>';
 
 const backScript = [
   '<script>',
