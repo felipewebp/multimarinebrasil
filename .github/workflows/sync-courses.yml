@@ -22,11 +22,13 @@ jobs:
         uses: actions/checkout@v4
       - name: Sincronizar cursos
         run: node scripts/sync-courses.mjs
+      - name: Gerar páginas SEO, categorias e sitemap
+        run: node scripts/build-site.mjs
       - name: Publicar atualização
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add courses-data.js
+          git add courses-data.js cursos sitemap.xml robots.txt
           if git diff --cached --quiet; then
             echo "Catálogo sem alterações."
           else
