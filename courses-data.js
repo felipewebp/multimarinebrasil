@@ -98,11 +98,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Consultoria NR 29",
     "url": "https://multimarinedobrasil.com.br/product/consultoria-nr-29/",
-    "slug": "consultoria-nr-29",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg",
-    "description": "NOME TÉCNICO: CONSULTORIA PARA ADEQUAÇÃO À NR 29 – SEGURANÇA E SAÚDE NO TRABALHO PORTUÁRIO",
-    "hours": "",
-    "price": ""
+    "slug": "consultoria-nr-29"
   },
   {
     "name": "Curso Acidente Trânsito Produtos Perigosos",
@@ -122,7 +118,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Aprimoramento NBR 12313",
     "url": "https://multimarinedobrasil.com.br/product/curso-aprimoramento-nbr-12313/",
-    "slug": "curso-aprimoramento-nbr-12313"
+    "slug": "curso-aprimoramento-nbr-12313",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg",
+    "description": "Conteúdo Programático Normativo Curso Aprimoramento NBR 12313 Conteúdo Programático Normativo: Objetivo; Definições; Condições Gerais; Condições Específicas; Levantamento do Consumo de gás; Parâmetros e Metodologia de Cálculo; Requisitos de Tubos, Conexões, Válvulas, Medidores; Demais Normas Aplicáveis; Comissionamento e Procedimentos para drenagem do gás; Bloqueio duplo e descarga; Bloqueio de segurança; Câmara de Combustão; Câmara de processo; Chama de partida; Chama principal; Comissionamento; Controle alto/baixo; Controle liga/desliga; Controle modulante; Controle de proteção de chama; Desarme; Equipamentos de alta temperatura; Equipamentos de baixa temperatura; Estabelecimento da chama de partida; Interruptor de prova de posição; Intertravamento; Fonte: ABNT NBR 12313",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso Atmosfera Explosiva EX001",
@@ -152,11 +152,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Cesto Aéreo Acoplado",
     "url": "https://multimarinedobrasil.com.br/product/curso-cesto-aereo-acoplado/",
-    "slug": "curso-cesto-aereo-acoplado",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB-5_Equipment_Operator_Conducts_Crane_Familiarization_Training_(9878736).jpg",
-    "description": "URL Source: https://multimarinedobrasil.com.br/product/curso-cesto-aereo-acoplado/ Markdown Content: Curso Cesto Aéreo Acoplado O Curso Cesto Aéreo Acoplado é um treinamento voltado para profissionais que atuam em trabalhos em altura, como eletricistas, pintores, instaladores e outros. O objetivo do curso é capacitar esses profissionais para operar o cesto aéreo acoplado de forma segura e eficiente. O cesto aéreo acoplado é um equipamento utilizado em trabalhos em altura que consiste em uma plataforma suspensa por um cabo de aço acoplado a um guindaste ou outro tipo de veículo. Ele permite que os profissionais realizem trabalhos em locais de difícil acesso, como fachadas de prédios, torres de transmissão e outros. No curso, os participantes aprendem sobre as normas de segurança que devem ser seguidas durante a operação do cesto aéreo acoplado, bem como as técnicas de manuseio e manutenção do equipamento. Além disso, também são abordados temas como primeiros socorros e resgate em altura. O curso é dividido em partes teóricas e práticas, com aulas ministradas por instrutores especializados. Na parte teórica, os participantes aprendem sobre as normas regulamentadoras que regem o trabalho em altura, bem como as técnicas de operação do cesto aéreo acoplado. Já na parte prática, os participantes têm a oportunidade de colocar em prática o que foi aprendido em aulas. Em resumo, o Curso Cesto Aéreo Acoplado é uma oportunidade para que profissionais que trabalham em altura possam se capacitar para operar o equipamento de forma segura e eficiente. Com ele, é possível garantir a integridade física dos trabalhadores e aumentar a produtividade das atividades realizadas em locais de difícil acesso.",
-    "hours": "",
-    "price": ""
+    "slug": "curso-cesto-aereo-acoplado"
   },
   {
     "name": "Curso Comandos hidráulicos",
@@ -176,11 +172,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Como Elaborar Relatório de Inspeção Predial",
     "url": "https://multimarinedobrasil.com.br/product/curso-como-elaborar-relatorio-de-inspecao-predial/",
-    "slug": "curso-como-elaborar-relatorio-de-inspecao-predial",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iraqi_OSV_Al_Basra_(401).jpg",
-    "description": "URL Source: https://multimarinedobrasil.com.br/product/curso-como-elaborar-relatorio-de-inspecao-predial/ Markdown Content: Qual o objetivo do Curso Como Elaborar Relatório de Inspeção Predial? O Curso como Elaborar Relatório de Inspeção Predial tem por objetivo determinar irregularidades prediais que possam prejudicar a qualidade da edificação como patologias, anomalias estruturais ou endógenas e falhas, decorrentes de erros de projeto, materiais incorretos ou má execução.",
-    "hours": "",
-    "price": ""
+    "slug": "curso-como-elaborar-relatorio-de-inspecao-predial"
   },
   {
     "name": "Curso Como Projetar Para-raios",
@@ -200,7 +192,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Correia Transportadora",
     "url": "https://multimarinedobrasil.com.br/product/curso-correia-transportadora/",
-    "slug": "curso-correia-transportadora"
+    "slug": "curso-correia-transportadora",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%96lbohrplattform.jpg",
+    "description": "URL Source: https://multimarinedobrasil.com.br/product/curso-correia-transportadora/ Markdown Content: O que é o curso de Correia Transportadora? O curso de Correia Transportadora é uma formação técnica que tem como objetivo capacitar profissionais para atuarem na área de manutenção e operação de sistemas de transporte de materiais por meio de correias. A correia transportadora é um equipamento utilizado em diversos segmentos industriais, como mineração, siderurgia, construção civil, agricultura, entre outros. É responsável por transportar grandes volumes de materiais de um ponto a outro, de forma eficiente e segura.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso Corte por Plasma",
@@ -240,11 +236,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso de Guindaste 120h",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-guindaste-120h/",
-    "slug": "curso-de-guindaste-120h",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB-5_Equipment_Operator_Conducts_Crane_Familiarization_Training_(9878736).jpg",
-    "description": "Treinamento Guindaste O objetivo do treinamento guindaste visa capacitar o colaborador a se proteger dos riscos ao se manusear o equipamento de forma segura a fim de prevenir possíveis acidentes durante suas operações . Somente por meio de treinamento os colaboradores se tornam hábil e devidamente competentes para se alocar em áreas em que operações com guindastes sejam realizados e o treinamento de guindaste sempre atendendo aos pedidos da melhor forma para a máxima segurança do trabalhador. O que é Guindaste? Um guindaste é basicamente constituído de uma torre equipada com cabos e roldanas e é abrangentemente utilizado na construção civil e na indústria de equipamentos pesados. Usando o princípio da física no qual uma máquina simples cria vantagem mecânica para mover algo que seria praticamente impossível se içar apenas com força humana.",
-    "hours": "",
-    "price": ""
+    "slug": "curso-de-guindaste-120h"
   },
   {
     "name": "Curso de Instrutor NR 20",
@@ -264,7 +256,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso de Noções Básicas em Maqueiro 40h",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-nocoes-basicas-em-maqueiro-40h/",
-    "slug": "curso-de-nocoes-basicas-em-maqueiro-40h"
+    "slug": "curso-de-nocoes-basicas-em-maqueiro-40h",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paramedic_training_in_Telangana_Rebellion.jpg",
+    "description": "Realizar o acolhimento e prestar assistência no transporte de pacientes no departamento médico do hospital. Essa é a função dos profissionais maqueiros, responsáveis ​​pelo transporte dos pacientes da enfermaria para os leitos, na sala de cirurgia, e pelo exame e transporte dos pacientes. O profissional realiza o transporte do paciente com segurança dentro das Unidades de Saúde, da cadeira de rodas para a maca, da maca para cama, para a mesa de exames, atendendo as solicitações da equipe de enfermagem. Este curso de Noções Básicas em Maqueiro abrange os principais conteúdos no que diz a respeito à profissão.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso de Noções de Proteção Radiológica 4h",
@@ -284,11 +280,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso de NR 08 – Edificações 40h",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-nr-08-edificacoes-40h/",
-    "slug": "curso-de-nr-08-edificacoes-40h",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MWSS-172_practices_firefighting_skills_in_Central_Training_Area_(9795736).jpg",
-    "description": "A norma NR8 do Ministério do Trabalho e Emprego (MTE), regulamenta os requisitos técnicos mínimos que devem ser observados nas edificações para garantir segurança e conforto aos que nelas trabalham. A NR 8 tem sua existência jurídica assegurada, em nível de legislação ordinária, nos artigos 170 a 174 da Consolidação das Leis do Trabalho (CLT).",
-    "hours": "",
-    "price": ""
+    "slug": "curso-de-nr-08-edificacoes-40h"
   },
   {
     "name": "Curso de NR 10",
@@ -328,16 +320,16 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso de NR 34 – Condições e Meio Ambiente de Trabalho na Indústria da Construção, Reparação e Desmonte Naval 40h",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-nr-34-condicoes-e-meio-ambiente-de-trabalho-na-industria-da-construcao-reparacao-e-desmonte-naval-40h/",
-    "slug": "curso-de-nr-34-condicoes-e-meio-ambiente-de-trabalho-na-industria-da-construcao-reparacao-e-desmonte-naval-40h"
+    "slug": "curso-de-nr-34-condicoes-e-meio-ambiente-de-trabalho-na-industria-da-construcao-reparacao-e-desmonte-naval-40h",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MWSS-172_practices_firefighting_skills_in_Central_Training_Area_(9795736).jpg",
+    "description": "A NR 34 – Condições e Meio Ambiente de Trabalho na Indústria da Construção, Reparação e Desmonte Naval estabelece medidas de segurança e saúde durante o trabalho a quente, trabalho ao ar livre, trabalho com exposição a radiação ionizante, jato de areia e jato de água, trabalho de pintura, operações de carga e descarga, instalação e desmontagem de andaimes, equipamentos portáteis, instalações elétricas temporárias, teste de vazamento, ancoragem temporária e estabilização de elementos estruturais, serviços baseados em estrutura flutuante e um plano de resposta a emergências (PRE).",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso de NR 37 – Segurança e Saúde em Plataformas de Petróleo 60h",
     "url": "https://multimarinedobrasil.com.br/product/nr-37-60h/",
-    "slug": "nr-37-60h",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Basic_first_aid_training_130219-N-PF210-358.jpg",
-    "description": "O Curso de NR 37 – Segurança e Saúde em Plataformas de Petróleo , irá fornecer ao aluno, orientações fundamentais relacionados a Normas Regulamentadoras . A NR 37 é a primeira norma regulamentadora voltada aos trabalhadores de plataformas de petróleo. A proposta da criação é de 2013 e, após anos de discussão, o texto foi publicado no Diário Oficial da União em 21 de dezembro por meio da Portaria n. 1.186/2018. A norma “estabelece os requisitos mínimos de segurança, saúde e condições de vivência no trabalho a bordo de plataformas de petróleo em operação nas Águas Jurisdicionais Brasileiras – AJB”. As obrigações também se destinam às instalações de apoio e às unidades marítimas de manutenção.",
-    "hours": "",
-    "price": ""
+    "slug": "nr-37-60h"
   },
   {
     "name": "Curso de NR33 – Segurança e Saúde no Trabalho em Espaços Confinados 40h",
@@ -372,11 +364,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Elaboração de Projeto de Biogás",
     "url": "https://multimarinedobrasil.com.br/product/curso-elaboracao-de-projeto-de-biogas/",
-    "slug": "curso-elaboracao-de-projeto-de-biogas",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg",
-    "description": "NOME TÉCNICO: CURSO APRIMORAMENTO SOBRE APLICAÇÃO DA NORMA PARA ELABORAÇÃO DE PROJETO DE BIOGÁS",
-    "hours": "",
-    "price": ""
+    "slug": "curso-elaboracao-de-projeto-de-biogas"
   },
   {
     "name": "Curso Elétrica Automotiva",
@@ -386,7 +374,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Energia Solar",
     "url": "https://multimarinedobrasil.com.br/product/curso-energia-solar/",
-    "slug": "curso-energia-solar"
+    "slug": "curso-energia-solar",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iraqi_OSV_Al_Basra_(401).jpg",
+    "description": "Markdown Content: O que é o curso energia solar? O curso sobre energia solar aborda o projeto e a instalação de sistemas de geração de energia elétrica a partir da luz solar. O curso inclui o dimensionamento do sistema, escolha dos equipamentos, instalação e manutenção, levando em consideração as normas e regulamentações aplicáveis. O objetivo é aprimorar os profissionais para projetar e instalar sistemas fotovoltaicos seguros, eficientes e de acordo com as normas técnicas vigentes. Os sistemas fotovoltaicos são uma excelente opção para quem busca uma fonte de energia limpa e renovável. Eles podem ser instalados em residências, empresas e indústrias, contribuindo para a redução do consumo de energia elétrica da rede pública e, consequentemente, para a redução dos custos com energia elétrica. Além disso, os sistemas fotovoltaicos podem gerar créditos de energia, que podem ser utilizados para abater o consumo de energia em outros pontos da rede Qual a limitação de potência ativa? O sistema fotovoltaico com potência nominal superior a 6 kW deve ser capaz de limitar a potência ativa injetada na rede por meio de telecomandos. Os valores de ajuste enviados por telecomando são expressos em porcentagem da potência nominal do sistema, em passos de amplitude máxima de 10 %. Se o sistema estiver com um nível de potência ativa inferior ao requerido, então não pode reduzir ainda mais sua potência ativa de saída. A potência ativa limitada pelo comando externo deve ser atingida no máximo dentro de 1 min após o recebimento do sinal, com tolerância de ± 2,5 % da potência nominal do sistema, respeitando as limitações da potência de entrada do sistema fotovoltaico.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso Equipamento Automotivo Combinado",
@@ -431,7 +423,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Inspeção Soldagem Polietileno",
     "url": "https://multimarinedobrasil.com.br/product/curso-inspecao-soldagem-polietileno/",
-    "slug": "curso-inspecao-soldagem-polietileno"
+    "slug": "curso-inspecao-soldagem-polietileno",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg",
+    "description": "URL Source: https://multimarinedobrasil.com.br/product/curso-inspecao-soldagem-polietileno/ Markdown Content: O que é o Curso Inspeção Soldagem Polietileno? O curso de Inspeção de Soldagem de Polietileno é um aprimoramento voltado para profissionais que desejam adquirir conhecimentos e habilidades para inspecionar e garantir a qualidade das soldas em materiais de polietileno. O polietileno é um tipo de plástico amplamente utilizado em diversas aplicações industriais, incluindo tubulações e equipamentos. Durante o curso, os participantes aprendem sobre os princípios e técnicas de soldagem de polietileno, incluindo os diferentes métodos de soldagem utilizados, como soldagem por termofusão e soldagem por eletrofusão. Eles também são treinados em inspeção visual, que envolve a identificação de defeitos nas soldas, como bolhas, porosidades, trincas e falta de fusão. O objetivo do curso é aprimorar os conhecimentos dos profissionais a garantir a integridade e a qualidade das soldas de polietileno, garantindo a segurança e a eficiência das estruturas e equipamentos que utilizam esse material. A inspeção adequada das soldas é essencial para evitar falhas e vazamentos, especialmente em aplicações críticas, como sistemas de abastecimento de água, redes de gás e oleodutos.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso Inspeção Tubulações PRFV (Compósitos)",
@@ -441,11 +437,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Instalação Predial de Água Fria",
     "url": "https://multimarinedobrasil.com.br/product/curso-instalacao-predial-de-agua-fria/",
-    "slug": "curso-instalacao-predial-de-agua-fria",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%96lbohrplattform.jpg",
-    "description": "NOME TÉCNICO: CURSO APRIMORAMENTO NBR 5626 INSTALAÇÃO PREDIAL DE ÁGUA FRIA",
-    "hours": "",
-    "price": ""
+    "slug": "curso-instalacao-predial-de-agua-fria"
   },
   {
     "name": "Curso Instrutor de Empilhadeira e Transpaleteira",
@@ -500,7 +492,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso IT 17 Brigada de Incêndio Básico",
     "url": "https://multimarinedobrasil.com.br/product/curso-it-17-brigada-de-incendio-basico/",
-    "slug": "curso-it-17-brigada-de-incendio-basico"
+    "slug": "curso-it-17-brigada-de-incendio-basico",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MWSS-172_practices_firefighting_skills_in_Central_Training_Area_(9795764).jpg",
+    "description": "NOME TÉCNICO: CURSO CAPACITAÇÃO BRIGADA DE INCÊNDIO IT 17 – NÍVEL BÁSICO",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso IT 17 Brigada de Incêndio Intermediário",
@@ -510,11 +506,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Laudo de Elevador de Cargas",
     "url": "https://multimarinedobrasil.com.br/product/curso-laudo-de-elevador-de-cargas/",
-    "slug": "curso-laudo-de-elevador-de-cargas",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%96lbohrplattform.jpg",
-    "description": "URL Source: https://multimarinedobrasil.com.br/product/curso-laudo-de-elevador-de-cargas/ Markdown Content: Qual é o objetivo do Curso Laudo de Elevador de Cargas? O curso de aprimoramento para executar inspeção técnica em elevadores de carga e elaborar relatório técnico é projetado para fornecer aos participantes as habilidades necessárias para realizar inspeções completas e precisas em elevadores de carga, bem como criar relatórios técnicos detalhados. A NBR 14712 estabelece os requisitos de segurança para construção e instalação de elevadores de carga, monta-cargas e elevadores de maca, elétricos e hidráulicos, instalados permanentemente, servindo a pavimentos definidos, e movendo-se entre guias inclinadas em no máximo 15° com a vertical, com ou sem casa de máquinas. Em casos especiais, em complementação às exigências desta Norma, devem ser consideradas exigências suplementares (atmosfera explosiva, condição climática extrema, terremotos, transporte de carga perigosa etc.). Quais são os principais componentes de um elevador de cargas que devem ser inspecionados durante uma inspeção técnica? Durante uma inspeção técnica em um elevador de cargas, os principais componentes que devem ser inspecionados incluem: Cabina do elevador; Sistema de tração; Sistema de segurança; Sistema elétrico; Sistema hidráulico (se aplicável); Poço do elevador; Casa de máquinas; Esses são alguns dos principais componentes que devem ser inspecionados durante uma inspeção técnica em um elevador de cargas. É importante que a inspeção seja realizada por PLH e equipe para garantir a segurança e o bom funcionamento do elevador. Quais são os procedimentos de teste que você realiza para verificar se o sistema de emergência do elevador de cargas está funcionando corretamente? Existem diversos procedimentos de teste que podem ser realizados para verificar se o sistema de emergência do elevador de cargas está funcionando corretamente. Alguns exemplos incluem: Teste de interrupção de energia; Teste de velocidade; Teste de carga; Esses são apenas alguns exemplos de procedimentos que podem ser realizados para verificar se o sistema de emergência do elevador de cargas está funcionando corretamente. É importante que esses testes sejam realizados por um PLH seguindo as normas e regulamentações aplicáveis.",
-    "hours": "",
-    "price": ""
+    "slug": "curso-laudo-de-elevador-de-cargas"
   },
   {
     "name": "Curso Laudo Explosividade NR-33",
@@ -574,16 +566,16 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Máquinas Elevação Transporte",
     "url": "https://multimarinedobrasil.com.br/product/curso-maquinas-elevacao-transporte/",
-    "slug": "curso-maquinas-elevacao-transporte"
+    "slug": "curso-maquinas-elevacao-transporte",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%96lbohrplattform.jpg",
+    "description": "NOME TÉCNICO: CURSO CAPACITAÇÃO NR 11 SEGURANÇA NA OPERAÇÃO DE MÁQUINAS DE ELEVAÇÃO E TRANSPORTE",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso Mecânica Básica Motores",
     "url": "https://multimarinedobrasil.com.br/product/curso-mecanica-basica-motores/",
-    "slug": "curso-mecanica-basica-motores",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg",
-    "description": "URL Source: https://multimarinedobrasil.com.br/product/curso-mecanica-basica-motores/ Markdown Content: Qual o objetivo do Curso Mecânica Básica Motores? O Curso Mecânica Básica Motores tem como objetivo fornecer aos participantes conhecimentos teóricos e práticos sobre o funcionamento de motores, bem como as principais técnicas e ferramentas utilizadas na manutenção e reparo de motores de combustão interna, atendendo aos requisitos mínimos das Normas Regulamentadoras, promovendo a Saúde e Segurança no trabalho.",
-    "hours": "",
-    "price": ""
+    "slug": "curso-mecanica-basica-motores"
   },
   {
     "name": "Curso Média Tensão NBR14039",
@@ -618,7 +610,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso NFPA 61",
     "url": "https://multimarinedobrasil.com.br/product/curso-nfpa-61/",
-    "slug": "curso-nfpa-61"
+    "slug": "curso-nfpa-61",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%96lbohrplattform.jpg",
+    "description": "Markdown Content: NOME TÉCNICO: CURSO APRIMORAMENTO NFPA 61 – PREVENÇÃO DE INCÊNDIOS E EXPLOSÕES DE POEIRA EM INSTALAÇÕES AGRÍCOLAS E DE PROCESSAMENTO DE ALIMENTOS (PREVENTION OF FIRES AND DUST EXPLOSIONS IN AGRICULTURAL AND FOOD PROCESSING FACILITIES) O que é a NFPA 61? A NFPA 61 é uma norma da National Fire Protection Association que tem como objetivo prevenir incêndios e explosões de poeira em instalações que lidam com materiais agrícolas a granel, seus subprodutos ou outras poeiras e materiais relacionados à agricultura. Em resumo, a NFPA 61 é uma norma que visa proteger vidas e propriedades em instalações agrícolas e de processamento de alimentos. É usada como referência por proprietários de instalações, consultores de segurança e saúde e autoridades reguladoras para melhorar a proteção de vidas e propriedades em instalações de processamento de alimentos a granel e produção de ração animal.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso Nova NR 35",
@@ -638,11 +634,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso NR 12 Anexo 02 e 09",
     "url": "https://multimarinedobrasil.com.br/product/curso-nr-12-anexo-02-e-09/",
-    "slug": "curso-nr-12-anexo-02-e-09",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg",
-    "description": "NOME TÉCNICO: CURSO CAPACITAÇÃO NR 12 ANEXO II E ANEXO IX MÁQUINAS E EQUIPAMENTOS – INJETORA DE MATERIAIS PLÁSTICOS",
-    "hours": "",
-    "price": ""
+    "slug": "curso-nr-12-anexo-02-e-09"
   },
   {
     "name": "Curso NR 12 Anexo 02 e 11",
@@ -672,7 +664,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Opacidade Escala de Ringelmann",
     "url": "https://multimarinedobrasil.com.br/product/curso-opacidade-escala-de-ringelmann/",
-    "slug": "curso-opacidade-escala-de-ringelmann"
+    "slug": "curso-opacidade-escala-de-ringelmann",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg",
+    "description": "NOME TÉCNICO: CURSO APRIMORAMENTO MEDIÇÃO DO NÍVEL DE OPACIDADE DE FUMAÇA – ANÁLISE DE MÉTODO RINGELMANN E ELABORAR RELATÓRIO TÉCNICO",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso Operador Calandra NR12",
@@ -712,11 +708,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso para NR 12",
     "url": "https://multimarinedobrasil.com.br/product/curso-para-nr-12/",
-    "slug": "curso-para-nr-12",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg",
-    "description": "NOME TÉCNICO: CURSO CAPACITAÇÃO NR 12 – SEGURANÇA NO TRABALHO EM MÁQUINAS E EQUIPAMENTOS",
-    "hours": "",
-    "price": ""
+    "slug": "curso-para-nr-12"
   },
   {
     "name": "Curso Perfuração Extração Petróleo",
@@ -741,7 +733,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Preparadores Calda Aplicadores Agrotóxicos",
     "url": "https://multimarinedobrasil.com.br/product/curso-preparadores-calda-aplicadores-agrotoxicos/",
-    "slug": "curso-preparadores-calda-aplicadores-agrotoxicos"
+    "slug": "curso-preparadores-calda-aplicadores-agrotoxicos",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Agriculture_Training_Center_(5683690897).jpg",
+    "description": "URL Source: https://multimarinedobrasil.com.br/product/curso-preparadores-calda-aplicadores-agrotoxicos/ Markdown Content: Qual o objetivo do Curso Preparadores de Calda e Aplicadores de Agrotóxicos? O objetivo do curso é aprimorar os conhecimentos dos profissionais que trabalham com a preparação de caldas e aplicação de agrotóxicos, visando garantir a segurança do trabalhador e a eficiência do controle de pragas e doenças nas lavouras, atendendo aos requisitos mínimos das normas regulamentadoras.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso Primeiros Socorros Florestal",
@@ -776,11 +772,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Regras de Ouro",
     "url": "https://multimarinedobrasil.com.br/product/curso-regras-de-ouro/",
-    "slug": "curso-regras-de-ouro",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg",
-    "description": "Markdown Content: O que é o curso de regras de ouro? O curso de Regras de Ouro para Segurança do Trabalho é uma capacitação essencial para todos os profissionais que atuam em ambientes de trabalho. Ele é baseado em um conjunto de orientações que visam garantir a segurança e a integridade física dos trabalhadores, reduzindo os riscos de acidentes e doenças ocupacionais. Durante o curso, os participantes aprendem sobre os principais riscos presentes em diferentes tipos de ambiente de trabalho, bem como as medidas de prevenção e controle que devem ser adotadas para minimizá-los. Além disso, são abordadas questões relacionadas à ergonomia, higiene ocupacional e primeiros socorros. As Regras de Ouro para Segurança do Trabalho são fundamentais para garantir a saúde e a segurança dos trabalhadores, além de contribuir para a produtividade e a qualidade dos serviços prestados. Por isso, é importante que empresas e profissionais invistam nessa capacitação, visando sempre a melhoria contínua das condições de trabalho e a promoção da segurança e saúde ocupacional. Quais os fundamentos das regras de ouro no ambiente do trabalho? As regras de ouro no ambiente de trabalho são fundamentadas em princípios que visam a manutenção de um ambiente saudável e produtivo. Dentre esses fundamentos, destacam-se a ética, o respeito mútuo, a comunicação clara e objetiva, a colaboração e a busca constante pela excelência. A ética é fundamental para estabelecer um ambiente de trabalho justo e honesto, onde todos os colaboradores são tratados com igualdade e respeito. O respeito mútuo é essencial para garantir um clima de harmonia e cooperação, onde todos se sentem valorizados e integrados. A comunicação clara e objetiva é outro fundamento importante, pois permite que as informações sejam transmitidas de forma eficiente e evita mal-entendidos. A colaboração entre os membros da equipe é fundamental para garantir o sucesso dos projetos e a satisfação dos clientes. Por fim, a busca constante pela excelência é um dos principais fundamentos das regras de ouro no ambiente de trabalho. Isso implica em estar sempre em busca de novas soluções, aprendendo com os erros e buscando a melhoria contínua dos processos e resultados.",
-    "hours": "",
-    "price": ""
+    "slug": "curso-regras-de-ouro"
   },
   {
     "name": "Curso Resgate Homem ao Mar",
@@ -795,7 +787,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Resgatista Coordenador",
     "url": "https://multimarinedobrasil.com.br/product/curso-resgatista-coordenador/",
-    "slug": "curso-resgatista-coordenador"
+    "slug": "curso-resgatista-coordenador",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%96lbohrplattform.jpg",
+    "description": "URL Source: https://multimarinedobrasil.com.br/product/curso-resgatista-coordenador/ Markdown Content: Qual o objetivo do Curso Resgatista Coordenador? O Curso Resgatista Coordenador especifica quanto ao nível de qualificação em resgate para coordenar uma operação de resgate e elaborar o seu planejamento, podendo avaliar, dimensionar e designar responsabilidades, para o procedimento correto dos resgates de alta complexidade em ambientes de altura ou espaço confinado.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso Resgatista Coordenador Mandarim",
@@ -845,11 +841,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Técnicas Comunicação Oratória",
     "url": "https://multimarinedobrasil.com.br/product/curso-tecnicas-comunicacao-oratoria/",
-    "slug": "curso-tecnicas-comunicacao-oratoria",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg",
-    "description": "NOME TÉCNICO: CURSO APRIMORAMENTO TÉCNICAS DE COMUNICAÇÃO E ORATÓRIA",
-    "hours": "",
-    "price": "R$750,00"
+    "slug": "curso-tecnicas-comunicacao-oratoria"
   },
   {
     "name": "Curso Tecnologias Redes Elétricas Inteligentes",
@@ -869,7 +861,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Tratamento de Superfície",
     "url": "https://multimarinedobrasil.com.br/product/curso-tratamento-de-superficie/",
-    "slug": "curso-tratamento-de-superficie"
+    "slug": "curso-tratamento-de-superficie",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg",
+    "description": "Conteúdo Programático Normativo Curso Tratamento de Superfície Conteúdo Programático Normativo: Termos e Definições; Requisitos; Liga e Têmpera; Processo de Revestimento; Pré-Tratamento; Lavagem; Secagem; Polimeração; Espessura do Revestimento Orgânico; Brilho; Resistência ao Impacto; Flexibilidade; Resistência a Abrasão; Aderência; Aderência Úmida; Dureza ao Grafite; Intemperismo Artificial; Intemperismo Natural; Corrosão Acelerada; Névoa Salina Acética; Acabamento; Uso e Manutenção; Amostragem; Exemplos de Pontos para Medição de Espessura do Revestimento; Esquema e Posicionamento para Verificação do Acabamento; Verificação da Polimerização; Espessura dos Revestimentos com Tinta em Pó; Espessura dos Revestimentos com Tinta Liquida; Limite de Aceitabilidade; Verificação da Aderência; Relação de Cores (RAL)/ Variação de Cor (∆E); Resultado do Ensaio de Névoa Salina; Amostragem. Fonte: ABNT NBR 14125",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso Trator Esteira",
@@ -884,11 +880,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Esterilização de Material de Saúde Bucal",
     "url": "https://multimarinedobrasil.com.br/product/esterilizacao-de-material-de-saude-bucal/",
-    "slug": "esterilizacao-de-material-de-saude-bucal",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Basic_first_aid_training_130219-N-PF210-358.jpg",
-    "description": "Conteúdo: Biossegurança na Odontologia Infecção e Transmissão de Doença Equipamentos de Proteção Individual Desinfecção Central de Esterilização LImpeza de Equipamentos Odontológicos",
-    "hours": "",
-    "price": ""
+    "slug": "esterilizacao-de-material-de-saude-bucal"
   },
   {
     "name": "Gestão e Liderança",
@@ -933,11 +925,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Introdução à Biossegurança na Odontologia",
     "url": "https://multimarinedobrasil.com.br/product/introducao-a-biosseguranca-na-odontologia/",
-    "slug": "introducao-a-biosseguranca-na-odontologia",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paramedic_training_in_Telangana_Rebellion.jpg",
-    "description": "Conteúdo: Biossegurança e Odontologia Controle de Infecção Desinfecção: Vantagens e Desvantagens Medidas Básicas da Biossegurança Limpeza dos Equipamentos Odontológicos Equipamentos Odontológicos",
-    "hours": "",
-    "price": ""
+    "slug": "introducao-a-biosseguranca-na-odontologia"
   },
   {
     "name": "Introdução à Odontologia Hospitalar",
@@ -947,7 +935,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Laudo Arqueação de Tanque",
     "url": "https://multimarinedobrasil.com.br/product/laudo-arqueacao-de-tanque/",
-    "slug": "laudo-arqueacao-de-tanque"
+    "slug": "laudo-arqueacao-de-tanque",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iraqi_OSV_Al_Basra_(401).jpg",
+    "description": "URL Source: https://multimarinedobrasil.com.br/product/laudo-arqueacao-de-tanque/ Markdown Content: Qual o objetivo do Laudo Arqueação de Tanque? O objetivo do Laudo de Arqueação de Tanque é determinar a capacidade volumétrica de um tanque, verificando se o volume armazenado está de acordo com as normas técnicas e legais, bem como estabelecer as exigências mínimas que devem ser seguidas para materiais, projeto, fabricação, montagem e testes de tanques de aço-carbono, soldados, cilíndricos, verticais, não enterrados, com teto fixo ou flutuante, destinados ao armazenamento de petróleo e seus derivados líquidos.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Laudo Asbestos (Amianto)",
@@ -977,11 +969,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Laudo Cintas Elevação Carga",
     "url": "https://multimarinedobrasil.com.br/product/laudo-cintas-elevacao-carga/",
-    "slug": "laudo-cintas-elevacao-carga",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iraqi_OSV_Al_Basra_(401).jpg",
-    "description": "URL Source: https://multimarinedobrasil.com.br/product/laudo-cintas-elevacao-carga/ Markdown Content: NOME TÉCNICO: EXECUÇÃO DE INSPEÇÃO EM CINTAS TÊXTEIS PARA ELEVAÇÃO DE CARGA – PARTE 3: CINTAS TUBULARES MANUFATURADAS, COM CORDÕES DE FIOS SINTÉTICOS DE ULTRA ALTA TENACIDADE FORMADOS POR MULTIFILAMENTOS NBR 15637-3 + ELABORAÇÃO DE RELATÓRIO TÉCNICO + EMISSÃO DE ART",
-    "hours": "",
-    "price": ""
+    "slug": "laudo-cintas-elevacao-carga"
   },
   {
     "name": "Laudo Combustíveis Destilados NBR17085",
@@ -1006,7 +994,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Laudo Cortadora Asfalto",
     "url": "https://multimarinedobrasil.com.br/product/laudo-cortadora-asfalto/",
-    "slug": "laudo-cortadora-asfalto"
+    "slug": "laudo-cortadora-asfalto",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iraqi_OSV_Al_Basra_(401).jpg",
+    "description": "NOME TÉCNICO: EXECUÇÃO DE INSPEÇÃO TÉCNICA DE SERRA CORTADORA DE ASFALTO + ELABORAÇÃO DE RELATÓRIO TÉCNICA + EMISSÃO DE ART",
+    "hours": "",
+    "price": "R$750,00"
   },
   {
     "name": "Laudo de Acessórios de Içamento",
@@ -1041,11 +1033,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Laudo de Granalha",
     "url": "https://multimarinedobrasil.com.br/product/laudo-de-granalha/",
-    "slug": "laudo-de-granalha",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg",
-    "description": "NOME TÉCNICO: EXECUÇÃO DE ANÁLISE TÉCNICA DE ENSAIOS EM GRANALHA + ELABORAÇÃO DO RELATÓRIO TÉCNICO + EMISSÃO DE ART",
-    "hours": "",
-    "price": ""
+    "slug": "laudo-de-granalha"
   },
   {
     "name": "Laudo de Inspeção nas Lingas, Cintas de Elevação e Olhal",
@@ -1080,16 +1068,16 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Laudo Equipamentos Diversão Buffets e Parques",
     "url": "https://multimarinedobrasil.com.br/product/laudo-equipamentos-diversao-buffets-e-parques/",
-    "slug": "laudo-equipamentos-diversao-buffets-e-parques",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iraqi_OSV_Al_Basra_(401).jpg",
-    "description": "NOME TÉCNICO: EXECUÇÃO DE INSPEÇÃO EM EQUIPAMENTOS DE DIVERSÃO INSTALADOS EM BUFFETS INFANTIS, PARQUE DE DIVERSÕES E SIMILARES DECRETO N. 52.587 DE 23/08/2011 + ELABORAÇÃOD E RELATÓRIO TÉCNICO E EMISSÃO DE ART",
-    "hours": "",
-    "price": ""
+    "slug": "laudo-equipamentos-diversao-buffets-e-parques"
   },
   {
     "name": "Laudo Equipamentos Eletrônicos NBR ISO 15003",
     "url": "https://multimarinedobrasil.com.br/product/laudo-equipamentos-eletronicos-nbr-iso-15003/",
-    "slug": "laudo-equipamentos-eletronicos-nbr-iso-15003"
+    "slug": "laudo-equipamentos-eletronicos-nbr-iso-15003",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg",
+    "description": "NOME TÉCNICO: EXECUÇÃO DE ENSAIOS DE RESISTÊNCIA ÀS CONDIÇÕES AMBIENTAIS – EQUIPAMENTOS ELÉTRICOS E ELETRÔNICOS DA ENGENHARIA AGRÍCOLA NBR ISO 15003",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Laudo Gerador 6.5Kva",
@@ -1114,11 +1102,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Laudo Identificação Odorífera",
     "url": "https://multimarinedobrasil.com.br/product/laudo-identificacao-odorifera/",
-    "slug": "laudo-identificacao-odorifera",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iraqi_OSV_Al_Basra_(401).jpg",
-    "description": "NOME TÉCNICO: EXECUÇÃO DE INSPEÇÃO TÉCNICA DE IDENTIFICAÇÃO ODORÍFERA + ELABORAÇÃO DE RELATÓRIO TÉCNICO + EMISSÃO DA ART",
-    "hours": "",
-    "price": ""
+    "slug": "laudo-identificacao-odorifera"
   },
   {
     "name": "Laudo Iluminação Emergência NBR 10898",
@@ -1163,7 +1147,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Laudo Sistemas Fotovoltaicos",
     "url": "https://multimarinedobrasil.com.br/product/laudo-sistemas-fotovoltaicos/",
-    "slug": "laudo-sistemas-fotovoltaicos"
+    "slug": "laudo-sistemas-fotovoltaicos",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg",
+    "description": "URL Source: https://multimarinedobrasil.com.br/product/laudo-sistemas-fotovoltaicos/ Markdown Content: Qual o objetivo do Laudo Sistemas Fotovoltaicos? O Laudo Sistemas Fotovoltaicos serve para atestar a conformidade dos cabos de potência e do desempenho dos ligamentos para fornecimento de energia, levando em consideração os devidos critérios de amostragem, ensaios e testes de resistência, tudo de acordo com os pré requisitos mencionados na NR 10.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Laudo Sistemas GNV Posto Combustível",
@@ -1178,11 +1166,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Laudo Vibrador Elétrico Industrial",
     "url": "https://multimarinedobrasil.com.br/product/laudo-vibrador-eletrico-industrial/",
-    "slug": "laudo-vibrador-eletrico-industrial",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Electrician_Training_class_in_Neelum_by_SDO.jpg",
-    "description": "URL Source: https://multimarinedobrasil.com.br/product/laudo-vibrador-eletrico-industrial/ A Elaboração do Relatório Técnico, obrigatoriamente, é o primeiro procedimento a ser realizado, porque determinará, juntamente com o Plano de Manutenção e Inspeção, os procedimentos de manutenção preventiva, preditiva, corretiva e detectiva, que deverão ser executados conforme determinam as normas técnicas e legislações pertinentes.",
-    "hours": "",
-    "price": ""
+    "slug": "laudo-vibrador-eletrico-industrial"
   },
   {
     "name": "Mecânica Industrial 40h",
@@ -1241,11 +1225,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "NR 06 – Equipamentos de Proteção Individual",
     "url": "https://multimarinedobrasil.com.br/product/nr-06-equipamentos-de-protecao-individual/",
-    "slug": "nr-06-equipamentos-de-protecao-individual",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MWSS-172_practices_firefighting_skills_in_Central_Training_Area_(9795736).jpg",
-    "description": "Objetivo Conscientizar os trabalhadores sobre o importante tema da proteção individual, familiarizando os profissionais sobre uma ampla gama de EPI´s, capacitando os mesmos sobre o correto uso dos equipamentos de proteção individual utilizados no dia a dia de trabalho.",
-    "hours": "",
-    "price": ""
+    "slug": "nr-06-equipamentos-de-protecao-individual"
   },
   {
     "name": "NR 10 – Trabalho em Atmosfera Explosiva / Áreas Classificadas",
@@ -1364,11 +1344,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Recepcionista de Consultório Odontológico",
     "url": "https://multimarinedobrasil.com.br/product/recepcionista-de-consultorio-odontologico/",
-    "slug": "recepcionista-de-consultorio-odontologico",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Basic_first_aid_training_130219-N-PF210-358.jpg",
-    "description": "Conteúdo: Recepcionista de Consultório Odontológico Atribuições do Cargo Atividades Exercidas Postura Profissional Atendimento Odontológico para Idosos Biossegurança em Consultório Odontológico Limpeza e Desinfecção de Equipamentos Odontológicos",
-    "hours": "",
-    "price": ""
+    "slug": "recepcionista-de-consultorio-odontologico"
   },
   {
     "name": "Recepcionista de Hotel 25h",
@@ -1378,7 +1354,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Saúde Bucal da Gestante e do Bebê",
     "url": "https://multimarinedobrasil.com.br/product/saude-bucal-da-gestante-e-do-bebe/",
-    "slug": "saude-bucal-da-gestante-e-do-bebe"
+    "slug": "saude-bucal-da-gestante-e-do-bebe",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paramedic_training_in_Telangana_Rebellion.jpg",
+    "description": "Conteúdo: Saúde Bucal da Gestante Saúde Bucal do Bebê Doenças Bucais Higiene Bucal Clínica Odontológica Sedando Pacientes Especiais Equipamentos Essenciais na Odontologia",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Técnicas de Vendas 40h",
@@ -1408,11 +1388,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Treinamento Direção Defensiva nas Empresas",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-direcao-defensiva-nas-empresas/",
-    "slug": "treinamento-direcao-defensiva-nas-empresas",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg",
-    "description": "URL Source: https://multimarinedobrasil.com.br/product/treinamento-direcao-defensiva-nas-empresas/ Markdown Content: Qual o objetivo do Treinamento Direção Defensiva nas Empresas? O Treinamento de Direção Defensiva tem como objetivo aprimorar as habilidades dos condutores para prevenir acidentes de trânsito, por meio da adoção de técnicas e comportamentos seguros. Embora não seja obrigatório por lei, algumas empresas e instituições podem exigir que seus funcionários realizem esse tipo de treinamento como medida de segurança. É importante ressaltar que investir em treinamentos de direção defensiva pode trazer diversos benefícios, como a redução de custos com acidentes, a preservação da vida dos condutores e a melhoria da imagem da empresa.",
-    "hours": "",
-    "price": ""
+    "slug": "treinamento-direcao-defensiva-nas-empresas"
   },
   {
     "name": "Treinamento e Desenvolvimento 40h",
@@ -1427,7 +1403,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Treinamento Introdutório NR 22",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-introdutorio-nr-22/",
-    "slug": "treinamento-introdutorio-nr-22"
+    "slug": "treinamento-introdutorio-nr-22",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MWSS-172_practices_firefighting_skills_in_Central_Training_Area_(9795736).jpg",
+    "description": "NOME TÉCNICO: TREINAMENTO INTRODUTÓRIO GERAL COM RECONHECIMENTO DO AMBIENTE DE TRABALHO NR 22",
+    "hours": "",
+    "price": "R$750,00"
   },
   {
     "name": "TREINAMENTO MEMBROS DA CIPA",
@@ -1442,11 +1422,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Treinamento Operador Grua",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-operador-grua/",
-    "slug": "treinamento-operador-grua",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%96lbohrplattform.jpg",
-    "description": "NOME TÉCNICO: CURSO CAPACITAÇÃO SEGURANÇA NA OPERAÇÃO DE GRUA",
-    "hours": "",
-    "price": ""
+    "slug": "treinamento-operador-grua"
   },
   {
     "name": "TREINAMENTO PARA TRABALHO EM ÁREAS CLASSIFICADAS",
@@ -1481,10 +1457,6 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "urso Percepção Risco Liderança",
     "url": "https://multimarinedobrasil.com.br/product/urso-percepcao-risco-lideranca/",
-    "slug": "urso-percepcao-risco-lideranca",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%96lbohrplattform.jpg",
-    "description": "URL Source: https://multimarinedobrasil.com.br/product/urso-percepcao-risco-lideranca/ Markdown Content: Qual o objetivo do Curso Percepção de Riscos para Liderança? O Curso Percepção de Riscos para Liderança é uma iniciativa voltada para o aprimoramento de colaboradores no qual possuam cargos de liderança ou responsáveis pela segurança da organização, de forma a promover o conhecimento e técnicas necessárias para identificar, avaliar e gerenciar os riscos que podem afetar o sucesso do negócio. A percepção de riscos é uma habilidade essencial para qualquer líder que deseja tomar decisões estratégicas com segurança e eficácia. Afinal, todas as atividades empresariais envolvem algum tipo de risco, seja ele financeiro, operacional, legal ou reputacional. O objetivo do curso é fornecer aos líderes as ferramentas necessárias para lidar com esses riscos de forma proativa e eficiente, reduzindo a possibilidade de perdas e maximizando as oportunidades de crescimento.",
-    "hours": "",
-    "price": ""
+    "slug": "urso-percepcao-risco-lideranca"
   }
 ];
