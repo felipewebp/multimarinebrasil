@@ -189,8 +189,7 @@ const categoryHtml = key => {
   }).join("");
   const itemList = list.filter(c => c.slug).map((c,i) => ({
     "@type":"ListItem","position":i+1,
-    "url":ORIGIN + "/cursos/" + c.slug + "/",
-    "item":{"@type":"Course","name":c.name,"description":clean(c.description || "Curso e treinamento MultiMarine.").slice(0,150),"provider":{"@type":"Organization","name":"MultiMarine do Brasil","url":ORIGIN + "/"}}
+    "url":ORIGIN + "/cursos/" + c.slug + "/"
   }));
   const schema = JSON.stringify({"@context":"https://schema.org","@type":"ItemList","itemListElement":itemList});
   return [
