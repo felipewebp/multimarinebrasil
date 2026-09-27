@@ -2,7 +2,7 @@ import fs from "node:fs/promises";
 import path from "node:path";
 
 const ORIGIN = "https://felipewebp.github.io/multimarinebrasil";
-const OFFICIAL_LOGO = "https://multimarinedobrasil.com.br/wp-content/uploads/elementor/thumbs/5-qi6oc45kwd7ohdlqfc6ignlilnt14lo71xfqdgti5c.jpg";
+const OFFICIAL_LOGO = ORIGIN + "/assets/multimarine-logo.png";
 const COURSES_FILE = "courses-data.js";
 
 const raw = await fs.readFile(COURSES_FILE, "utf8");
