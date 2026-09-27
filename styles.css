@@ -168,3 +168,6 @@ footer .brand-logo{mix-blend-mode:normal!important;filter:none!important;backgro
 @media(max-width:900px){.brand-logo-mm{width:190px;max-height:46px}.footer-top .brand-logo-dark{width:190px}.gallery-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important}.gallery-grid figure{min-height:240px!important}}
 @media(max-width:700px){.brand-logo-mm{width:175px;max-height:42px}.gallery-grid{grid-template-columns:1fr 1fr!important}.gallery-grid figure{min-height:200px!important}}
 @media(max-width:480px){.brand-logo-mm{width:168px;max-height:40px}.gallery-grid{grid-template-columns:1fr!important}.gallery-grid figure{min-height:230px!important}}
+
+/* V13 — refinamento de navegação */
+.intent{cursor:pointer}.catalog-grid>a{cursor:pointer}.catalog-grid>a:hover{transform:translateY(-3px)}
