@@ -135,3 +135,13 @@ footer .brand-logo{mix-blend-mode:normal!important;filter:none!important;opacity
 .hero-bg{background-position:60% center!important;background-size:cover!important}
 .companies-image{background-position:center!important;background-size:cover!important}
 @media(max-width:800px){.hero-bg{background-position:64% center!important;background-size:cover!important}.gallery-grid img{object-position:center}.companies-image{background-position:center!important}.footer-top .brand-logo{width:190px;height:48px}}
+
+/* V9 — composição visual consolidada */
+.hero-bg{background:url("https://images.akzonobel.com/akzonobel-coatings/international-marine/gl/header-offshore-support-vessels.jpg?impolicy=.auto&imwidth=1900") 58% center/cover no-repeat!important}
+.visual-strip .ship{background-image:url("https://commons.wikimedia.org/wiki/Special:FilePath/Skandi_Kvits%C3%B8y%2C_dekk..jpg")!important}
+.visual-strip .rig{background-image:url("https://clickpetroleoegas.com.br/wp-content/uploads/2025/12/Operacoes-Offshore-Oficial-de-Maquinas-PLSV-e-AHTS-Manutencao-Naval-Seguranca-Maritima.jpg")!important}
+.visual-strip .crew{background-image:url("https://commons.wikimedia.org/wiki/Special:FilePath/Boom_Deployment_Sequence_%2852115084254%29.jpg")!important}
+.gallery-grid .g1 img{object-position:center!important}.gallery-grid .g2 img{object-position:center!important}.gallery-grid .g3 img{object-position:center!important}
+.companies-image{background:url("https://www.umtc.com.ph/web/image/35807-c802c6b8/IMG_0785.JPG") center/cover no-repeat!important}
+footer .brand-logo{mix-blend-mode:normal!important;filter:none!important;background:#fff!important;padding:6px 10px!important;border-radius:2px!important;opacity:1!important}
+@media(max-width:800px){.hero-bg{background-position:55% center!important}.visual-strip .ship,.visual-strip .rig,.visual-strip .crew{background-size:cover!important;background-position:center!important}.companies-image{background-position:center!important}}
