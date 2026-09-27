@@ -59,16 +59,16 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Auxiliar Administrativo 40h",
     "url": "https://multimarinedobrasil.com.br/product/auxiliar-administrativo-40h/",
-    "slug": "auxiliar-administrativo-40h"
+    "slug": "auxiliar-administrativo-40h",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_typical_office_computer.png",
+    "description": "Curso auxiliar administrativo Curso auxiliar administrativo online serve para qualquer pessoa que queria ingressar no mundo corporativo. Este curso é fundamental para aprender as funções básicas deste profissional da área, que pode atuar em diversos segmentos do mercado de trabalho. E ao concluir o curso solicite o certificado do curso auxiliar administrativo online para poder comprovar suas horas de estudo.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Avaliação Sistema Amônia",
     "url": "https://multimarinedobrasil.com.br/product/avaliacao-sistema-amonia/",
-    "slug": "avaliacao-sistema-amonia",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iraqi_OSV_Al_Basra_(401).jpg",
-    "description": "NOME TÉCNICO: EXECUÇÃO DE INSPEÇÃO TÉCNICA PARA ELABORAÇÃO DO PROGRAMA DE GERENCIAMENTO DE RISCOS PARA AMÔNIA – PGR",
-    "hours": "",
-    "price": ""
+    "slug": "avaliacao-sistema-amonia"
   },
   {
     "name": "Básico em Prevenção de Cárie Dentária e Doença Periodontal",
@@ -113,7 +113,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso API RP 1188",
     "url": "https://multimarinedobrasil.com.br/product/curso-api-rp-1188/",
-    "slug": "curso-api-rp-1188"
+    "slug": "curso-api-rp-1188",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg",
+    "description": "Markdown Content: Curso API RP 1188? O objetivo do Curso API RP 1188 (Hazardous Liquid Pipeline Facilities Integrity Management) abrangem o gerenciamento de integridade das tubulações de líquidos perigosos em oleodutos. Fornece orientações sobre as determinações de impacto de área de alta consequência; a integração de dados; a identificação de ameaças; a avaliação de risco; a inspeção e reinspeção; as medidas preventivas e mitigadoras (preventive and mitigative measures – P&MM); e as medidas de desempenho. As instalações incluem os sistemas de tubulação do terminal e da estação de dutos dentro dos seus limites e inclui a tubulação fora do terreno. Como funciona um Oleoduto? O Oleoduto é um canal feito de tubos que transporta petróleo bruto ou produtos derivados do petróleo, como gasolina e diesel, de um lugar para outro. Eles são usados para transportar grandes quantidades de petróleo a longa distância, geralmente de campos de petróleo para refinarias ou portos. O funcionamento de um oleoduto é relativamente simples. O petróleo é bombeado para dentro do tubo através de estações de bombeamento ao longo do caminho. Essas estações são equipadas com grandes motores que empurram o petróleo através do tubo em alta velocidade. O petróleo viaja a uma taxa constante até o final do oleoduto, onde é armazenado ou enviado para outra instalação.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso Aprimoramento NBR 12313",
@@ -133,11 +137,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso BLS Suporte Básico",
     "url": "https://multimarinedobrasil.com.br/product/curso-bls-suporte-basico/",
-    "slug": "curso-bls-suporte-basico",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paramedic_training_in_Telangana_Rebellion.jpg",
-    "description": "Markdown Content: Qual o objetivo do Curso BLS Suporte Básico? O Curso Suporte Básico Vida (BLS) tem o objetivo de reduzir a incidência de mortes ou incapacitação por doenças cardiovasculares. O curso aborda temas como reconhecimento e tratamento dos sinais e sintomas de desenvolvimento de doenças respiratórias e cardíacas no ambiente pré-hospitalar, tratando também da ressuscitação cardiopulmonar e operação do desfibrilador externo automático (DEA). Qual a importância de saber Suporte Básico de vida? Saber Suporte Básico de Vida pode ser crucial em situações de emergência, como paradas cardiorrespiratórias, afogamentos, engasgos e outras situações que exigem uma resposta rápida e eficaz para salvar vidas.",
-    "hours": "",
-    "price": ""
+    "slug": "curso-bls-suporte-basico"
   },
   {
     "name": "Curso Borracharia",
@@ -172,7 +172,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Como Elaborar Relatório de Inspeção Predial",
     "url": "https://multimarinedobrasil.com.br/product/curso-como-elaborar-relatorio-de-inspecao-predial/",
-    "slug": "curso-como-elaborar-relatorio-de-inspecao-predial"
+    "slug": "curso-como-elaborar-relatorio-de-inspecao-predial",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iraqi_OSV_Al_Basra_(401).jpg",
+    "description": "URL Source: https://multimarinedobrasil.com.br/product/curso-como-elaborar-relatorio-de-inspecao-predial/ Markdown Content: Qual o objetivo do Curso Como Elaborar Relatório de Inspeção Predial? O Curso como Elaborar Relatório de Inspeção Predial tem por objetivo determinar irregularidades prediais que possam prejudicar a qualidade da edificação como patologias, anomalias estruturais ou endógenas e falhas, decorrentes de erros de projeto, materiais incorretos ou má execução.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso Como Projetar Para-raios",
@@ -202,11 +206,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Cuidado com as Mãos",
     "url": "https://multimarinedobrasil.com.br/product/curso-cuidado-com-as-maos/",
-    "slug": "curso-cuidado-com-as-maos",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%96lbohrplattform.jpg",
-    "description": "NOME TÉCNICO: CURSO CAPACITAÇÃO CUIDADO E PROTEÇÃO DAS MÃOS – NR 32",
-    "hours": "",
-    "price": ""
+    "slug": "curso-cuidado-com-as-maos"
   },
   {
     "name": "Curso de Auxiliar de Serviços Gerais 40h",
@@ -241,7 +241,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso de Instrutor NR 20",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-instrutor-nr-20/",
-    "slug": "curso-de-instrutor-nr-20"
+    "slug": "curso-de-instrutor-nr-20",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MWSS-172_practices_firefighting_skills_in_Central_Training_Area_(9795736).jpg",
+    "description": "Markdown Content: Curso Instrutor NR-20 O objetivo do treinamento, que possui conformidade com os parâmetros de capacitação estabelecidos pela NR-20, é capacitar instrutores responsáveis por transmitir o conhecimento básico nos meios necessários para capacidades técnicas sobre a segurança nas atividades relacionadas à Combustíveis e Inflamáveis. O que são Inflamáveis e Combustíveis? Fluidos cujas propriedades valorizam a ocorrência de incêndios, explosões ou a proliferação deste. Basicamente, são líquidos inflamáveis são aqueles com ponto de fulgor menor ou igual a 60ºC, e líquidos combustíveis possuem ponto de fulgor entre 60ºC e 93ºC. Gases também podem ser considerados inflamáveis caso converta-se em chamas a 20ºC sob pressão de 101,3 kPa.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso de Mecânica Industrial 60h",
@@ -256,11 +260,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso de Noções Básicas em Maqueiro 40h",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-nocoes-basicas-em-maqueiro-40h/",
-    "slug": "curso-de-nocoes-basicas-em-maqueiro-40h",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paramedic_training_in_Telangana_Rebellion.jpg",
-    "description": "Realizar o acolhimento e prestar assistência no transporte de pacientes no departamento médico do hospital. Essa é a função dos profissionais maqueiros, responsáveis ​​pelo transporte dos pacientes da enfermaria para os leitos, na sala de cirurgia, e pelo exame e transporte dos pacientes. O profissional realiza o transporte do paciente com segurança dentro das Unidades de Saúde, da cadeira de rodas para a maca, da maca para cama, para a mesa de exames, atendendo as solicitações da equipe de enfermagem. Este curso de Noções Básicas em Maqueiro abrange os principais conteúdos no que diz a respeito à profissão.",
-    "hours": "",
-    "price": ""
+    "slug": "curso-de-nocoes-basicas-em-maqueiro-40h"
   },
   {
     "name": "Curso de Noções de Proteção Radiológica 4h",
@@ -310,7 +310,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso de NR 20 – Segurança e Saúde no Trabalho com Inflamáveis e Combustíveis 40h",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-nr-20-seguranca-e-saude-no-trabalho-com-inflamaveis-e-combustiveis-40h/",
-    "slug": "curso-de-nr-20-seguranca-e-saude-no-trabalho-com-inflamaveis-e-combustiveis-40h"
+    "slug": "curso-de-nr-20-seguranca-e-saude-no-trabalho-com-inflamaveis-e-combustiveis-40h",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Basic_first_aid_training_130219-N-PF210-358.jpg",
+    "description": "A Norma Regulamentadora 20 se consolidou muito bem como uma das mais importantes normas regulatórias introduzidas no Brasil. Em particular, esta norma diz respeito ao cuidado com líquidos inflamáveis ​​e inflamáveis, produtos esses que estão presentes no dia a dia da população mundial. A NR 20 – Segurança e Saúde no Trabalho com Inflamáveis e Combustíveis, introduziu o conceito de gestão de saúde e segurança no trabalho contra fatores de riscos de acidentes provenientes das atividades que envolvem o recebimento, armazenagem, manuseio e manipulação de inflamáveis e líquidos combustíveis, estabelecendo seus requisitos mínimos.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso de NR 23 – Proteção Contra Incêndios 40h",
@@ -330,11 +334,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso de NR33 – Segurança e Saúde no Trabalho em Espaços Confinados 40h",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-nr33-seguranca-e-saude-no-trabalho-em-espacos-confinados-40h/",
-    "slug": "curso-de-nr33-seguranca-e-saude-no-trabalho-em-espacos-confinados-40h",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Basic_first_aid_training_130219-N-PF210-358.jpg",
-    "description": "O Curso de NR33 – Segurança e Saúde no Trabalho em Espaços Confinados aborda os requisitos para identificação de espaços confinados e o reconhecimento, avaliação, monitoramento e controle dos riscos existentes, de forma a garantir permanentemente a segurança e saúde dos trabalhadores que interagem direta ou indiretamente nestes espaços, a fim de diminuir a ocorrência de acidentes nesses processos e garantir um padrão de qualidade nos ambientes laborais, visando o bem-estar físico e emocional dos trabalhadores.",
-    "hours": "",
-    "price": ""
+    "slug": "curso-de-nr33-seguranca-e-saude-no-trabalho-em-espacos-confinados-40h"
   },
   {
     "name": "Curso de Petróleo e Gás 20h",
@@ -374,7 +374,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Energia Solar",
     "url": "https://multimarinedobrasil.com.br/product/curso-energia-solar/",
-    "slug": "curso-energia-solar"
+    "slug": "curso-energia-solar",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iraqi_OSV_Al_Basra_(401).jpg",
+    "description": "Markdown Content: O que é o curso energia solar? O curso sobre energia solar aborda o projeto e a instalação de sistemas de geração de energia elétrica a partir da luz solar. O curso inclui o dimensionamento do sistema, escolha dos equipamentos, instalação e manutenção, levando em consideração as normas e regulamentações aplicáveis. O objetivo é aprimorar os profissionais para projetar e instalar sistemas fotovoltaicos seguros, eficientes e de acordo com as normas técnicas vigentes. Os sistemas fotovoltaicos são uma excelente opção para quem busca uma fonte de energia limpa e renovável. Eles podem ser instalados em residências, empresas e indústrias, contribuindo para a redução do consumo de energia elétrica da rede pública e, consequentemente, para a redução dos custos com energia elétrica. Além disso, os sistemas fotovoltaicos podem gerar créditos de energia, que podem ser utilizados para abater o consumo de energia em outros pontos da rede Qual a limitação de potência ativa? O sistema fotovoltaico com potência nominal superior a 6 kW deve ser capaz de limitar a potência ativa injetada na rede por meio de telecomandos. Os valores de ajuste enviados por telecomando são expressos em porcentagem da potência nominal do sistema, em passos de amplitude máxima de 10 %. Se o sistema estiver com um nível de potência ativa inferior ao requerido, então não pode reduzir ainda mais sua potência ativa de saída. A potência ativa limitada pelo comando externo deve ser atingida no máximo dentro de 1 min após o recebimento do sinal, com tolerância de ± 2,5 % da potência nominal do sistema, respeitando as limitações da potência de entrada do sistema fotovoltaico.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso Equipamento Automotivo Combinado",
@@ -399,11 +403,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Formação de Gestor em Segurança contra Incêndio",
     "url": "https://multimarinedobrasil.com.br/product/curso-formacao-de-gestor-em-seguranca-contra-incendio/",
-    "slug": "curso-formacao-de-gestor-em-seguranca-contra-incendio",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Diego_Garcia_Safety_Fair_2021_(6694263).jpg",
-    "description": "GESTOR EM SEGURANÇA CONTRA INCÊNDIO”, 180H- Profissional muito procurado por empresas, pois são escassos no Brasil . Segurança e Prevenção contra Incêndios é uma ciência ainda em crescimento, em nosso país, pouco estudada. A formação de profissionais com esse nível de qualificação é muito solicitada Gestores e especialistas é pouco encontrada . É um mercado promissor e com muitas oportunidades Capacita o participante a atuar como Gestor em Segurança e Prevenção Contra Incêndio Justificativa – O “GESTOR EM SEGURANÇA CONTRA INCÊNDIO”, é um profissional muito procurado por empresas ,ainda uma função nova e com pouca concorrência. Empresas de diversos portes perceberam que ter um profissional com essa competência gerencial minimiza custos, resguarda a empresa sobre a aplicação correta das legislações, bem como previne danos a vida e patrimônio. A formação de profissionais com esse nível de qualificação é crescente mas ainda pouco difundida. É um excelente mercado, pois são escassos no Brasil. Segurança e Prevenção contra Incêndios é uma ciência ainda evoluindo em nosso país, e, pouco estudada. Mas a partir da Lei Kiss, torna-se se obrigatória sua aplicação dentro de um conjunto de determinações para que novas tragédias não ocorram . Nos países desenvolvidos “Segurança contra Incêndios” é uma Ciência estudada com profundidade, aplicada no cotidiano das pessoas e das empresas. Já no Brasil, é um assunto pouco estudado nos cursos regulares, e com pouco embasamento técnico para aplicação conforme pede a legilsação, bem como, no mercado de trabalho. A formação de gestores e especialistas é pouco encontrada. É um mercado excelente e com pouca concorrência é evidente que aqueles que investem na área tem se destacado Esse curso permite que o aluno seja certificado como “GESTOR EM SEGURANÇA CONTRA INCÊNDIO” ,A formação de profissionais com esse nível de qualificação é muito solicitada e há escassez de É um mercado promissor e com muitas oportunidades e é evidente que aqueles que investem na área tem se destacado. Abaixo seguem informações detalhadas sobre o curso Objetivo do curso de “Gestão em Segurança contra Incêndios” Capacitar o aluno na área de Segurança contra Incêndios, oferecendo conhecimentos e aperfeiçoamento de técnicas atualizadas para torná-lo diferenciado dos demais profissionais, a fim de obter melhor desempenho que resulta em qualificação profissional de alto nível e grandes possibilidades no mercado de trabalho. A quem se destina Engenheiros de segurança do trabalho, técnicos de segurança do trabalho, tecnólogos, arquitetos, pessoal de empresas de petróleo e gás, especialistas em emergências, bombeiros civis, prevencionistas da área de Segurança contra Incêndios ligados a hotéis, hospitais, escolas, igrejas, shopping centers, comércio, indústrias de todos os segmentos, bancos, edifícios comerciais, prefeituras,seguradoras, corretoras de seguros, usinas, destilarias, responsáveis pela manutenção, transporte, armazenamento de produtos perigosos, e demais interessados. Qual o requisito mínimo para fazer o curso Ter prévio conhecimento na área, formação e/ou vivência nas funções acima. Quando posso iniciar o curso A qualquer momento desde que o curso esteja disponibilizado em nosso site. Qual o tempo mínimo e máximo sugerido para realizar o curso Mínimo 2 meses e máximo 6 meses. ( conforme explicação abaixo Qual o tempo médio para que eu posso terminar o curso e ser certificado Estimativa de estudo: 6 horas por matéria, 8 horas de avaliação final, 46 horas de trabalho complementar . Mas esse tempo é individual , depende do empenho de cadas aluno. Você tem um ano para realizar seu curso. Como realizo a avaliação para ser certificado; Quando se sentir preparado solicite as avaliações através do e-mail contato@ceccarellicursos.com.br. Você deverá respoder as questões e encaminhar juntamente com seu trabalho para o mesmo e-mail .Poderá ser scaneada ou por aquivo . Deverá constar no e-mail : Assunto: Avaliação do Curso de Gestão em Segurança contra Incêndio Corpo do email : Seu Nome , Nome do seu curso, CPF,RG . Anexar arquivos da avaliação mais trabalho. Acusaremos recebimento e as avaliações + trabalho serão encaminhadas para conferência. Os resultado é tem prazo até 07 dias úteis , e se aprovado será emitido seu certificado. Caso não atinja a média de aprovação. Você poderá realizar outra avaliação sem custos em 30 dias . Porque a opção do curso a distância (EAD) Muitos interessados, tanto de empresas e seus colaboradores, bem como profissionais liberais e consultores, necessitam desse aperfeiçoamento, mas estão muito distantes de nossa sede na cidade de São Paulo. Torna-se inviável a vinda dos participantes. Portanto disponibilizamos a versão EAD em apostilas físicas, para que todos possam ter acesso ao curso. Qual a diferença entre o Curso Presencial e o EAD No curso EAD :a formação é de gestores de segurança contra incêndios e a carga horária é de 180hs. O aluno tem orientador para esclarecimento de dúvidas por telefone ou e-mail; o aluno depende de um esforço maior de sua parte, em compensação não depende de deslocamento e hospedagem. No presencial (atualmente indisponível) :a formação é de especialistas em segurança contra incêndios e a carga horária é de 224hs, sendo obrigatório o aluno comparecer aos encontros presenciais uma vez por mês, conforme calendário do curso. O aluno tem maior agilidade na solução de dúvidas direto com o professor em sala de aula. O aluno conta com algumas experiências práticas. O certificado do curso à distância tem a mesma validade de um certificado de curso presencial Sim. O certificado é valido em todo território nacional. Somos orientados pelo MEC (Ministério da Educação e Cultura). O curso se qualifica na categoria livre. Os cursos acadêmicos possuem uma carga horária pequena na área de incêndio. AUTORIZAÇÃO E VALIDADE DO CURSO Conforme a lei n. 9394/96, o Decreto n. 5.154/04 e a Deliberação CEE 14/97 (Indicação CEE 14/97), citam que os cursos chamados “livres” não necessitam de prévia autorização para funcionamento nem de posterior reconhecimento do Conselho de Educação competente. A jurisprudência do Conselho Nacional de Educação tem sido no sentido de declarar-lhes a equivalência, de acordo com regras amplas e flexíveis. Os cursos livres à distância não dependem de registro ou autorização do MEC ou do CEE. O Art 42 da Lei n. 9.394/96 (Diretrizes e Bases da Educação Nacional) e Lei n. 11.741/08 trataram da Educação Profissional, como Educação Profissional de Nível Básico. É uma modalidade de educação não formal de duração variável, destinada a proporcionar ao trabalhador conhecimentos que lhe permitam profissionalizar-se, qualificar-se e atualizar-se para o trabalho. Não há exigência de escolaridade anterior, tendo referência no Decreto Federal n. 2.494/98 e Decreto n. 2.208/97. Independem de autorização dos órgãos de educação para serem oferecidos. A Constituição Federal em seu artigo 205, “caput”, prevê que a educação é direito de todos e será incentivada pela sociedade. Tal prática é defendida também pelo artigo 206/CF que prevê que o ensino será ministrado com base em alguns princípios e em seu inciso II: “a liberdade de aprender, ensinar, pesquisar e divulgar pensamentos, a arte e o saber”. Nossos cursos são classificados como de qualificação profissional e são válidos em todo o território nacional, conforme a lei nº 9.394, que estabelece as Diretrizes e Bases da Educação Nacional. Certificados emitidos de acordo com a Deliberação Nº 20/76 com alterações nas Deliberações Nº 72/80 e Nº 196/92 da Comissão de Legislação e Normas da Câmara de Ensino. Grade curricular do curso O Curso é composto de 04 módulos contendo 05 disciplinas cada módulo totalizando 21 matérias conforme segue 1 – Tecidos anti-chama; 2 – Comportamento humano nos incêndios; 3 – Planejamento de emergências industriais; 4 – Plano de desocupação; 5 – Carga Incêndio nas edificações e áreas de risco; 6 – Iluminação de emergência; 7 – Ações de resposta e a capacitação para o atendimento do PAE; 8 – Sinalização de segurança contra incêndio e pânico; 9 – Método Gretener de avaliação de riscos; 10 – Escadas pressurizadas; 11 – Fios e cabos anti-chamas; 12 – Vidros a prova de fogo; 13 – Detectores automáticos de incêndio; 14 – Sistemas de proteção contra descargas atmosféricas (SPDA); 15 – Proteção passiva de estruturas; 16 – Compartimentação horizontal e vertical de edificações; 17 – Bombas de incêndio; 18 – Sistemas fixos de extinção de incêndio; 19 – Implicações jurídicas diante de ocorrências com incêndios; 20 – Checklist – Segurança contra Incêndios nas edificações; 21 – Sistemas hidráulicos de combate a incêndio. Forma de apresentação do curso Para fazer seu curso você receberá um compêndio de apostilas encaminhadas via arquivo para seu e-mail , que o aluno poderá baixar e imprimir se desejar contendo 04 módulos totalizando 21 matérias. O aluno estuda através das apostilas e tira suas dúvidas através de e-mail. Quando se sentir preparado solicita sua avaliação. Juntamente com sua avaliação envia via correio/e-mail o trabalho final. Sendo aprovado, enviamos seu certificado. Valor do Curso : 870,00 Cartão de Crédito em até 10 vezes SEM JUROS a vista com 10% de desconto (783,00)",
-    "hours": "",
-    "price": ""
+    "slug": "curso-formacao-de-gestor-em-seguranca-contra-incendio"
   },
   {
     "name": "Curso Formação de Instrutores para Brigadas de Incêndio",
@@ -443,7 +443,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Instrutor de Paleteira",
     "url": "https://multimarinedobrasil.com.br/product/curso-instrutor-de-paleteira/",
-    "slug": "curso-instrutor-de-paleteira"
+    "slug": "curso-instrutor-de-paleteira",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%96lbohrplattform.jpg",
+    "description": "URL Source: https://multimarinedobrasil.com.br/product/curso-instrutor-de-paleteira/ Markdown Content: Curso Instrutor de Paleteira A finalidade do Curso Instrutor de Paleteira tenciona capacitar instrutores em segurança na operação da Paleteira visando os conhecimentos teóricos e práticos de acordo com as normas colocando em primeiro lugar a saúde e segurança dos trabalhadores e do patrimônio da empresa.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso Instrutor de Ponte Rolante, Talha e Monovias",
@@ -473,11 +477,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Instrutor NR-22",
     "url": "https://multimarinedobrasil.com.br/product/curso-instrutor-nr-22/",
-    "slug": "curso-instrutor-nr-22",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%96lbohrplattform.jpg",
-    "description": "Markdown Content: Curso Instrutor NR 22 O Curso Instrutor NR 22 tem por intuito aprimorar o conhecimento dos participantes relativos aos procedimentos de instrutória para treinamentos de segurança e saúde ocupacional na mineração, abordando as medidas administrativas de segurança para realização de atividades na área da mineração, de modo a aplicar os conceitos da norma no ambiente de trabalho. O que é dito na NR 22? Esta Norma Regulamentadora tem por objetivo disciplinar os preceitos a serem observados na organização e no ambiente de trabalho, de forma a tornar compatível o planejamento e o desenvolvimento da atividade mineira com a busca permanente da segurança e saúde dos trabalhadores.",
-    "hours": "",
-    "price": ""
+    "slug": "curso-instrutor-nr-22"
   },
   {
     "name": "Curso Instrutor Selecionadora de Pedidos",
@@ -512,7 +512,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Laudo Gases Gerador",
     "url": "https://multimarinedobrasil.com.br/product/curso-laudo-gases-gerador/",
-    "slug": "curso-laudo-gases-gerador"
+    "slug": "curso-laudo-gases-gerador",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%96lbohrplattform.jpg",
+    "description": "URL Source: https://multimarinedobrasil.com.br/product/curso-laudo-gases-gerador/ Markdown Content: Qual é o objetivo do Curso Laudo Gases Gerador? O objetivo do curso de Aprimoramento com Execução de Inspeção Técnica e Elaboração de Relatório Técnico de Emissão de Gases Atmosféricos(Odores Ambientais) de Grupo Gerador é capacitar profissionais para realizar inspeções técnicas de Análise Atmosféricas em geradores e elaborar relatórios técnicos referentes à emissão de gases atmosféricos, garantindo o cumprimento das normas ambientais e a segurança dos equipamentos. O curso tem como foco o aprimoramento das habilidades técnicas e práticas dos profissionais.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso Laudo Gases Gerador",
@@ -542,11 +546,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Manutenção Bombas de Água",
     "url": "https://multimarinedobrasil.com.br/product/curso-manutencao-bombas-de-agua/",
-    "slug": "curso-manutencao-bombas-de-agua",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg",
-    "description": "Curso Manutenção Bombas de Água O objetivo do curso manutenção bombas de água é avaliar e realizar a manutenção correta do equipamento detectando desgastes, eventuais corrosões, falhas do sistema, erros na desmontagem e montagem, fiação e tubulações, visando a saúde e segurança dos envolvidos. O que são Bombas de Água? A bomba de água é um equipamento utilizado para realizar a transferência de água de um local para outro em grandes quantidades. A passagem de água é realizada através de uma conexão da bomba com canso que possuem até mesmo a pressurização da água. Tipos de Bombas de Água: submersa e submersível, centrífuga, autoaspirante, periférica e injetora. Certificado Carga horária: 40 Horas Pré-Requisito: Nível Técnico",
-    "hours": "40 Horas",
-    "price": "R$750,00"
+    "slug": "curso-manutencao-bombas-de-agua"
   },
   {
     "name": "Curso Manutenção Drives Elétricos",
@@ -576,7 +576,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Média Tensão NBR14039",
     "url": "https://multimarinedobrasil.com.br/product/curso-media-tensao-nbr14039/",
-    "slug": "curso-media-tensao-nbr14039"
+    "slug": "curso-media-tensao-nbr14039",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iraqi_OSV_Al_Basra_(401).jpg",
+    "description": "URL Source: https://multimarinedobrasil.com.br/product/curso-media-tensao-nbr14039/ Markdown Content: NOME TÉCNICO: CURSO APRIMORAMENTO INSTALAÇÕES ELÉTRICAS DE MÉDIA TENSÃO, DE 1,0 KV A 36,2 KV – NBR 14039",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso Montador de Andaime",
@@ -616,11 +620,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso NR 01 Disposições Gerais",
     "url": "https://multimarinedobrasil.com.br/product/curso-nr-01-disposicoes-gerais/",
-    "slug": "curso-nr-01-disposicoes-gerais",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MWSS-172_practices_firefighting_skills_in_Central_Training_Area_(9795736).jpg",
-    "description": "URL Source: https://multimarinedobrasil.com.br/product/curso-nr-01-disposicoes-gerais/ Markdown Content: Como é o Curso NR 01 Disposições Gerais? O Curso NR 01 Disposições Gerais e Gerenciamento de Riscos Ocupacionais, tem como objetivo cumprir as disposições legais e regulamentares sobre segurança e medicina do trabalho, dar ciência aos empregados quanto aos riscos profissionais que possam originar-se nos locais de trabalho, os meios de prevenir e limitar tais riscos e as medidas adotadas pela empresa.Além disso visa também determinar os procedimentos que devem ser adotados em caso de acidente ou doença relacionada ao trabalho, conscientizar o empregado da importância de usar os EPI’s e EPC’s fornecido pelo empregador, fazer os exames médicos previstos nas NR’s e colaborar com a empresa na aplicação das Normas Regulamentadoras.",
-    "hours": "",
-    "price": ""
+    "slug": "curso-nr-01-disposicoes-gerais"
   },
   {
     "name": "Curso NR 10 Nível Básico",
@@ -635,7 +635,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso NR 12 Anexo 02 e 11",
     "url": "https://multimarinedobrasil.com.br/product/curso-nr-12-anexo-02-e-11/",
-    "slug": "curso-nr-12-anexo-02-e-11"
+    "slug": "curso-nr-12-anexo-02-e-11",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MWSS-172_practices_firefighting_skills_in_Central_Training_Area_(9795736).jpg",
+    "description": "NOME TÉCNICO: CURSO CAPACITAÇÃO NR 12 ANEXO II E ANEXO XI MÁQUINAS E EQUIPAMENTOS – MÁQUINAS E IMPLEMENTOS PARA USO AGRÍCOLA E FLORESTAL",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso NR 18 Admissional Periódico",
@@ -685,11 +689,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Operador Mangas Embarque",
     "url": "https://multimarinedobrasil.com.br/product/curso-operador-mangas-embarque/",
-    "slug": "curso-operador-mangas-embarque",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg",
-    "description": "Qual o objetivo do Curso Operador de Mangas de Embarque e Desembarque de Passageiros? O objetivo do curso é capacitar profissionais para atuarem como operadores de dispositivo mecânico regulável e fechado conhecido como mangas de embarque e desembarque de passageiros em aeroportos, garantindo a segurança e o conforto dos passageiros durante o processo. Quais são as principais habilidades que um operador de mangas deve ter? As principais habilidades que um operador de mangas deve ter são: Conhecimento das normas e procedimentos de segurança aeroportuária; Habilidade para trabalhar em equipe; Capacidade de comunicação clara e objetiva; Agilidade e destreza física para manusear equipamentos e realizar movimentações precisas; Conhecimento básico de inglês técnico aeroportuário para comunicação com tripulações internacionais. Além dessas habilidades, é importante que o operador de mangas seja pontual, responsável e esteja sempre atento às normas de segurança e às necessidades dos passageiros e tripulações. Como funciona o sistema de expansão e contração das pontes telescópicas? As pontes telescópicas são estruturas que permitem a passagem de veículos e pessoas sobre obstáculos como rios, vales, entre outros. Elas são compostas por seções que podem se expandir ou contrair, permitindo assim que a ponte se ajuste ao tamanho necessário para atravessar o obstáculo. O sistema de expansão e contração das pontes telescópicas geralmente é acionado por meio de um mecanismo hidráulico ou elétrico. Quando a ponte precisa se expandir, esses mecanismos empurram as seções da ponte para fora, aumentando seu comprimento. Quando a ponte precisa se contrair, os mecanismos puxam as seções da ponte para dentro, diminuindo seu comprimento. Certificado Carga horária: 40 Horas Pré-Requisitos: Alfabetização",
-    "hours": "40 Horas",
-    "price": "R$750,00"
+    "slug": "curso-operador-mangas-embarque"
   },
   {
     "name": "Curso Operador Ponte Rolante",
@@ -699,7 +699,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Operador Prensa Enfardadeira",
     "url": "https://multimarinedobrasil.com.br/product/curso-operador-prensa-enfardadeira/",
-    "slug": "curso-operador-prensa-enfardadeira"
+    "slug": "curso-operador-prensa-enfardadeira",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iraqi_OSV_Al_Basra_(401).jpg",
+    "description": "NOME TÉCNICO: CURSO CAPACITAÇÃO NR-12 SEGURANÇA NA OPERAÇÃO DE PRENSA ENFARDADEIRA",
+    "hours": "",
+    "price": "R$750,00"
   },
   {
     "name": "Curso para NR 12",
@@ -823,16 +827,16 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Sistemas Comandos Máquinas 16h",
     "url": "https://multimarinedobrasil.com.br/product/curso-sistemas-comandos-maquinas-16h/",
-    "slug": "curso-sistemas-comandos-maquinas-16h"
+    "slug": "curso-sistemas-comandos-maquinas-16h",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg",
+    "description": "Curso Sistemas Comandos Máquinas O Curso Sistemas Comandos Máquinas visa especificar os requisitos de segurança e estabelecer um guia sobre os princípios para projeto de partes de sistemas de comando relacionadas a segurança . Para essas partes, especifica categorias e descreve as características de suas funções de segurança. Isso inclui sistemas programáveis paras todos os tipos de máquinas e dispositivos de proteção relacionados. O Curso Sistemas Comandos Máquinas se aplica a todas as partes de sistemas de comando relacionadas à segurança, independentemente do tipo de energia aplicando, por exemplo, elétrica, hidráulica, pneumática, mecânica. Parte de sistema de comando relacionada à segurança: Parte ou subparte de sistema de comando, que responde a sinais de entrada do equipamento sob comando (e/ou de um operador) e gera sinais relacionados com segurança. As partes combinadas de um sistema de comando relacionadas à segurança começam no ponto em que os sinais relacionados à segurança são gerados e findam na saída dos elementos de controle de potência. Incluindo os sistemas de monitoração. O que é segurança de sistemas de comando? Se trata de uma habilidade para desenvolver suas funções para um dado período, de acordo com sua categoria especificada, com base em seu comportamento no caso de defeito(s).",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso Solda Aluminotérmica (Exotérmica) 16h",
     "url": "https://multimarinedobrasil.com.br/product/curso-solda-aluminotermica-exotermica-16h/",
-    "slug": "curso-solda-aluminotermica-exotermica-16h",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NMCB_1_Welding_Training_(8783811).jpg",
-    "description": "Curso Solda Aluminotérmica (Exotérmica) Este curso tem por objetivo aplicar a segurança na operação e classificar os métodos e ensaios de soldagem aluminotérmica (Exotérmica). O que é a Solda Aluminotérmica? A solda aluminotérmica é empregada em processos específicos, nos quais os outros processos de solda não apresentam as características adequadas e a flexibilidade para realizar a solda em campo . Como é realizado este processo? Nas técnicas com a utilização da solda exotérmica ocorre uma reação de valor químico comumente relacionados com matérias de alumínio, ferrosos e não ferrosos. O que gera o processo? O processo se baseia de uma ação do alumino com um tipo de oxido metálico, formando um metal líquido. Quais as vantagens? Em suma aos outros tipos de soldagem a exotérmica, está possui uma alta resistência que é autossustentada com ou sem pressão, o tempo de soldagem reduzido, alto grau de complexidade, flexibilidade e usabilidade em local, dispensa o uso de energia elétrica e outros equipamentos. A reação: óxido de metal + alumínio (pó) + óxido de alumínio + calor + metal.",
-    "hours": "",
-    "price": ""
+    "slug": "curso-solda-aluminotermica-exotermica-16h"
   },
   {
     "name": "Curso Técnicas Comunicação Oratória",
@@ -887,7 +891,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Içamento de Carga",
     "url": "https://multimarinedobrasil.com.br/product/icamento-de-carga/",
-    "slug": "icamento-de-carga"
+    "slug": "icamento-de-carga",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iraqi_OSV_Al_Basra_(401).jpg",
+    "description": "Objetivo Capacitar os participantes para que possam identificar os perigos, controlar os riscos e as consequências associadas às atividades que envolvam içamento de carga.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Informática Avançada 60h",
@@ -907,11 +915,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "INSPEÇÃO DE SOLDAGEM POR ENSAIO VISUAL – EVS",
     "url": "https://multimarinedobrasil.com.br/product/inspecao-de-solda/",
-    "slug": "inspecao-de-solda",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NAVSCIATTS%27_Students_Learn_Welding_Techniques_160818-N-JK586-001.jpg",
-    "description": "OBJETIVO Treinar o inspetor de soldagem para atuar na realização de ensaio visual de soldagem conforme as normas ASME e AWS. RESUMO DO CURSO Curso totalmente prático, todas as atividades são executadas na oficina, as turmas são compostas de no máximo 5 e no mínimo de 3 alunos, a fim de obter um melhor aproveitamento do aprendizado. Os alunos realizam testes comuns aos do dia a dia das principais empresas que atuam com processos de soldagem, de acordo com as normas AWS D1.1 e ASME. Ao final do treinamento os soldadores recebem um certificado de treinamento registrando todas as qualificações que os mesmos realizaram. PÚBLICO ALVO Este curso destina-se a pessoas que pretendem ingressar na área e/ou os que já executam ensaio visual e buscam maior conhecimento teórico de como executar este ensaio conforme as normas AWS e ASME. MATERIAL INSTRUCIONAL Forneceremos apostila. CARGA HORÁRIA 8 horas. PROGRAMA DO CURSO Introdução às práticas da inspeção visual; Terminologia da soldagem; Terminologia de descontinuidades; Localização típica das descontinuidades; Procedimentos para inspeção; Normas e critérios de aceitação introdução; Norma ASME seção VIII divisão 1 – vasos de pressão aplicada ao ensaio visual; Norma AWS-D1.1 – soldagem de estrutural – aço aplicada ao ensaio visual; Instrumentos de Medição e Controle; Treinamento prático de inspeção visual de soldagem.",
-    "hours": "",
-    "price": ""
+    "slug": "inspecao-de-solda"
   },
   {
     "name": "Introdução à Anatomia Dental",
@@ -956,7 +960,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Laudo Caminhão Munque",
     "url": "https://multimarinedobrasil.com.br/product/laudo-caminhao-munque/",
-    "slug": "laudo-caminhao-munque"
+    "slug": "laudo-caminhao-munque",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iraqi_OSV_Al_Basra_(401).jpg",
+    "description": "Qual é o objetivo do Laudo Caminhão “Munque” Guindaste Articulado Rotativo? O Relatório Técnico para Guindastes Articulados Rotativos, também conhecido como Laudo Técnico de Guindaste Articulado Rotativo, tem como objetivo avaliar o estado e a segurança do guindaste. Este relatório é exigido por Normas Regulamentadoras de Segurança e Saúde do Trabalho Órgãos reguladores e seguradoras para garantir que o guindaste esteja em conformidade com os regulamentos de segurança e seja seguro para operar. Como deve ser o Relatório Técnico de Caminhão “munque”? O relatório incluirá uma inspeção detalhada da estrutura, componentes e sistemas do guindaste, bem como quaisquer reparos ou manutenção necessários que precisem ser executados. O relatório também fornecerá recomendações para quaisquer atualizações ou modificações que possam ser necessárias para melhorar a segurança e a eficiência do guindaste.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Laudo Cintas Elevação Carga",
@@ -976,11 +984,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Laudo Conjunto Aferição Carga",
     "url": "https://multimarinedobrasil.com.br/product/laudo-conjunto-afericao-carga/",
-    "slug": "laudo-conjunto-afericao-carga",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg",
-    "description": "NOME TÉCNICO: EXECUÇÃO DE INSPEÇÃO TÉCNICA EM EQUIPAMENTOS DE AFERIÇÃO DE CARGA + ELABORAÇÃO DO RELATÓRIO TÉCNICO + EMISSÃO DA ART",
-    "hours": "",
-    "price": ""
+    "slug": "laudo-conjunto-afericao-carga"
   },
   {
     "name": "Laudo Corrimão Escadas NBR 14718",
@@ -1025,7 +1029,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Laudo de Granalha",
     "url": "https://multimarinedobrasil.com.br/product/laudo-de-granalha/",
-    "slug": "laudo-de-granalha"
+    "slug": "laudo-de-granalha",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg",
+    "description": "NOME TÉCNICO: EXECUÇÃO DE ANÁLISE TÉCNICA DE ENSAIOS EM GRANALHA + ELABORAÇÃO DO RELATÓRIO TÉCNICO + EMISSÃO DE ART",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Laudo de Inspeção nas Lingas, Cintas de Elevação e Olhal",
@@ -1040,20 +1048,12 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Laudo de Ponte Rolante, Talha e Monovia",
     "url": "https://multimarinedobrasil.com.br/product/laudo-de-ponte-rolante-talha-e-monovia/",
-    "slug": "laudo-de-ponte-rolante-talha-e-monovia",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg",
-    "description": "NOME TÉCNICO: EXECUÇÃO DE INSPEÇÃO TÉCNICA DE PONTE ROLANTE, TALHA E MONOVIA + ELABORAÇÃO DE RELATÓRIO TÉCNICO + EMISSÃO DA ART",
-    "hours": "",
-    "price": ""
+    "slug": "laudo-de-ponte-rolante-talha-e-monovia"
   },
   {
     "name": "Laudo de Rolo Compactador",
     "url": "https://multimarinedobrasil.com.br/product/laudo-de-rolo-compactador/",
-    "slug": "laudo-de-rolo-compactador",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toisa_Perseus%26Discoverer_Enterprise.jpg",
-    "description": "NOME TÉCNICO: EXECUÇÃO DE INSPEÇÃO TÉCNICA DE ROLO COMPACTADOR + ELABORAÇÃO DE RELATÓRIO TÉCNICA + EMISSÃO DE ART",
-    "hours": "",
-    "price": ""
+    "slug": "laudo-de-rolo-compactador"
   },
   {
     "name": "Laudo de Sprinkler",
@@ -1083,11 +1083,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Laudo Grua Aterramento",
     "url": "https://multimarinedobrasil.com.br/product/laudo-grua-aterramento/",
-    "slug": "laudo-grua-aterramento",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iraqi_OSV_Al_Basra_(401).jpg",
-    "description": "Markdown Content: Qual o objetivo do Laudo Grua Aterramento? O Laudo Grua Aterramento tem como objetivo a inspeção do equipamento visando verificar as conformidades e inconformidades da Grua atestando se a mesma está ou não em perfeitas condições de operação, sendo fundamental que o equipamento esteja em adequação ao que as normas preconizam para garantir a segurança e integridade dos envolvidos. O que é Grua? Grua é um equipamento muito utilizada para movimentação de cargas e materiais, sendo equipamento aéreo acoplado e capaz de movimentar grandes cargas.Consiste em motores possantes com roldanas acopladas a um ou mais cabos de alta resistência.",
-    "hours": "",
-    "price": ""
+    "slug": "laudo-grua-aterramento"
   },
   {
     "name": "Laudo Guindaste Articulado Hidráulico",
@@ -1102,7 +1098,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Laudo Identificação Odorífera",
     "url": "https://multimarinedobrasil.com.br/product/laudo-identificacao-odorifera/",
-    "slug": "laudo-identificacao-odorifera"
+    "slug": "laudo-identificacao-odorifera",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iraqi_OSV_Al_Basra_(401).jpg",
+    "description": "NOME TÉCNICO: EXECUÇÃO DE INSPEÇÃO TÉCNICA DE IDENTIFICAÇÃO ODORÍFERA + ELABORAÇÃO DE RELATÓRIO TÉCNICO + EMISSÃO DA ART",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Laudo Iluminação Emergência NBR 10898",
@@ -1157,11 +1157,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Laudo Vazamento Telhado Vivo",
     "url": "https://multimarinedobrasil.com.br/product/laudo-vazamento-telhado-vivo/",
-    "slug": "laudo-vazamento-telhado-vivo",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iraqi_OSV_Al_Basra_(401).jpg",
-    "description": "URL Source: https://multimarinedobrasil.com.br/product/laudo-vazamento-telhado-vivo/ Qual é o objetivo do Laudo de Vazamento Telhado vivo? A inspeção técnica em telhado vivo é uma importante ferramenta para avaliar as condições do sistema de gestão de manutenção das edificações e garantir a segurança e a durabilidade das construções. O laudo de inspeção técnica em telhado vivo tem como objetivo identificar possíveis problemas no telhado a exemplo as infiltrações e elaborar recomendações para a manutenção e conservação do sistema. O Relatório Técnico será emitido por PLH (Profissionais legalmente habilitados) e capacitados, que possuam conhecimento técnico específico sobre os sistemas construtivos e as normas técnicas aplicáveis ao telhado vivo. Dessa forma, é possível garantir a qualidade e a conformidade do sistema, contribuindo para a preservação do meio ambiente e o bem-estar dos usuários da edificação.",
-    "hours": "",
-    "price": ""
+    "slug": "laudo-vazamento-telhado-vivo"
   },
   {
     "name": "Laudo Vibrador Elétrico Industrial",
@@ -1171,7 +1167,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Mecânica Industrial 40h",
     "url": "https://multimarinedobrasil.com.br/product/mecanica-industrial-40h/",
-    "slug": "mecanica-industrial-40h"
+    "slug": "mecanica-industrial-40h",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Engine.room.of.lifeboat.17-31.arp.jpg",
+    "description": "O Curso de Mecânica Industrial , irá fornecer ao aluno, orientações fundamentais relacionados a Indústria e Tecnologia . Um mecânico industrial raramente fica desempregado no Brasil, desempenha um papel vital e insubstituível na indústria e nas fábricas. Este curso Mecânica Industrial tem como principal objetivo fornecer conhecimentos para que o aluno esteja capacitado a atuar na elaboração de ferramentas, projetos, equipamentos mecânicos e máquinas, aplicando os procedimentos de instalação de maquinários. Também fornece habilidades para que o aluno controle os processos de fabricação através da aplicação das técnicas de medição, capacitando-os para supervisionar materiais e equipamentos mecânicos.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Noções Básicas de Odontologia do Trabalho",
@@ -1231,16 +1231,16 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "NR 10 Básico – EAD",
     "url": "https://multimarinedobrasil.com.br/product/nr-10-basico-ead/",
-    "slug": "nr-10-basico-ead",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MWSS-172_practices_firefighting_skills_in_Central_Training_Area_(9795736).jpg",
-    "description": "Objetivo Capacitar os trabalhadores na implementação das medidas de controle e sistemas preventivos, de forma a garantir a segurança e saúde dos trabalhadores que, direta ou indiretamente, interajam em instalações elétricas e serviços com eletricidade.",
-    "hours": "",
-    "price": ""
+    "slug": "nr-10-basico-ead"
   },
   {
     "name": "NR 10 Básico – Reciclagem",
     "url": "https://multimarinedobrasil.com.br/product/nr-10-basico-reciclagem/",
-    "slug": "nr-10-basico-reciclagem"
+    "slug": "nr-10-basico-reciclagem",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MWSS-172_practices_firefighting_skills_in_Central_Training_Area_(9795736).jpg",
+    "description": "Objetivo Capacitar os trabalhadores na implementação das medidas de controle e sistemas preventivos, de forma a garantir a segurança e saúde dos trabalhadores que, direta ou indiretamente, interajam em instalações elétricas e serviços com eletricidade.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "NR 10 Complementar – Sistema Elétrico de Potência (SEP)",
@@ -1300,16 +1300,16 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "NR 11 Sinalização, Amarração e Movimentação De Cargas",
     "url": "https://multimarinedobrasil.com.br/product/nr-11-sinalizacao-amarracao-e-movimentacao-de-cargas/",
-    "slug": "nr-11-sinalizacao-amarracao-e-movimentacao-de-cargas"
+    "slug": "nr-11-sinalizacao-amarracao-e-movimentacao-de-cargas",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Forklift_training_140918-Z-HT970-019.jpg",
+    "description": "Objetivo Capacitação para profissionais de movimentação de cargas que necessitem utilizar os sinais normativos para esta movimentação.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "NR 12 – PLANO DE MOVIMENTAÇÃO DE PESSOAS",
     "url": "https://multimarinedobrasil.com.br/product/plano-de-movimentacao-de-pessoas-nr12/",
-    "slug": "plano-de-movimentacao-de-pessoas-nr12",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MWSS-172_practices_firefighting_skills_in_Central_Training_Area_(9795736).jpg",
-    "description": "URL Source: https://multimarinedobrasil.com.br/product/plano-de-movimentacao-de-pessoas-nr12/ Markdown Content: Avaliação Qualitativa e Quantitativa Registro de Evidências Elaboração Relatório Técnico Conclusão Proposta Melhorias Emissão de A.R.T. e/ou C.R.T.",
-    "hours": "",
-    "price": ""
+    "slug": "plano-de-movimentacao-de-pessoas-nr12"
   },
   {
     "name": "NR 14 – FORNOS 40h",
@@ -1369,7 +1369,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Treinamento CIPA ou Designado Benzeno",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-cipa-ou-designado-benzeno/",
-    "slug": "treinamento-cipa-ou-designado-benzeno"
+    "slug": "treinamento-cipa-ou-designado-benzeno",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iraqi_OSV_Al_Basra_(401).jpg",
+    "description": "Carga Horária 0903 – Treinamento para membros da CIPA ou designado que opere(m) em PRC com combustíveis líquidos contendo benzeno Participantes sem experiência: Carga horária mínima = 40 horas/aula Participantes com experiência: Carga horária mínima = 16 horas/aula Atualização (Reciclagem): Carga horária mínima = 08 horas/aula Atualização (Reciclagem) : O empregador deve realizar treinamento periódico Anualmente e sempre que ocorrer quaisquer das seguintes situações: a) mudança nos procedimentos, condições ou operações de trabalho; b) evento que indique a necessidade de novo treinamento; c) retorno de afastamento ao trabalho por período superior a noventa dias; d) mudança de empresa; e) Troca de máquina ou equipamento. Certificado : Será expedido o Certificado para cada participante que atingir o aproveitamento mínimo de 70% (teórico e prático) conforme preconiza as Normas Regulamentadoras. Causas do Acidente Trabalho: Falta de cuidados do empregado; Falta de alerta do empregador; Mesmo efetuando todos os Treinamentos e Laudos obrigatórios de Segurança e Saúde do Trabalho em caso de acidente de trabalho o empregador estará sujeito a Processos tipo: 1- Inquérito Policial – Polícia Civil; 2- Perícia através Instituto Criminalista; 3- Procedimento de Apuração junto Delegacia Regional do Trabalho; 4- Inquérito Civil Público perante o Ministério Público do trabalho para verificação se os demais trabalhadores não estão correndo perigo; 5- O INSS questionará a causa do acidente que poderia ser evitado e se negar a efetuar o pagamento do benefício ao empregado; 6- Familiares poderão ingressar com Processo na Justiça do Trabalho pleiteando danos Morais, Materiais, Luxação, etc.; 7- Tsunami Processuais obrigando o Empregador a gerar Estratégia de Defesas mesmo estando certo; 8- Apesar da Lei da Delegação Trabalhista não prever que se aplica a “culpa en vigilando”, mas, apenas a responsabilidade de entregar o equipamento de treinamento.; 9- Não prever que se aplica a culpa em “culpa en vigilando” ao Empregador mas apenas a responsabilidade de entregar o equipamento de treinar, vale frisar que o Empregador também fica responsável em vigiar; 10- Quando ocorre um acidente além de destruir todo o “bom humor” das relações entre os empregados ou também o gravíssimo problema de se defender de uma série de procedimento ao mesmo tempo, então vale a pena investir nesta prevenção. Salientamos que o empregado não pode exercer atividades expostos a riscos que possam comprometer sua segurança e saúde. Sendo assim podem responder nas esferas criminal e civil, aqueles expõem os trabalhadores a tais riscos.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "TREINAMENTO DE INSTALAÇÕES ELÉTRICAS ENERGIZADAS",
@@ -1379,11 +1383,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "TREINAMENTO DE NR 31",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-de-nr-31/",
-    "slug": "treinamento-de-nr-31",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Worker_without_proper_safety_equipment.jpg",
-    "description": "9. Estabelecer os preceitos a serem observados na organização e no ambiente de trabalho, de forma a tornar compatível o planejamento e o desenvolvimento das atividades da agricultura, pecuária, silvicultura, exploração florestal e aquicultura com a segurança e saúde e meio ambiente do trabalho; Complementos para Máquinas e Equipamentos quando for o caso: Conscientização da Importância: Manual de Instrução de Operação da Máquina ou Equipamento; Plano de Inspeção e Manutenção da Máquina ou Equipamento seguindo a NR 12; Relatório Técnico com ART da Máquina ou Equipamento conforme NR 12; Teste de Carga (com ART) conforme NR 12; END (Ensaios Não Destrutivos) conforme NR 12; Ensaios Elétricos NR 10; Tagueamento de Máquinas e Equipamentos; RETROFIT – Processo de Modernização; Checklist Diário; Manutenções pontuais ou cíclicas.",
-    "hours": "",
-    "price": ""
+    "slug": "treinamento-de-nr-31"
   },
   {
     "name": "Treinamento Direção Defensiva nas Empresas",
@@ -1428,7 +1428,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Treinamento Periódico Trabalho Construção Civil",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-periodico-trabalho-construcao-civil/",
-    "slug": "treinamento-periodico-trabalho-construcao-civil"
+    "slug": "treinamento-periodico-trabalho-construcao-civil",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iraqi_OSV_Al_Basra_(401).jpg",
+    "description": "NOME TÉCNICO: TREINAMENTO CAPACITAÇÃO TRABALHO EM ALTURA PERIÓDICO BIENAL – NR18 SEGURANÇA E SAÚDE NO TRABALHO NA INDÚSTRIA DA CONSTRUÇÃO",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Treinamento Prevenção Emergência Química",
@@ -1448,11 +1452,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Treinamento Trabalho Altura",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-trabalho-altura/",
-    "slug": "treinamento-trabalho-altura",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iraqi_OSV_Al_Basra_(401).jpg",
-    "description": "NOME TÉCNICO: TREINAMENTO CAPACITAÇÃO SEGURANÇA NOS TRABALHOS EM ALTURA NÍVEL TRABALHADOR NR 35",
-    "hours": "",
-    "price": ""
+    "slug": "treinamento-trabalho-altura"
   },
   {
     "name": "urso Percepção Risco Liderança",
