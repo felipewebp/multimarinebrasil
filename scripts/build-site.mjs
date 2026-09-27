@@ -165,7 +165,7 @@ const courseHtml = c => {
     '<div class="fact"><small>ÁREA</small><strong>' + esc(cat) + '</strong></div></div></article>',
     '<aside class="cta-box"><h3>Quer confirmar esta turma?</h3><p>Consulte disponibilidade, modalidade, requisitos, datas e condições diretamente com a equipe.</p><a class="btn primary" href="' + whatsapp(c) + '" target="_blank" rel="noopener">FALAR NO WHATSAPP ↗</a></aside></div>',
     '<section class="final"><h2>Seu próximo passo começa aqui.</h2><p>Explore outras formações ou peça orientação para encontrar o caminho mais adequado ao seu objetivo.</p></section></main>',
-    contactBlock(), footer(), backScript, lead, trail, '</body></html>'
+    contactBlock(), footer(), backScript, lead, trail, attribution, '</body></html>'
   ].join("");
 };
 
