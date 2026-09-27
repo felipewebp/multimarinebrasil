@@ -113,16 +113,16 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso API RP 1188",
     "url": "https://multimarinedobrasil.com.br/product/curso-api-rp-1188/",
-    "slug": "curso-api-rp-1188",
-    "image": null,
-    "description": "Markdown Content: Curso API RP 1188? O objetivo do Curso API RP 1188 (Hazardous Liquid Pipeline Facilities Integrity Management) abrangem o gerenciamento de integridade das tubulações de líquidos perigosos em oleodutos. Fornece orientações sobre as determinações de impacto de área de alta consequência; a integração de dados; a identificação de ameaças; a avaliação de risco; a inspeção e reinspeção; as medidas preventivas e mitigadoras (preventive and mitigative measures – P&MM); e as medidas de desempenho. As instalações incluem os sistemas de tubulação do terminal e da estação de dutos dentro dos seus limites e inclui a tubulação fora do terreno. Como funciona um Oleoduto? O Oleoduto é um canal feito de tubos que transporta petróleo bruto ou produtos derivados do petróleo, como gasolina e diesel, de um lugar para outro. Eles são usados para transportar grandes quantidades de petróleo a longa distância, geralmente de campos de petróleo para refinarias ou portos. O funcionamento de um oleoduto é relativamente simples. O petróleo é bombeado para dentro do tubo através de estações de bombeamento ao longo do caminho. Essas estações são equipadas com grandes motores que empurram o petróleo através do tubo em alta velocidade. O petróleo viaja a uma taxa constante até o final do oleoduto, onde é armazenado ou enviado para outra instalação.",
-    "hours": "",
-    "price": ""
+    "slug": "curso-api-rp-1188"
   },
   {
     "name": "Curso Aprimoramento NBR 12313",
     "url": "https://multimarinedobrasil.com.br/product/curso-aprimoramento-nbr-12313/",
-    "slug": "curso-aprimoramento-nbr-12313"
+    "slug": "curso-aprimoramento-nbr-12313",
+    "image": "https://multimarinedobrasil.com.br/wp-content/uploads/woocommerce-placeholder.png",
+    "description": "Conteúdo Programático Normativo Curso Aprimoramento NBR 12313 Conteúdo Programático Normativo: Objetivo; Definições; Condições Gerais; Condições Específicas; Levantamento do Consumo de gás; Parâmetros e Metodologia de Cálculo; Requisitos de Tubos, Conexões, Válvulas, Medidores; Demais Normas Aplicáveis; Comissionamento e Procedimentos para drenagem do gás; Bloqueio duplo e descarga; Bloqueio de segurança; Câmara de Combustão; Câmara de processo; Chama de partida; Chama principal; Comissionamento; Controle alto/baixo; Controle liga/desliga; Controle modulante; Controle de proteção de chama; Desarme; Equipamentos de alta temperatura; Equipamentos de baixa temperatura; Estabelecimento da chama de partida; Interruptor de prova de posição; Intertravamento; Fonte: ABNT NBR 12313",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso Atmosfera Explosiva EX001",
@@ -182,16 +182,16 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Compliance Riscos Controles",
     "url": "https://multimarinedobrasil.com.br/product/curso-compliance-riscos-controles/",
-    "slug": "curso-compliance-riscos-controles"
+    "slug": "curso-compliance-riscos-controles",
+    "image": "https://multimarinedobrasil.com.br/wp-content/uploads/2024/01/cropped-5.jpg",
+    "description": "Qual é o Objetivo do Curso Aprimoramento para Compliance – Gestão de Riscos e Controles Internos? O objetivo deste Curso Aprimoramento para Compliance – Gestão de Riscos e Controles Internos é capacitar profissionais de Compliance e aqueles que desejam ingressar na área, fornecendo conhecimento abrangente sobre as práticas de gestão de riscos e controles internos, além de promover a compreensão das regulamentações e melhores práticas relacionadas ao Compliance. O que é uma Matriz de Riscos e como ela é usada na Gestão de Riscos? Uma matriz de riscos é uma ferramenta que ajuda a identificar e classificar riscos de acordo com sua probabilidade e impacto. Sendo utilizada na gestão de riscos para priorizar os riscos, permitindo que as organizações concentrem seus esforços na mitigação dos riscos mais críticos. Quais são os principais componentes de um Programa de Controles Internos Eficaz? Um Programa de Controles Internos Eficaz inclui os seguintes componentes: Ambiente de controle; Avaliação de riscos; Atividades de controle; Informação e comunicação; Monitoramento e revisão. Qual é a diferença entre Conformidade Legal e Conformidade Regulatória? A Conformidade Legal refere-se ao cumprimento das leis e regulamentos aplicáveis, enquanto a Conformidade Regulatória é específica para o cumprimento das regulamentações impostas por uma autoridade regulatória ou órgão governamental. Certificado Carga horária: 40 Horas Pré-Requisitos: Nível Técnico",
+    "hours": "40 Horas",
+    "price": ""
   },
   {
     "name": "Curso Controle Emissões Fugitivas",
     "url": "https://multimarinedobrasil.com.br/product/curso-controle-emissoes-fugitivas/",
-    "slug": "curso-controle-emissoes-fugitivas",
-    "image": null,
-    "description": "URL Source: https://multimarinedobrasil.com.br/product/curso-controle-emissoes-fugitivas/ Markdown Content: Qual o objetivo Curso Controle Emissões Fugitivas? O Curso de Controle de Emissões Fugitivas EPA-21 tem como intuito aprimorar o conhecimento dos profissionais que atuam em indústrias químicas, petroquímicas e de óleo e gás. Como objetivo de fornecer noções sobre a identificação e controle de vazamentos de compostos orgânicos voláteis (VOCs), substâncias químicas que podem causar impactos ambientais e à saúde humana. Durante o curso, os participantes aprenderão desde os conceitos básicos sobre VOCs até técnicas avançadas de detecção de vazamentos, permitindo que eles identifiquem as fontes de emissão de VOCs em suas empresas, selecionem as técnicas adequadas para monitorar as emissões, avaliem a eficiência das medidas de controle e cumpram as exigências legais relacionadas ao tema.",
-    "hours": "",
-    "price": ""
+    "slug": "curso-controle-emissoes-fugitivas"
   },
   {
     "name": "Curso Correia Transportadora",
@@ -246,7 +246,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso de Mecânica Industrial 60h",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-mecanica-industrial-60h/",
-    "slug": "curso-de-mecanica-industrial-60h"
+    "slug": "curso-de-mecanica-industrial-60h",
+    "image": "https://multimarinedobrasil.com.br/wp-content/uploads/2024/01/cropped-5.jpg",
+    "description": "Mecânico Industrial é o profissional que instala equipamentos mecânicos, realiza trabalhos de manutenção e reparação. Desenvolve desenhos e projetos de conjuntos mecânicos, conjuntos e ferramentas. O curso de Mecânica Industrial capacita profissionais da indústria capazes de operar, manter e instalar máquinas e equipamentos, proporcionando formação humanística, científica e tecnológica. A qualificação oferece condições de inserção no mercado de trabalho e possibilidade de especialização em diversas áreas.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso de Noções Básicas de Auxiliar de Veterinária e Pet Shop 60h",
@@ -256,11 +260,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso de Noções Básicas em Maqueiro 40h",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-nocoes-basicas-em-maqueiro-40h/",
-    "slug": "curso-de-nocoes-basicas-em-maqueiro-40h",
-    "image": "https://multimarinedobrasil.com.br/wp-content/uploads/2024/01/cropped-5.jpg",
-    "description": "Realizar o acolhimento e prestar assistência no transporte de pacientes no departamento médico do hospital. Essa é a função dos profissionais maqueiros, responsáveis ​​pelo transporte dos pacientes da enfermaria para os leitos, na sala de cirurgia, e pelo exame e transporte dos pacientes. O profissional realiza o transporte do paciente com segurança dentro das Unidades de Saúde, da cadeira de rodas para a maca, da maca para cama, para a mesa de exames, atendendo as solicitações da equipe de enfermagem. Este curso de Noções Básicas em Maqueiro abrange os principais conteúdos no que diz a respeito à profissão.",
-    "hours": "",
-    "price": ""
+    "slug": "curso-de-nocoes-basicas-em-maqueiro-40h"
   },
   {
     "name": "Curso de Noções de Proteção Radiológica 4h",
@@ -310,7 +310,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso de NR 20 – Segurança e Saúde no Trabalho com Inflamáveis e Combustíveis 40h",
     "url": "https://multimarinedobrasil.com.br/product/curso-de-nr-20-seguranca-e-saude-no-trabalho-com-inflamaveis-e-combustiveis-40h/",
-    "slug": "curso-de-nr-20-seguranca-e-saude-no-trabalho-com-inflamaveis-e-combustiveis-40h"
+    "slug": "curso-de-nr-20-seguranca-e-saude-no-trabalho-com-inflamaveis-e-combustiveis-40h",
+    "image": "https://multimarinedobrasil.com.br/wp-content/uploads/2024/01/cropped-5.jpg",
+    "description": "A Norma Regulamentadora 20 se consolidou muito bem como uma das mais importantes normas regulatórias introduzidas no Brasil. Em particular, esta norma diz respeito ao cuidado com líquidos inflamáveis ​​e inflamáveis, produtos esses que estão presentes no dia a dia da população mundial. A NR 20 – Segurança e Saúde no Trabalho com Inflamáveis e Combustíveis, introduziu o conceito de gestão de saúde e segurança no trabalho contra fatores de riscos de acidentes provenientes das atividades que envolvem o recebimento, armazenagem, manuseio e manipulação de inflamáveis e líquidos combustíveis, estabelecendo seus requisitos mínimos.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso de NR 23 – Proteção Contra Incêndios 40h",
@@ -325,11 +329,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso de NR 37 – Segurança e Saúde em Plataformas de Petróleo 60h",
     "url": "https://multimarinedobrasil.com.br/product/nr-37-60h/",
-    "slug": "nr-37-60h",
-    "image": "https://multimarinedobrasil.com.br/wp-content/uploads/2024/01/cropped-5.jpg",
-    "description": "O Curso de NR 37 – Segurança e Saúde em Plataformas de Petróleo , irá fornecer ao aluno, orientações fundamentais relacionados a Normas Regulamentadoras . A NR 37 é a primeira norma regulamentadora voltada aos trabalhadores de plataformas de petróleo. A proposta da criação é de 2013 e, após anos de discussão, o texto foi publicado no Diário Oficial da União em 21 de dezembro por meio da Portaria n. 1.186/2018. A norma “estabelece os requisitos mínimos de segurança, saúde e condições de vivência no trabalho a bordo de plataformas de petróleo em operação nas Águas Jurisdicionais Brasileiras – AJB”. As obrigações também se destinam às instalações de apoio e às unidades marítimas de manutenção.",
-    "hours": "",
-    "price": ""
+    "slug": "nr-37-60h"
   },
   {
     "name": "Curso de NR33 – Segurança e Saúde no Trabalho em Espaços Confinados 40h",
@@ -374,7 +374,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Energia Solar",
     "url": "https://multimarinedobrasil.com.br/product/curso-energia-solar/",
-    "slug": "curso-energia-solar"
+    "slug": "curso-energia-solar",
+    "image": null,
+    "description": "Markdown Content: O que é o curso energia solar? O curso sobre energia solar aborda o projeto e a instalação de sistemas de geração de energia elétrica a partir da luz solar. O curso inclui o dimensionamento do sistema, escolha dos equipamentos, instalação e manutenção, levando em consideração as normas e regulamentações aplicáveis. O objetivo é aprimorar os profissionais para projetar e instalar sistemas fotovoltaicos seguros, eficientes e de acordo com as normas técnicas vigentes. Os sistemas fotovoltaicos são uma excelente opção para quem busca uma fonte de energia limpa e renovável. Eles podem ser instalados em residências, empresas e indústrias, contribuindo para a redução do consumo de energia elétrica da rede pública e, consequentemente, para a redução dos custos com energia elétrica. Além disso, os sistemas fotovoltaicos podem gerar créditos de energia, que podem ser utilizados para abater o consumo de energia em outros pontos da rede Qual a limitação de potência ativa? O sistema fotovoltaico com potência nominal superior a 6 kW deve ser capaz de limitar a potência ativa injetada na rede por meio de telecomandos. Os valores de ajuste enviados por telecomando são expressos em porcentagem da potência nominal do sistema, em passos de amplitude máxima de 10 %. Se o sistema estiver com um nível de potência ativa inferior ao requerido, então não pode reduzir ainda mais sua potência ativa de saída. A potência ativa limitada pelo comando externo deve ser atingida no máximo dentro de 1 min após o recebimento do sinal, com tolerância de ± 2,5 % da potência nominal do sistema, respeitando as limitações da potência de entrada do sistema fotovoltaico.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso Equipamento Automotivo Combinado",
@@ -384,11 +388,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Extração Petróleo Intermediário",
     "url": "https://multimarinedobrasil.com.br/product/curso-extracao-petroleo-intermediario/",
-    "slug": "curso-extracao-petroleo-intermediario",
-    "image": null,
-    "description": "URL Source: https://multimarinedobrasil.com.br/product/curso-extracao-petroleo-intermediario/ Markdown Content: Como é o Curso Extração Petróleo Intermediário? O Curso Extração Petróleo Intermediário tem por objetivo o aprimoramento nos Trabalhos em Extração e Perfuração de Petróleo e Gás, visando dispor de proficiência operacional nas atividades que envolvem o Segmento Petroquímico com ênfase em Conhecimentos Técnicos em Perfuração e Extração de petróleo e gás a fim de propiciar ao trabalhador Segurança para que atividades sejam desenvolvidas em elevado nível de excelência em produtividade e em resultados operacionais, tendo portanto melhor aproveitamento de produtos e processos, consequentemente da técnica e segurança operacional para aqueles que operam diretamente bem como daqueles que estão ao seu redor além dos imprescindíveis preceitos de preservação ambiental e do patrimônio.",
-    "hours": "",
-    "price": ""
+    "slug": "curso-extracao-petroleo-intermediario"
   },
   {
     "name": "Curso Facility Management (FM)",
@@ -443,7 +443,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Instrutor de Paleteira",
     "url": "https://multimarinedobrasil.com.br/product/curso-instrutor-de-paleteira/",
-    "slug": "curso-instrutor-de-paleteira"
+    "slug": "curso-instrutor-de-paleteira",
+    "image": null,
+    "description": "URL Source: https://multimarinedobrasil.com.br/product/curso-instrutor-de-paleteira/ Markdown Content: Curso Instrutor de Paleteira A finalidade do Curso Instrutor de Paleteira tenciona capacitar instrutores em segurança na operação da Paleteira visando os conhecimentos teóricos e práticos de acordo com as normas colocando em primeiro lugar a saúde e segurança dos trabalhadores e do patrimônio da empresa.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso Instrutor de Ponte Rolante, Talha e Monovias",
@@ -453,11 +457,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Instrutor Espaço Confinado e NR 35",
     "url": "https://multimarinedobrasil.com.br/product/curso-instrutor-espaco-confinado-e-nr-35/",
-    "slug": "curso-instrutor-espaco-confinado-e-nr-35",
-    "image": null,
-    "description": "URL Source: https://multimarinedobrasil.com.br/product/curso-instrutor-espaco-confinado-e-nr-35/ Markdown Content: Curso Instrutor Espaço Confinado e NR 35 O Curso Instrutor Espaço Confinado e NR 35 em conformidade com as normas regulamentadoras e técnicas, visa capacitar o profissional para estabelecer estratégias de execuções proativas, de modo a consolidar as diretrizes específicas para instrutores de Espaço Confinado e Trabalho em Altura.",
-    "hours": "",
-    "price": ""
+    "slug": "curso-instrutor-espaco-confinado-e-nr-35"
   },
   {
     "name": "Curso Instrutor Guincho Plataforma Veicular",
@@ -507,7 +507,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Laudo Explosividade NR-33",
     "url": "https://multimarinedobrasil.com.br/product/curso-laudo-explosividade-nr-33/",
-    "slug": "curso-laudo-explosividade-nr-33"
+    "slug": "curso-laudo-explosividade-nr-33",
+    "image": null,
+    "description": "URL Source: https://multimarinedobrasil.com.br/product/curso-laudo-explosividade-nr-33/ Markdown Content: Qual o objetivo do Curso Como Fazer Laudo Explosividade em Espaços Confinados? O objetivo do curso de Laudo de Explosividade em Espaços Confinados é aprimorar o conhecimento dos profissionais para realização de análises de riscos e emissão de laudos de explosividade em ambientes confinados, visando a prevenção de acidentes e a garantia da segurança dos trabalhadores. Importante ressaltar que cada local de trabalho pode ter requisitos específicos de segurança, portanto, é fundamental consultar as normas e regulamentos aplicáveis ao seu país ou região, bem como as diretrizes estabelecidas pela empresa ou organização.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso Laudo Gases Gerador",
@@ -517,11 +521,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Laudo Gases Gerador",
     "url": "https://multimarinedobrasil.com.br/product/curso-laudo-gases-gerador-2/",
-    "slug": "curso-laudo-gases-gerador-2",
-    "image": null,
-    "description": "URL Source: https://multimarinedobrasil.com.br/product/curso-laudo-gases-gerador-2/ Markdown Content: Qual é o objetivo do Curso Laudo Gases Gerador? O objetivo do curso de Aprimoramento com Execução de Inspeção Técnica e Elaboração de Relatório Técnico de Emissão de Gases Atmosféricos(Odores Ambientais) de Grupo Gerador é capacitar profissionais para realizar inspeções técnicas de Análise Atmosféricas em geradores e elaborar relatórios técnicos referentes à emissão de gases atmosféricos, garantindo o cumprimento das normas ambientais e a segurança dos equipamentos. O curso tem como foco o aprimoramento das habilidades técnicas e práticas dos profissionais.",
-    "hours": "",
-    "price": ""
+    "slug": "curso-laudo-gases-gerador-2"
   },
   {
     "name": "Curso Lei Lucas Primeiros Socorros",
@@ -719,7 +719,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso PGR Empilhadeira",
     "url": "https://multimarinedobrasil.com.br/product/curso-pgr-empilhadeira/",
-    "slug": "curso-pgr-empilhadeira"
+    "slug": "curso-pgr-empilhadeira",
+    "image": null,
+    "description": "Markdown Content: Qual o objetivo do Curso PGR Empilhadeira? O objetivo do Curso Programa de Gerenciamento de Riscos (PGR) para Empilhadeira é capacitar os operadores de empilhadeiras a identificar e prevenir riscos associados a essa atividade, além de fornecer conhecimentos sobre as normas de segurança e prevenção de acidentes. Também serão abordas as boas práticas de operação e manutenção das empilhadeiras, bem como a importância do uso correto dos equipamentos de proteção individual (EPIs). PGR Empilhadeiras visa abordar soluções que determinem a neutralização dos elementos que podem propagar incidentes e/ou acidentes dentro de uma árvore de causas, bem como o controle posterior para que não voltem tais questões. O que é PGR? O Programa de Gerenciamento de Risco (PGR), assim como sugere o nome, é um programa adotado por diversas organizações com a ideia de gerenciar os riscos no local em que são exercidas as atividades. Há diferentes tipos de risco no âmbito profissional, dentre todas, podemos utilizar como exemplo os riscos biológicos, ergonômicos e de acidentes. O programa se baseia em, partindo da ciência em relação aos riscos, seja possível tomar medidas preventivas e encontrar soluções assegurando a saúde e integridade do trabalhador e do patrimônio.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso Pintura Industrial 200h",
@@ -743,7 +747,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Procedimentos Emergência",
     "url": "https://multimarinedobrasil.com.br/product/curso-procedimentos-emergencia/",
-    "slug": "curso-procedimentos-emergencia"
+    "slug": "curso-procedimentos-emergencia",
+    "image": null,
+    "description": "URL Source: https://multimarinedobrasil.com.br/product/curso-procedimentos-emergencia/ Markdown Content: Qual a importância do Curso Procedimentos Emergência? O Curso Procedimentos Emergência tem o intuito de instruir profissionais que realizam atividades com exposição ao risco de acidentes, incêndios e explosões por Combustíveis e Inflamáveis quanto aos procedimentos a serem executados em casos de emergência, métodos de proteção e prevenção contra acidentes.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso Programação CLP Nível 1",
@@ -798,11 +806,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Resgatista Líder",
     "url": "https://multimarinedobrasil.com.br/product/curso-resgatista-lider/",
-    "slug": "curso-resgatista-lider",
-    "image": "https://multimarinedobrasil.com.br/wp-content/uploads/2024/01/cropped-5.jpg",
-    "description": "NOME TÉCNICO: CURSO CAPACITAÇÃO RESGATE TÉCNICO LÍDER EM ALTURA E/OU ESPAÇO CONFINADO NR 33 E NR 35 – NÍVEL INTERMEDIÁRIO NBR 16710",
-    "hours": "",
-    "price": "R$750,00"
+    "slug": "curso-resgatista-lider"
   },
   {
     "name": "Curso Resgatista Líder Inglês",
@@ -812,7 +816,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Resgatista Operacional Inglês",
     "url": "https://multimarinedobrasil.com.br/product/curso-resgatista-operacional-ingles/",
-    "slug": "curso-resgatista-operacional-ingles"
+    "slug": "curso-resgatista-operacional-ingles",
+    "image": null,
+    "description": "URL Source: https://multimarinedobrasil.com.br/product/curso-resgatista-operacional-ingles/ Markdown Content: What is the purpose of the Operational Rescuer Course? The Operational Rescuer Course meets the requirements of the entry-level rescue qualification specified for the second level, for which the person is eligible to participate in a limited range of rescue at height and/or in confined spaces, positioned on a surface that requires that the person travels safely through individual protection movement restriction systems, fall arrest and positioning for vertical movement of victims and rescuers, in scenarios using assembled mechanical advantage systems, prefabricated or preassembled, safety systems manual or automatic rescue, and can also perform different progressions by means of rope, mechanical and electrical systems, specific for moving and rescuing people.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Curso Robô Mecânico Industrial",
@@ -867,11 +875,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Curso Utilização Extintores",
     "url": "https://multimarinedobrasil.com.br/product/curso-utilizacao-extintores/",
-    "slug": "curso-utilizacao-extintores",
-    "image": "https://multimarinedobrasil.com.br/wp-content/uploads/2024/01/cropped-5.jpg",
-    "description": "Conteúdo Programático Normativo Curso Utilização Extintores Tipos de extintores; Definições dos extintores de incêndio; Listagem e Etiquetagem; Identificação do Conteúdo; Extintor com Água e com Pó; Extintor com Espuma; Aplicação apropriada; Sistema de Classificação de Extintores; Riscos decorrentes das emergências com incêndio; Controle e combate a incêndios; Resposta ágil a emergências; Foco do Incêndio; Manuseio e Manutenção; Seleção de Equipamento Residencial de Extinção de Incêndio; Instalação de Extintores de Incêndio Portáteis; Marcações recomendadas para indicar a adequação do extintor de acordo com a classe de fogo; Análise do foco de incêndio; Perigos de Classe A; Perigos de Classe B; Perigos de Classe C; perigos de Classe D; Perigos de Classe K; Agentes de recarga; Manômetros; Análise dos sistemas de incêndio, Avaliação da carga do extintor; Examinação das condições do ambiente interno e externo; Verificação dos procedimentos de segurança;",
-    "hours": "",
-    "price": ""
+    "slug": "curso-utilizacao-extintores"
   },
   {
     "name": "Esterilização de Material de Saúde Bucal",
@@ -886,12 +890,20 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Higiene e a Saúde Bucal",
     "url": "https://multimarinedobrasil.com.br/product/higiene-e-a-saude-bucal/",
-    "slug": "higiene-e-a-saude-bucal"
+    "slug": "higiene-e-a-saude-bucal",
+    "image": "https://multimarinedobrasil.com.br/wp-content/uploads/2024/01/cropped-5.jpg",
+    "description": "Conteúdo: Saúde Bucal e Higiene Saúde Bucal Saúde Bucal e Diabetes Doenças Bucais Cárie Dental Higienização da Boca Câncer Bucal",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Içamento de Carga",
     "url": "https://multimarinedobrasil.com.br/product/icamento-de-carga/",
-    "slug": "icamento-de-carga"
+    "slug": "icamento-de-carga",
+    "image": "https://multimarinedobrasil.com.br/wp-content/uploads/2024/01/cropped-5.jpg",
+    "description": "Objetivo Capacitar os participantes para que possam identificar os perigos, controlar os riscos e as consequências associadas às atividades que envolvam içamento de carga.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Informática Avançada 60h",
@@ -936,11 +948,7 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Laudo Asbestos (Amianto)",
     "url": "https://multimarinedobrasil.com.br/product/laudo-asbestos-amianto/",
-    "slug": "laudo-asbestos-amianto",
-    "image": null,
-    "description": "Qual é o objetivo do Laudo de Asbestos(Amianto)? O objetivo Análise Técnica para verificação de Asbestos (Amianto) é identificar a presença de amianto em materiais ou ambientes, avaliar o risco à saúde das pessoas expostas e recomendar medidas de controle e prevenção para evitar a exposição ao amianto. O laudo é importante para garantir a segurança e saúde dos trabalhadores e usuários de edifícios e instalações que possam conter asbestos. Asbestos o que é? O amianto, também conhecido como asbesto, é uma fibra mineral natural que foi amplamente utilizada na indústria da construção civil e em outros setores devido às suas propriedades isolantes e resistência ao fogo.",
-    "hours": "",
-    "price": ""
+    "slug": "laudo-asbestos-amianto"
   },
   {
     "name": "Laudo Cabine Guindaste",
@@ -950,7 +958,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Laudo Caminhão Basculante",
     "url": "https://multimarinedobrasil.com.br/product/laudo-caminhao-basculante/",
-    "slug": "laudo-caminhao-basculante"
+    "slug": "laudo-caminhao-basculante",
+    "image": null,
+    "description": "URL Source: https://multimarinedobrasil.com.br/product/laudo-caminhao-basculante/ A Elaboração do Relatório Técnico, obrigatoriamente, é o primeiro procedimento a ser realizado, porque determinará, juntamente com o Plano de Manutenção e Inspeção, os procedimentos de manutenção preventiva, preditiva, corretiva e detectiva, que deverão ser executados conforme determinam as normas técnicas e legislações pertinentes.",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Laudo Caminhão Munk",
@@ -1010,16 +1022,16 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Laudo de Esterilizador",
     "url": "https://multimarinedobrasil.com.br/product/laudo-de-esterilizador/",
-    "slug": "laudo-de-esterilizador",
-    "image": "https://multimarinedobrasil.com.br/wp-content/uploads/2024/01/cropped-5.jpg",
-    "description": "NOME TÉCNICO: EXECUÇÃO DE INSPEÇÃO EM ESTERILIZADOR E ELABORAÇÃO RELATÓRIO TÉCNICO DE ESTERILIZAÇÃO – ESTERILIZADOR PEQUENO A VAPOR DE ÁGUA – REQUISITOS E MÉTODOS DE ENSAIO NBR 11817 + EMISSÃO DE ART",
-    "hours": "",
-    "price": ""
+    "slug": "laudo-de-esterilizador"
   },
   {
     "name": "Laudo de Fumaça Preta",
     "url": "https://multimarinedobrasil.com.br/product/laudo-de-fumaca-preta/",
-    "slug": "laudo-de-fumaca-preta"
+    "slug": "laudo-de-fumaca-preta",
+    "image": "https://multimarinedobrasil.com.br/wp-content/uploads/2024/01/cropped-5.jpg",
+    "description": "NOME TÉCNICO: EXECUÇÃO DE INSPEÇÃO TÉCNICA DE FUMAÇA PRETA E DENSIDADE COLORIMÉTRICA CONFORME IBAMA 85/96 E ABNT NBR 7027 + ELABORAÇÃO DE RELATÓRIO TÉCNICO + EMISSÕES DA ART",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Laudo de Gerador",
@@ -1079,16 +1091,16 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Laudo Grua Aterramento",
     "url": "https://multimarinedobrasil.com.br/product/laudo-grua-aterramento/",
-    "slug": "laudo-grua-aterramento",
-    "image": null,
-    "description": "Markdown Content: Qual o objetivo do Laudo Grua Aterramento? O Laudo Grua Aterramento tem como objetivo a inspeção do equipamento visando verificar as conformidades e inconformidades da Grua atestando se a mesma está ou não em perfeitas condições de operação, sendo fundamental que o equipamento esteja em adequação ao que as normas preconizam para garantir a segurança e integridade dos envolvidos. O que é Grua? Grua é um equipamento muito utilizada para movimentação de cargas e materiais, sendo equipamento aéreo acoplado e capaz de movimentar grandes cargas.Consiste em motores possantes com roldanas acopladas a um ou mais cabos de alta resistência.",
-    "hours": "",
-    "price": ""
+    "slug": "laudo-grua-aterramento"
   },
   {
     "name": "Laudo Guindaste Articulado Hidráulico",
     "url": "https://multimarinedobrasil.com.br/product/laudo-guindaste-articulado-hidraulico/",
-    "slug": "laudo-guindaste-articulado-hidraulico"
+    "slug": "laudo-guindaste-articulado-hidraulico",
+    "image": "https://multimarinedobrasil.com.br/wp-content/uploads/2024/01/cropped-5.jpg",
+    "description": "NOME TÉCNICO: EXECUÇÃO DE INSPEÇÃO TÉCNICA DE GUINDASTE ARTICULADO HIDRÁULICO COM OU SEM CESTO ACOPLADO + ELABORAÇÃO DE RELATÓRIO TÉCNICO + EMISSÃO DA ART",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "Laudo Guindaste Esteira",
@@ -1370,7 +1382,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "TREINAMENTO DE INSTALAÇÕES ELÉTRICAS ENERGIZADAS",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-de-instalacoes-eletricas-energizadas/",
-    "slug": "treinamento-de-instalacoes-eletricas-energizadas"
+    "slug": "treinamento-de-instalacoes-eletricas-energizadas",
+    "image": "https://multimarinedobrasil.com.br/wp-content/uploads/2022/03/ELECTRICAL.webp",
+    "description": "TREINAMENTO DE INSTALAÇÕES ELÉTRICAS ENERGIZADAS Treinamento de Instalações Elétricas Energizadas Treinamento de Instalações Elétricas Energizadas tem como objetivo instruir, conscientizar e capacitar os profissionais quanto a execução correta de trabalhos envolvendo instalações elétricas energizadas conforme o padrão eSocial, o treinamento deve ser ministrado por PLH visando garantir a saúde e segurança de todos os envolvidos. O que são Instalações Elétricas? As operações elementares, como ligar e desligar circuitos elétricos, realizadas em baixa tensão, com materiais e equipamentos elétricos em perfeito estado de conservação, adequados para operação, podem ser realizadas por qualquer pessoa não advertida. Instalações elétricas são a implementação física efetiva entre a fonte geradora de energia elétrica e as cargas elétricas. Certificado Carga horária: 40 Horas Pré-Requisito: Alfabetização CONTEÚDO PROGRAMÁTICO Treinamento de Instalações Elétricas Energizadas TREINAMENTO 1. CURSO BÁSICO – SEGURANÇA EM INSTALAÇÕES E SERVIÇOS COM ELETRICIDADE I – Para os trabalhadores autorizados: carga horária mínima – 40h: Programação Mínima: 1. introdução à segurança com eletricidade. 2. riscos em instalações e serviços com eletricidade: a) o choque elétrico, mecanismos e efeitos; b) arcos elétricos; queimaduras e quedas; c) campos eletromagnéticos. 3. Técnicas de Análise de Risco. 4. Medidas de Controle do Risco Elétrico: a) desenergização. b) aterramento funcional (TN / TT / IT); de proteção; temporário; c) equipotencialização; d) seccionamento automático da alimentação; e) dispositivos a corrente de fuga; f) extra baixa tensão; g) barreiras e invólucros; h) bloqueios e impedimentos; i) obstáculos e anteparos; j) isolamento das partes vivas; k) isolação dupla ou reforçada; l) colocação fora de alcance; m) separação elétrica. 5. Normas Técnicas Brasileiras – NBR da ABNT: NBR-5410, NBR 14039 e outras; 6. Regulamentações do MTE: a) NRs; b) NR-10 (Segurança em Instalações e Serviços com Eletricidade); c) qualificação; habilitação; capacitação e autorização. 7. Equipamentos de proteção coletiva. 8. Equipamentos de proteção individual. 9. Rotinas de trabalho – Procedimentos. a) instalações desenergizadas; b) liberação para serviços; c) sinalização; d) inspeções de áreas, serviços, ferramental e equipamento; 10. Documentação de instalações elétricas. 11. Riscos adicionais: a) altura; b) ambientes confinados; c) áreas classificadas; d) umidade; e) condições atmosféricas. 12. Proteção e combate a incêndios: a) noções básicas; b) medidas preventivas; c) métodos de extinção; d) prática; 13 13. Acidentes de origem elétrica: a) causas diretas e indiretas; b) discussão de casos; 14. Primeiros socorros: a) noções sobre lesões; b) priorização do atendimento; c) aplicação de respiração artificial; d) massagem cardíaca; e) técnicas para remoção e transporte de acidentados; f) práticas. 15. Responsabilidades; Exercícios práticos; Percepção dos riscos e fatores que afetam as percepções das pessoas; Impacto e fatores comportamentais na segurança; Fator medo; Consequências da Habituação do risco; A importância do conhecimento da tarefa; Entendimentos sobre Ergonomia; Análise de posto de trabalho; Riscos ergonômicos; Avaliação Teórica e Prática; Certificado de Participação. CARGA HORÁRIA Participantes sem experiência: Carga horária mínima = 40 horas/aula Participantes com experiência: Carga horária mínima = 40 horas/aula Atualização (Reciclagem): Carga horária mínima = 20 horas/aula Atualização (Reciclagem): O empregador deve realizar treinamento periódico Anualmente e sempre que ocorrer quaisquer das seguintes situações: a) mudança nos procedimentos, condições ou operações de trabalho; b) evento que indique a necessidade de novo treinamento; c) retorno de afastamento ao trabalho por período superior a noventa dias; d) mudança de empresa; e) Troca de máquina ou equipamento. NR 18.14.2.1 Os operadores devem ter ensino fundamental completo e devem receber qualificação e treinamento específico no equipamento , com carga horária mínima de dezesseis horas e atualização anual com carga horária mínima de quatro horas.",
+    "hours": "40 Horas",
+    "price": ""
   },
   {
     "name": "TREINAMENTO DE NR 31",
@@ -1380,47 +1396,27 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Treinamento Direção Defensiva nas Empresas",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-direcao-defensiva-nas-empresas/",
-    "slug": "treinamento-direcao-defensiva-nas-empresas",
-    "image": null,
-    "description": "URL Source: https://multimarinedobrasil.com.br/product/treinamento-direcao-defensiva-nas-empresas/ Markdown Content: Qual o objetivo do Treinamento Direção Defensiva nas Empresas? O Treinamento de Direção Defensiva tem como objetivo aprimorar as habilidades dos condutores para prevenir acidentes de trânsito, por meio da adoção de técnicas e comportamentos seguros. Embora não seja obrigatório por lei, algumas empresas e instituições podem exigir que seus funcionários realizem esse tipo de treinamento como medida de segurança. É importante ressaltar que investir em treinamentos de direção defensiva pode trazer diversos benefícios, como a redução de custos com acidentes, a preservação da vida dos condutores e a melhoria da imagem da empresa.",
-    "hours": "",
-    "price": ""
+    "slug": "treinamento-direcao-defensiva-nas-empresas"
   },
   {
     "name": "Treinamento e Desenvolvimento 40h",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-e-desenvolvimento-40h/",
-    "slug": "treinamento-e-desenvolvimento-40h",
-    "image": "https://multimarinedobrasil.com.br/wp-content/uploads/2024/01/cropped-5.jpg",
-    "description": "Aperfeiçoar profissionais do eixo Gestão e Negócios em Treinamento e Desenvolvimento, focando no trabalho em equipe e em como colocar em prática os conceitos de T&D, reconhecendo as necessidades organizacionais e avaliando os tipos de programas e abordagens com foco em resultados e excelência",
-    "hours": "",
-    "price": ""
+    "slug": "treinamento-e-desenvolvimento-40h"
   },
   {
     "name": "Treinamento Elevadores Eólicas",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-elevadores-eolicas/",
-    "slug": "treinamento-elevadores-eolicas",
-    "image": null,
-    "description": "URL Source: https://multimarinedobrasil.com.br/product/treinamento-elevadores-eolicas/ Markdown Content: Como é o Treinamento Elevadores Eólicas? O Treinamento Aprimoramento Operação de Elevadores Torres Eólicas, Guiado por Escada ou por Cabo de Aço apresenta requisitos de segurança essenciais, e regulamentos técnicos aplicáveis para acesso, uso seguro e em elevadores para Torres Eólicas que não podem ser ignorados.",
-    "hours": "",
-    "price": ""
+    "slug": "treinamento-elevadores-eolicas"
   },
   {
     "name": "Treinamento Introdutório NR 22",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-introdutorio-nr-22/",
-    "slug": "treinamento-introdutorio-nr-22",
-    "image": "https://multimarinedobrasil.com.br/wp-content/uploads/2024/01/cropped-5.jpg",
-    "description": "NOME TÉCNICO: TREINAMENTO INTRODUTÓRIO GERAL COM RECONHECIMENTO DO AMBIENTE DE TRABALHO NR 22",
-    "hours": "",
-    "price": "R$750,00"
+    "slug": "treinamento-introdutorio-nr-22"
   },
   {
     "name": "TREINAMENTO MEMBROS DA CIPA",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-membros-da-cipa/",
-    "slug": "treinamento-membros-da-cipa",
-    "image": null,
-    "description": "URL Source: https://multimarinedobrasil.com.br/product/treinamento-membros-da-cipa/ O 0501 – Treinamento Membros da CIPA tem como objetivo a prevenção de acidentes e doenças decorrentes do trabalho, de modo a tornar compatível permanentemente o trabalho com a preservação da vida e a promoção da saúde do trabalhador.",
-    "hours": "20 Horas",
-    "price": ""
+    "slug": "treinamento-membros-da-cipa"
   },
   {
     "name": "TREINAMENTO OPERADOR EQUIPAMENTOS COM FORÇA MOTRIZ PRÓPRIA",
@@ -1460,7 +1456,11 @@ window.MULTIMARINE_COURSES = [
   {
     "name": "Treinamento Trabalho Altura",
     "url": "https://multimarinedobrasil.com.br/product/treinamento-trabalho-altura/",
-    "slug": "treinamento-trabalho-altura"
+    "slug": "treinamento-trabalho-altura",
+    "image": "https://multimarinedobrasil.com.br/wp-content/uploads/2024/01/cropped-5.jpg",
+    "description": "NOME TÉCNICO: TREINAMENTO CAPACITAÇÃO SEGURANÇA NOS TRABALHOS EM ALTURA NÍVEL TRABALHADOR NR 35",
+    "hours": "",
+    "price": ""
   },
   {
     "name": "urso Percepção Risco Liderança",
