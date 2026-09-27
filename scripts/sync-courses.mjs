@@ -3,6 +3,11 @@ import fs from "node:fs/promises";
 const SITE = "https://multimarinedobrasil.com.br";
 const READER = "https://r.jina.ai/";
 const courses = new Map();
+const existingRaw = await fs.readFile("courses-data.js", "utf8").catch(() => "");
+const existingStart = existingRaw.indexOf("[");
+const existingEnd = existingRaw.lastIndexOf("]");
+const existingCourses = existingStart >= 0 && existingEnd >= 0 ? JSON.parse(existingRaw.slice(existingStart, existingEnd + 1)) : [];
+const existingBySlug = new Map(existingCourses.filter(c => c.slug).map(c => [c.slug, c]));
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -154,7 +159,16 @@ for (let page = 1; page <= 17; page++) {
   for (const m of md.matchAll(re)) {
     const name = clean(m[1]);
     const link = abs(m[2]);
-    if (name && link) courses.set(link, { name, url: link, slug: slug(link) });
+    if (name && link) {
+    const courseSlug = slug(link);
+    const previous = existingBySlug.get(courseSlug);
+    courses.set(link, {
+      ...(previous || {}),
+      name: previous?.name || name,
+      url: link,
+      slug: courseSlug
+    });
+  }
   }
 
   console.log(`Página ${page}: ${courses.size} acumulados`);
@@ -168,7 +182,19 @@ if (courses.size < 200) {
 const list = [...courses.values()];
 let done = 0;
 
+const newCourses = list.filter(course => !existingBySlug.has(course.slug));
+console.log("Cursos novos a detalhar: " + newCourses.length + ". Cursos existentes serão preservados.");
+
 for (const course of list) {
+  if (existingBySlug.has(course.slug)) {
+    course.image = CURATED_IMAGES[course.slug] || course.image || pickImage(course);
+    course.description = course.description || "";
+    course.hours = course.hours || "";
+    course.price = course.price || "";
+    done++;
+    if (done % 50 === 0) console.log("Preservados: " + done + "/" + list.length);
+    continue;
+  }
   try {
     const md = await reader(course.url);
 
