@@ -201,7 +201,7 @@ const categoryHtml = key => {
     '<header class="top"><a class="brand brand-mm" href="' + ORIGIN + '/"><img class="brand-logo-mm" src="' + OFFICIAL_LOGO + '" alt="MultiMarine do Brasil"></a><a class="back" href="' + ORIGIN + '/cursos.html">← TODOS OS CURSOS</a></header>',
     '<section class="hero"><div class="hero-inner"><span class="kicker">CATÁLOGO · MACAÉ/RJ</span><h1>' + esc(title) + '</h1><p>' + esc(desc) + ' Encontre sua formação e fale com a equipe para confirmar turma, modalidade e disponibilidade.</p></div></section>',
     '<main class="wrap"><div class="category-grid">' + items + '</div></main>',
-    contactBlock(), footer(), lead, '</body></html>'
+    contactBlock(), footer(), lead, trail, attribution, '</body></html>'
   ].join("");
 };
 
