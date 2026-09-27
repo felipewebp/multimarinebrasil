@@ -53,8 +53,8 @@ function pickImage(course) {
     ],
     crane: ["https://commons.wikimedia.org/wiki/Special:FilePath/NMCB-5_Equipment_Operator_Conducts_Crane_Familiarization_Training_(9878736).jpg"],
     logistics: [
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Forklift_training_140918-Z-HT970-019.jpg",
-      "https://commons.wikimedia.org/wiki/Special:FilePath/161st_Logistics_Readiness_Squadron_Ground_Transportation_Specialist_Conducts_Forklift_Training_at_Aviano_Air_Base_(9770708).jpg"
+      "https://images.pexels.com/photos/5100048/pexels-photo-5100048.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "https://images.pexels.com/photos/5100049/pexels-photo-5100049.jpeg?auto=compress&cs=tinysrgb&w=1600"
     ],
     health: [
       "https://commons.wikimedia.org/wiki/Special:FilePath/Basic_first_aid_training_130219-N-PF210-358.jpg",
